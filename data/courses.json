@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-04-09",
+  "academicYear": "2025-2026",
+  "categories": {
+    "Art": {
+      "name": "Art",
+      "courses": [
+        {
+          "courseNumber": "VA-510-1",
+          "name": "Art II: Developing Ideas in Media - G/T",
+          "isWeighted": true,
+          "courseLevel": "G/T",
+          "credits": 1.0,
+          "description": "This course challenges students to refine their skills in visual arts media exploration and creative problem solving. These problems become increasingly complex and require students to draw upon knowledge of both traditional and contemporary art from diverse cultures.",
+          "prerequisites": "Art I or application and portfolio review",
+          "gradeLevel": "9, 10, 11, 12"
+        }
+      ]
+    }
+  }
+} 

@@ -1,69 +1,24 @@
-# HCPSSCompass Course Data Repository
+# HCPSSCompass Course Data - GitHub Pages
 
-This repository contains the course data for HCPSSCompass, serving as the single source of truth for course information used by both the iOS app and website.
+This directory contains the files for the GitHub Pages website that provides access to the HCPSSCompass course data.
 
-## Repository Structure
+## Files
 
-```
-HCPSSCompass-course-data/
-├── data/                  # Course data in JSON format
-│   └── courses.json       # Current academic year's course data
-├── github_pages/          # GitHub Pages website files
-│   ├── index.html         # Landing page
-│   └── README.md          # GitHub Pages documentation
-└── README.md              # This file
-```
+- `index.html`: The main landing page for the GitHub Pages site
+  - Displays current academic year
+  - Provides access to course data
+  - Shows repository information
 
-## Data Format
+## Accessing the Data
 
-The course data is stored in JSON format with the following structure:
+The course data can be accessed via:
+- Web Interface: `https://[username].github.io/HCPSSCompass-course-data/`
+- JSON Data: `https://[username].github.io/HCPSSCompass-course-data/data/courses.json`
 
-```json
-{
-  "version": "1.0.0",
-  "lastUpdated": "YYYY-MM-DD",
-  "academicYear": "YYYY-YYYY",
-  "categories": {
-    "CategoryName": {
-      "name": "Category Name",
-      "courses": [
-        {
-          "courseNumber": "XX-XXX-X",
-          "name": "Course Name",
-          "isWeighted": true,
-          "courseLevel": "Level",
-          "credits": 1.0,
-          "description": "Course description",
-          "prerequisites": "Prerequisites",
-          "gradeLevel": "Grade levels"
-        }
-      ]
-    }
-  }
-}
-```
+## Development
 
-## Academic Years
-
-The course data is organized by academic year (e.g., "2025-2026"). Each year's course catalog may be updated to reflect:
-- New courses
-- Course changes
-- Prerequisite updates
-- Credit modifications
-
-## Usage
-
-The data can be accessed via GitHub Pages at:
-`https://[username].github.io/HCPSSCompass-course-data/data/courses.json`
-
-## Contributing
-
-Course data updates should be made through the iOS app's export functionality. When updating for a new academic year:
-1. Create a new branch for the academic year
-2. Update the course data
-3. Update the academicYear field
-4. Submit a pull request for review
-
-## GitHub Pages
-
-The GitHub Pages site is located in the `github_pages` directory. It provides a web interface to view and access the course data. 
+To modify the GitHub Pages site:
+1. Edit the `index.html` file
+2. Test changes locally
+3. Commit and push changes
+4. GitHub Pages will automatically deploy the updates 

@@ -1,0 +1,55 @@
+{
+  "name": "PLTWEngineering",
+  "courses": [
+    {
+      "courseNumber": "CT-805-1",
+      "name": "PLTW Introduction to Engineering Design - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "It is recommended that students complete Algebra I prior to enrolling in this course.",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "CT-815-1",
+      "name": "PLTW Principles of Engineering - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course is a hands-on course that helps the student understand the field of engineering and engineering technology. Students design",
+      "prerequisites": "PLTW Introduction to Engineering Design - G/T",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "CT-835-1",
+      "name": "PLTW Computer Integrated Manufacturing - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course applies principles of robotics and automation and builds on computer solid modeling skills developed in Introduction to Engineering Design. Students use computer-controlled equipment to produce models of three-dimensional designs. Fundamental concepts of robotics used in automated manufacturing and design analysis are included.",
+      "prerequisites": "PLTW Introduction to Engineering Design - G/T",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "CT-825-1",
+      "name": "PLTW Digital Electronics - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students use computer simulations to learn about the logic of electronics while they design",
+      "prerequisites": "It is recommended that students complete Algebra II prior to enrolling in this course.",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "CT-845-1",
+      "name": "PLTW Engineering Design and Development - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Teams of students",
+      "prerequisites": "PLTW Introduction to Engineering Design - G/T",
+      "gradeLevel": "12"
+    }
+  ]
+}

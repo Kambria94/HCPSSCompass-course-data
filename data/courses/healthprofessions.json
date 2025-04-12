@@ -1,0 +1,59 @@
+{
+  "name": "HealthProfessions",
+  "courses": [
+    {
+      "courseNumber": "CT-760-2",
+      "name": "Foundations of Health Care - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 2,
+      "description": "This course provides students with an overview of healthcare professions and organizations. Emphasis is placed on learning about health careers",
+      "prerequisites": "Biology",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-763-3",
+      "name": "Certified Clinical Medical Assistant - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 3,
+      "description": "The Certified Clinical Medical Assistant (CCMA"
+    },
+    {
+      "courseNumber": "CT-765-3",
+      "name": "Certified Nursing Assistant/Patient Care Technician",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 3,
+      "description": "This Certified Nursing Assistant (CNA"
+    },
+    {
+      "courseNumber": "CT-762-3",
+      "name": "Clinical Research in Allied Health - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 3,
+      "description": "Students will participate in a pre-approved health related certification training program. Students must provide their own transportation to the internship site.",
+      "prerequisites": "Foundations of Health Care - Honors and recommendation by instructor",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "CT-766-3",
+      "name": "Emergency Medical Technician",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 3,
+      "description": "The Emergency Medical Technician Academy is the result of a partnership between Howard County Public Schools and Howard County Department of Fire and Rescue Services. The Emergency Medical Technician National Registry EMT (NREMT"
+    },
+    {
+      "courseNumber": "CT-768-3",
+      "name": "Physical Rehabilitation - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 3,
+      "description": "The Physical Rehabilitation course is designed to expose students to varied careers related to the physical and occupational therapy field. This course integrates concepts of physical therapy",
+      "prerequisites": "Foundations of Healthcare - Honors",
+      "gradeLevel": "12"
+    }
+  ]
+}

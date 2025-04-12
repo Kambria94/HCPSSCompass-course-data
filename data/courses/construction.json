@@ -1,0 +1,25 @@
+{
+  "name": "Construction",
+  "courses": [
+    {
+      "courseNumber": "CT-740-2",
+      "name": "Construction Technology I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 2,
+      "description": "Students apply architectural engineering",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-742-3",
+      "name": "Construction Technology II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 3,
+      "description": "This course completes the Construction Academy coursework. Students may either participate in a skills based internship or remain on campus to complete the advanced course curriculum. Students who participate in an internship are required to complete at least 6-8 hours per week at their internship site and must provide their own transportation to the internship site.",
+      "prerequisites": "Construction Technology I",
+      "gradeLevel": "12"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Apprenticeship",
+  "courses": [
+    {
+      "courseNumber": "CT-590-1",
+      "name": "Apprenticeship Industry Instruction",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course provides industry related training which takes place outside of HCPSS. This training includes technical and employability skills and increased knowledge of the World of Work. Instruction is individualized and may be received through the employer",
+      "prerequisites": "Job interview and offer",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "CT-595-3",
+      "name": "Apprenticeship Work-based Learning",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 3,
+      "description": "The Apprenticeship Maryland Academy is coordinated through a partnership between the Maryland State Department of Education (MSDE"
+    }
+  ]
+}

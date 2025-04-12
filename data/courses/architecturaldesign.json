@@ -1,0 +1,25 @@
+{
+  "name": "ArchitecturalDesign",
+  "courses": [
+    {
+      "courseNumber": "CT-730-2",
+      "name": "Architectural Design",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 2,
+      "description": "This course will introduce the basic principles and methods of design as applied to architecture. Basic design theories and strategies related to the development of spatial concepts in architectural design including composition",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-734-3",
+      "name": "Advanced Architectural Design - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 3,
+      "description": "This course is now aligned with the new MSDE Program of Study",
+      "prerequisites": "Architectural Design",
+      "gradeLevel": "12"
+    }
+  ]
+}

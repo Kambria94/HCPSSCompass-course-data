@@ -1,0 +1,25 @@
+{
+  "name": "Biotechnology",
+  "courses": [
+    {
+      "courseNumber": "CT-645-2",
+      "name": "Biotechnology I - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 2,
+      "description": "This course is targeted to students who plan on pursuing a career related to Biology. Strong mathematics and science skills are critical to student success in Biotechnology Academy courses. Students will develop a strong foundation in molecular biology",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-655-3",
+      "name": "Biotechnology II - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 3,
+      "description": "This course completes the Biotechnology Academy coursework. Students may either participate in a school year-long site-based research internship or remain on campus to complete the advanced course curriculum and a semester-long research project. Students who participate in the site-based internship are required to complete at least 6-8 hours per week at their internship site and must provide their own transportation to the internship site. Students who remain on campus apply skills and knowledge from Biotechnology I - G/T to advanced research and complex topics in biotechnology. Topics include",
+      "prerequisites": "Biotechnology I - G/T",
+      "gradeLevel": "12"
+    }
+  ]
+}

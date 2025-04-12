@@ -1,0 +1,49 @@
+{
+  "name": "TeacherAcademy",
+  "courses": [
+    {
+      "courseNumber": "CT-924-1",
+      "name": "Foundations of Curriculum and Instruction",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course focuses on curriculum delivery models in response to the developmental needs of children and adolescents. Emphasis is placed on the development of instructional materials and activities to promote learning",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "CT-922-CC",
+      "name": "Human Growth and Development - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course is designed for students interested in working with children in a variety of careers. It focuses on the major theories of child development and learning. Practical experience is gained by observation of and interaction with young children. Students must be in at least the 10th grade. Students who complete Human Growth and Development and Foundations of Curriculum and Instruction with a B or higher may be eligible for college credits at HCC.",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "CT-925-CC",
+      "name": "Teaching as a Profession - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Required for all Teacher Academy of Maryland (TAM"
+    },
+    {
+      "courseNumber": "CT-926-1",
+      "name": "Child Development Associate Portfolio and Internship 1 - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "The high school-based Child Development Associate (CDA"
+    },
+    {
+      "courseNumber": "CT-927-1",
+      "name": "Field Experience in Education - G/T (1 credit"
+    },
+    {
+      "courseNumber": "CT-927-2",
+      "name": "Field Experience in Education - G/T (2 credits"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "AdvancedResearch",
+  "courses": [
+    {
+      "courseNumber": "GT-400-1",
+      "name": "Independent Research I - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Independent Research is a college-level course in which students design an original research study or creative production in self-selected areas of interest. Students learn advanced-level research methodologies and college-level writing and oral presentation skills. Under the guidance of the G/T resource teacher",
+      "prerequisites": "Application and teacher recommendations",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "GT-410-1",
+      "name": "Independent Research II - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Independent Research II is a second-level course for students wishing to continue their research or creative production. Students learn advanced-level research methodologies and college-level writing and oral presentation skills. Under the guidance of the G/T resource teacher",
+      "prerequisites": "Independent Research I - G/T and teacher recommendations",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "GT-420-1",
+      "name": "Independent Research III - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Independent Research III is a third-level course for students wishing to continue their research or creative production. Students learn advanced-level research methodologies and college-level writing and oral presentation skills. Under the guidance of the G/T resource teacher",
+      "prerequisites": "Independent Research II - G/T and teacher recommendations",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "GT-430-1",
+      "name": "Intern/Mentor Program I - G/T (1 credit"
+    },
+    {
+      "courseNumber": "GT-440-2",
+      "name": "Intern/Mentor Program I - G/T (2 credits"
+    },
+    {
+      "courseNumber": "GT-450-1",
+      "name": "Intern/Mentor Program II - G/T (1 credit"
+    },
+    {
+      "courseNumber": "GT-460-2",
+      "name": "Intern/Mentor Program II - G/T (2 credits"
+    }
+  ]
+}

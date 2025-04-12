@@ -1,0 +1,51 @@
+{
+  "name": "AccountingBusinessMarketing",
+  "courses": [
+    {
+      "courseNumber": "CT-415-CC",
+      "name": "Principles of Business and Management - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This fast-paced"
+    },
+    {
+      "courseNumber": "CT-420-1",
+      "name": "Principles of Accounting and Finance - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course provides students with skills necessary to manage and maintain a company's financial resources and use those to make daily operating decisions. Learning experiences are designed to enable students to determine the value of assets",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "CT-430-1",
+      "name": "Advanced Accounting and Finance - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course provides students with knowledge and skills needed for college and career readiness. Topics include",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-440-1",
+      "name": "Advanced Business Management - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course focuses on the role of business in society"
+    },
+    {
+      "courseNumber": "CT-450-1",
+      "name": "Principles of Marketing - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course introduces students to marketing principles including market analysis",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    }
+  ]
+}

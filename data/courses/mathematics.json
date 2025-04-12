@@ -1,0 +1,272 @@
+{
+  "name": "Mathematics",
+  "courses": [
+    {
+      "courseNumber": "MA-401-1",
+      "name": "Algebra I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course focuses on the mastery of five critical areas"
+    },
+    {
+      "courseNumber": "MA-400-8",
+      "name": "Algebra I Seminar",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "Algebra I Seminar is an elective course for students concurrently enrolled in Algebra I. The course provides students with additional instructional time to master content",
+      "prerequisites": "Concurrent enrollment in Algebra I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MA-400-1",
+      "name": "Algebra I Seminar",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Algebra I Seminar is an elective course for students concurrently enrolled in Algebra I. The course provides students with additional instructional time to master content",
+      "prerequisites": "Concurrent enrollment in Algebra I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MA-410-8",
+      "name": "Algebra I Assessment Mastery",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course is an elective course for students who have passed the Algebra I course and have not passed the MCAP Algebra I Assessment. The course fulfills the requirement for appropriate assistance before a student can re-take the MCAP–Algebra I Assessment. Instruction is offered with a high degree of one-on-one and small group interaction with the teacher.",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MA-431-1",
+      "name": "Geometry",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course focuses on the development of transformational",
+      "prerequisites": "Algebra I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MA-430-8",
+      "name": "Geometry Seminar",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "Geometry Seminar is an elective course for students concurrently enrolled in Geometry. The course provides students with additional instructional time to master content",
+      "prerequisites": "Concurrent enrollment in Geometry",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MA-430-1",
+      "name": "Geometry Seminar",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Geometry Seminar is an elective course for students concurrently enrolled in Geometry. The course provides students with additional instructional time to master content",
+      "prerequisites": "Concurrent enrollment in Geometry",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MA-433-1",
+      "name": "Geometry - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this Gifted and Talented course",
+      "prerequisites": "Algebra I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MA-461-1",
+      "name": "Algebra II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course extends the study of topics introduced in Algebra I. The emphases on linear",
+      "prerequisites": "Algebra I and Geometry",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MA-460-8",
+      "name": "Algebra II Seminar",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "Algebra II Seminar is an elective course for students concurrently enrolled in Algebra II. It provides students with additional instructional time to master essential algebraic content and engage in applications-based problem solving",
+      "prerequisites": "Concurrent enrollment in Algebra II",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MA-460-1",
+      "name": "Algebra II Seminar",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Algebra II Seminar is an elective course for students concurrently enrolled in Algebra II. It provides students with additional instructional time to master essential algebraic content and engage in applications-based problem solving",
+      "prerequisites": "Concurrent enrollment in Algebra II",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MA-463-1",
+      "name": "Algebra II - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course is for students capable of and interested in progressing through the concepts of Algebra II - G/T",
+      "prerequisites": "Algebra I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MA-491-1",
+      "name": "Advanced Algebra and Functions",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course is designed to further student understanding of the content initially presented in Algebra II. This course",
+      "prerequisites": "Students must have taken Algebra II or Algebra II G/T",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "MA-502-1",
+      "name": "Mathematical Analysis - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course serves as a foundation for students who will be taking calculus. It focuses on graphical analysis through the study of sequence and series; polynomials",
+      "prerequisites": "Algebra II or Algebra II - G/T",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MA-522-1",
+      "name": "Trigonometry - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course serves as a foundation for students who will be taking calculus. It focuses on right triangle trigonometry",
+      "prerequisites": "Algebra II or Algebra II - G/T",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MA-542-1",
+      "name": "Precalculus - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course extends the concepts of algebra and includes topics in trigonometry",
+      "prerequisites": "Algebra II or Algebra II - G/T",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MA-543-1",
+      "name": "Precalculus - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course extends the concepts of algebra and includes topics in trigonometry; statistics; parametric",
+      "prerequisites": "Algebra II or Algebra II - G/T",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MA-563-1",
+      "name": "Statistics and Probability - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course includes the major concepts and methods used to collect",
+      "prerequisites": "Algebra II or Algebra II - G/T",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MA-565-1",
+      "name": "Statistics - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "Statistics AP offers students an opportunity to learn college level",
+      "prerequisites": "Algebra II or Algebra II - G/T",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MA-643-1",
+      "name": "Discrete Mathematics - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course is an introduction to the study of Discrete Mathematics",
+      "prerequisites": "Precalculus - G/T or Precalculus - Honors",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "MA-603-1",
+      "name": "Business Calculus - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Business Calculus - G/T is an applications-based calculus course. Concepts of rate of change and differentiation of functions are applied to such topics as motion",
+      "prerequisites": "Mathematical Analysis - Honors",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "MA-625-1",
+      "name": "Calculus AB - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course is fundamental to the study of all advanced mathematics",
+      "prerequisites": "Precalculus - Honors",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MA-705-1",
+      "name": "Calculus C/Multivariate Calculus - AP [AP Calculus BC]",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "Calculus C/Multivariate Calculus continues concepts studied in Calculus AB. Topics include hyperbolic functions",
+      "prerequisites": "Precalculus - G/T (or Mathematics Analysis - Honors and Trigonometry - Honors"
+    },
+    {
+      "courseNumber": "MA-710-1",
+      "name": "Linear Algebra - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students in this course will develop skills in the basic concepts of linear algebra. These skills will cover areas such as vector spaces",
+      "prerequisites": "Calculus AB - AP",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "MA-723-1",
+      "name": "Differential Equations - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "The course content includes a study of standard types of elementary differential equations",
+      "prerequisites": "Calculus C/Multivariate Calculus - AP",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "MA-999-1",
+      "name": "Laboratory Assistant - Mathematics",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Working under the direction of the teacher",
+      "prerequisites": "Approval of the mathematics instructional team leader",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-475-1",
+      "name": "Computer Science A - AP [AP Computer Science]",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course is a fast-paced advanced level course that extends the study of the fundamental principles and technology of object-oriented programming using the Java language. Topics include classes",
+      "prerequisites": "Programming Fundamentals G/T; or Computer Science Principles AP with teacher approval",
+      "gradeLevel": "10"
+    }
+  ]
+}

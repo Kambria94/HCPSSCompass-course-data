@@ -1,0 +1,35 @@
+{
+  "name": "Media",
+  "courses": [
+    {
+      "courseNumber": "LM-801-1",
+      "name": "Video Production",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Permission of instructor",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LM-811-1",
+      "name": "Video Production G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Permission of instructor",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LM-999-1",
+      "name": "Laboratory Assistant - Media",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Under the direction of the media specialist",
+      "prerequisites": "Permission of instructor",
+      "gradeLevel": "11"
+    }
+  ]
+}

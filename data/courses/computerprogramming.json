@@ -1,0 +1,73 @@
+{
+  "name": "ComputerProgramming",
+  "courses": [
+    {
+      "courseNumber": "CT-405-1",
+      "name": "Computer Science Principles - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course will introduce students to creative aspects of programming",
+      "prerequisites": "Algebra I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "CT-400-1",
+      "name": "Exploring Computer Science - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course will give students the opportunity to delve into real-world",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "CT-800-1",
+      "name": "Foundations of Technology",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course prepares students to understand and apply technological concepts and processes that are the cornerstone of the high school technology education program. Students study the nature and technological issues of the designed world. Group and individual activities engage students in creating ideas",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "CT-475-1",
+      "name": "Computer Science A - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course is a fast-paced advanced level course that extends the study of the fundamental principles and technology of object-oriented programming using the Java language. Topics include classes",
+      "prerequisites": "Programming Fundamentals - G/T or Computer Science Principles - AP with teacher approval",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "CT-495-1",
+      "name": "Advanced Object-Oriented Design - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course explores advanced components of object-oriented programming. Topics include Graphic User Interfaces (GUIs"
+    },
+    {
+      "courseNumber": "CT-496-1",
+      "name": "Advanced Topics in Computer Science - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Successful completion or concurrent enrollment in Advanced Object-Oriented Design - G/T",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-463-1",
+      "name": "Programming Fundamentals - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    }
+  ]
+}

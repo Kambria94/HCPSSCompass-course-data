@@ -1,0 +1,22 @@
+{
+  "name": "CivilEngineering",
+  "courses": [
+    {
+      "courseNumber": "CT-616-2",
+      "name": "Civil Engineering I - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 2,
+      "description": "This is a hands-on course that helps students understand the field of engineering and the engineering design process. Students use computer-modeling software to study and apply the engineering design process. Students design",
+      "prerequisites": "Geometry is the minimum math requirement. (Can be taken concurrently"
+    },
+    {
+      "courseNumber": "CT-617-3",
+      "name": "Civil Engineering II - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 3,
+      "description": "This is a hands-on course in which students design"
+    }
+  ]
+}

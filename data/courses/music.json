@@ -1,0 +1,329 @@
+{
+  "name": "Music",
+  "courses": [
+    {
+      "courseNumber": "MU-400-1",
+      "name": "Band - Concert",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students perform a variety of band literature",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-500-1",
+      "name": "Band - Symphonic/Marching",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students perform band literature representing a variety of styles and historical periods in concerts",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-600-1",
+      "name": "Band - Symphonic Winds/Marching",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students perform band literature from a variety of styles and historical periods in concerts"
+    },
+    {
+      "courseNumber": "MU-800-1",
+      "name": "Band - Wind Ensemble/Marching - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students perform with and meet the curricular requirements of the Symphonic Winds/Marching. In addition",
+      "prerequisites": "Application and audition",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-480-1",
+      "name": "Percussion Ensemble",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students perform various percussion ensemble and/or band music. The ensemble may perform in concerts",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-840-1",
+      "name": "Percussion Ensemble G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students perform with and meet the curricular requirements of the Percussion Ensemble. In addition",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-580-1",
+      "name": "Jazz Ensemble",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students perform a variety of traditional and popular jazz",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-880-1",
+      "name": "Jazz Ensemble - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students perform with and meet the curricular requirements of Jazz Ensemble. In addition",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-680-1",
+      "name": "Instrumental Ensemble",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students perform a variety of music representing various styles and genres in small ensemble experiences. Students may perform in concerts and recitals. After-school activities and practices are integral to the course",
+      "prerequisites": "Previous instrumental experience and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-410-1",
+      "name": "Chorus",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students perform a variety of choral literature representing various styles and historical periods",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-510-1",
+      "name": "Concert Choir",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students perform choral literature representing various styles and historical periods",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-810-1",
+      "name": "Concert Choir - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students perform with and meet the curricular requirements of the Concert Choir. In addition",
+      "prerequisites": "Application and audition",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-812-1",
+      "name": "Chamber Choir - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students perform with and meet the curricular requirements of the Vocal Ensemble. In addition",
+      "prerequisites": "Application and audition",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MU-780-1",
+      "name": "Vocal Ensemble",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students perform choral literature representing a variety of styles and genres in small ensemble experiences. Performances may include concerts",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-811-1",
+      "name": "Vocal Ensemble - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students perform with and meet the curricular requirements of the Vocal Ensemble. In addition",
+      "prerequisites": "Application and audition",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-450-1",
+      "name": "Music Technology I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students learn basic composition and music production techniques",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-550-1",
+      "name": "Music Technology II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students learn advanced composition and music production techniques",
+      "prerequisites": "Completion of Music Technology I or teacher approval",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MU-650-1",
+      "name": "Music Technology III/IV G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students learn to create performances of electronic music using Digital Audio Workstation and DJing software. Students continue to refine their skills of perception and creation through analysis and assessment of both their own productions and the productions of successful modern-day music artists. Students continue to develop their portfolio of compositions and productions",
+      "prerequisites": "Successful Completion of Music Technology II",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MU-420-1",
+      "name": "String Ensemble",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students will perform a variety of orchestral literature while developing individual and ensemble skills in concerts",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-520-1",
+      "name": "String Orchestra",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students perform orchestral literature from a variety of styles and historical periods in concerts",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-820-1",
+      "name": "String Orchestra - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students perform with and meet the curricular requirements of the String Orchestra. In addition",
+      "prerequisites": "Application and audition are required",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-430-1",
+      "name": "Guitar I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students develop basic guitar techniques through performing solo and ensemble guitar literature from difficulty levels I and II. Skills emphasized include tuning and proper tone production",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-431-8",
+      "name": "Guitar I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "Students develop basic guitar techniques through performing solo and ensemble guitar literature from difficulty levels I and II. Skills emphasized include tuning and proper tone production",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-530-1",
+      "name": "Guitar II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students develop intermediate guitar techniques through performing solo and ensemble guitar literature from difficulty levels III and IV. Skills emphasized include identifying and analyzing musical elements and structural characteristics of various styles and genres and utilizing current technology to assist in further development of improvisational and compositional techniques. After-school activities",
+      "prerequisites": "Completion of previous level(s"
+    },
+    {
+      "courseNumber": "MU-830-1",
+      "name": "Guitar III/IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Students develop advanced guitar techniques through performing solo and ensemble guitar literature from difficulty levels V and VI. Skills emphasized include performing with alternate tunings and more sophisticated chord progressions and developing advanced improvisational and compositional techniques. After-school activities",
+      "prerequisites": "Completion of previous level(s"
+    },
+    {
+      "courseNumber": "MU-831-1",
+      "name": "Guitar III/IV - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students perform with and meet the curricular requirements of Guitar III/IV - Honors. In addition",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-470-1",
+      "name": "Piano I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students develop basic piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels I and II. Skills emphasized include performing with independent parts for right and left hands",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-471-8",
+      "name": "Piano I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "Students develop basic piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels I and II. Skills emphasized include performing with independent parts for right and left hands",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-570-1",
+      "name": "Piano II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students develop intermediate piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels III and IV. Skills emphasized include identifying and analyzing musical elements and structural characteristics of various styles and genres and utilizing current technology to assist in further development of improvisational and compositional techniques. After-school activities",
+      "prerequisites": "Completion of previous level(s"
+    },
+    {
+      "courseNumber": "MU-870-1",
+      "name": "Piano III/IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Students develop advanced piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels V and VI. Skills emphasized include performing scales and arpeggios in all keys and developing advanced improvisational and compositional techniques. After-school activities",
+      "prerequisites": "Completion of previous level(s"
+    },
+    {
+      "courseNumber": "MU-871-1",
+      "name": "Piano III/IV - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "Students perform with and meet the curricular requirements of Piano III/IV - Honors. In addition",
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-460-1",
+      "name": "Music Theory I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students learn the basic elements of music and their applications in elementary composition. Aural development is stressed throughout the year through rhythmic and melodic dictation and sight-singing. Music technology will be used as a resource to develop aural and compositional skills. A student with limited experiences in music must receive teacher approval.",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "MU-860-1",
+      "name": "Music Theory II - AP [AP Music Theory]",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "Students learn more advanced concepts in music theory as well as twentieth-century compositional techniques. Aural development will continue through sight-singing and rhythmic and melodic dictation. Music technology will be used as a resource to develop aural and compositional skills. It is recommended that students in this course take the AP Exam when it is offered in May.",
+      "prerequisites": "Music Theory I or teacher approval",
+      "gradeLevel": "10"
+    }
+  ]
+}

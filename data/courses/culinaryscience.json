@@ -1,0 +1,43 @@
+{
+  "name": "CulinaryScience",
+  "courses": [
+    {
+      "courseNumber": "CT-910-1",
+      "name": "Food and Nutrition Technology",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course is designed to provide a foundation in the study of culinary sciences",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "CT-912-1",
+      "name": "Culinary Sciences",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course is for students who are pursuing a professional career in either the restaurant or hospitality industry. Through a hands-on",
+      "prerequisites": "Food and Nutrition Technology",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "CT-914-1",
+      "name": "Advanced Culinary Science and Restaurant Operations",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course is designed for students who are pursuing college study and/or immediate entry into the professional restaurant and hospitality industries. Providing advanced training",
+      "prerequisites": "Culinary Sciences",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-917-1",
+      "name": "Field Experience in Culinary Science (1 credit"
+    },
+    {
+      "courseNumber": "CT-917-2",
+      "name": "Field Experience in Culinary Science (2 credits"
+    }
+  ]
+}

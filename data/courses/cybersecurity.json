@@ -1,0 +1,37 @@
+{
+  "name": "Cybersecurity",
+  "courses": [
+    {
+      "courseNumber": "CT-790-2",
+      "name": "Cybersecurity Computer Essentials",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 2,
+      "description": "This course provides an introduction to the computer hardware and software and fundamental networking skills needed to help meet the growing demand for entry-level IT professionals. The curriculum covers the fundamentals of PC technology"
+    },
+    {
+      "courseNumber": "CT-792-3",
+      "name": "Cybersecurity Networking Essentials - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 3,
+      "description": "This course provides in-depth coverage of small to medium or ISP network knowledge and current cybersecurity risks and threats to an organization's data"
+    },
+    {
+      "courseNumber": "CT-685-2",
+      "name": "Cybersecurity and Computer Networking I - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 2,
+      "description": "This course provides a framework for understanding the why"
+    },
+    {
+      "courseNumber": "CT-695-3",
+      "name": "Cybersecurity and Computer Networking II - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 3,
+      "description": "This course provides students with the knowledge of cybersecurity-related issues necessary to implement system security in a wide variety of networks. Students learn in-depth information about the risks and vulnerabilities of networks and focus on network defense techniques. In addition"
+    }
+  ]
+}

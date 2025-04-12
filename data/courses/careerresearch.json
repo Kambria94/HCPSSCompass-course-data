@@ -1,0 +1,35 @@
+{
+  "name": "CareerResearch",
+  "courses": [
+    {
+      "courseNumber": "CT-510-1",
+      "name": "Career Research and Development I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Using Maryland's career clusters",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "CT-520-1",
+      "name": "Career Research and Development II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students continue to explore career options and develop workplace readiness skills. Topics include meeting the expectations of an employer",
+      "prerequisites": "Career Research and Development I",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "CT-530-1",
+      "name": "Site-based Work Experience",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Using the career research",
+      "prerequisites": "None",
+      "gradeLevel": "12"
+    }
+  ]
+}

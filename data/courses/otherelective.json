@@ -1,0 +1,45 @@
+{
+  "name": "OtherElective",
+  "courses": [
+    {
+      "courseNumber": "MC-500-8",
+      "name": "SAT Preparation Course - Semester",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course provides strategy-based instruction designed to improve students' test-taking skills and increase their potential for success on both the PSAT and SAT tests. This course focuses on the teaching and application of proven mathematics and verbal strategies as recommended by the College Board. Students are expected to register and take the SAT upon completing the course.",
+      "prerequisites": "Algebra I and Geometry; Corequisite",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MC-500-1",
+      "name": "SAT Preparation Course - Year",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course provides strategy-based instruction designed to improve students' test-taking skills and increase their potential for success on both the PSAT and SAT tests. This course focuses on the teaching and application of proven mathematics and verbal strategies as recommended by the College Board. Students are expected to register and take the SAT upon completing the course.",
+      "prerequisites": "Algebra I and Geometry; Corequisite",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MC-505-8",
+      "name": "Financial Literacy",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course is intended to provide students with the skills necessary to be financially literate consumers and citizens. The content includes units on earning income",
+      "prerequisites": "Algebra I and Geometry",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "MC-520-8",
+      "name": "Leadership and Student Service Learning",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This semester course emphasizes the acquisition of leadership skills while engaging in a student service learning experience that meets MSDE requirements. Topics include organizational structure and operational techniques",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    }
+  ]
+}

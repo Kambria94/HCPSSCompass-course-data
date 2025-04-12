@@ -1,0 +1,215 @@
+{
+  "name": "Art",
+  "courses": [
+    {
+      "courseNumber": "VA-400-1",
+      "name": "Art I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Art I is the prerequisite course for the comprehensive high school art program and fulfills the one-credit Fine Arts graduation requirement. Studio problems are designed to build creative and critical thinking skills through hands-on practice in drawing",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "VA-500-1",
+      "name": "Art II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course challenges students to refine their skills in visual arts media exploration and creative problem solving. These problems become increasingly complex and require students to draw upon knowledge of both traditional and contemporary art from diverse cultures. Works of art that reflect a personal aesthetic and exhibit breadth and quality become the basis for a cumulative portfolio including a sketchbook/journal.",
+      "prerequisites": "Art I or application and portfolio review",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "VA-510-1",
+      "name": "Art II",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course challenges students to refine their skills in visual arts media exploration and creative problem solving. These problems become increasingly complex and require students to draw upon knowledge of both traditional and contemporary art from diverse cultures. Works of art that reflect a personal aesthetic and exhibit breadth and quality become the basis for a cumulative portfolio including a sketchbook/journal. This course is recommended for students who have demonstrated an ability to work successfully at a demanding pace. Emphasis is placed on creative problem solving",
+      "prerequisites": "Art I or application and portfolio review",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "VA-640-1",
+      "name": "Art III",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course challenges students to take risks",
+      "prerequisites": "Art II or Art II - G/T",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "VA-650-1",
+      "name": "Art III",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course challenges students to take risks",
+      "prerequisites": "Art II or Art II - G/T",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "VA-700-1",
+      "name": "Art IV",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Art III or Art III - G/T",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "VA-710-1",
+      "name": "Art IV",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Art III or Art III - G/T",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "VA-855-1",
+      "name": "Art V",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Art IV or Art IV - AP",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "VA-860-1",
+      "name": "Art V",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Art IV or Art IV - AP",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "VA-720-1",
+      "name": "Art History - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The Advanced Placement offering in History of Art is designed to provide the same benefits to high school students as those provided by an introductory college course in art history. In this course",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "VA-810-1",
+      "name": "Art Studio - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "The course challenges students to take risks",
+      "prerequisites": "Concurrent enrollment in Art III-Honors",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "VA-820-1",
+      "name": "Art Studio - AP [Studio Art",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The course challenges students to take risks",
+      "prerequisites": "Concurrent enrollment in Art III-GT",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "VA-520-1",
+      "name": "Photography I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Art I or application and portfolio review",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "VA-530-1",
+      "name": "Photography I",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course explores the ways students apply the language of art in producing fine art photographs. Primary experiences will center around the use of a 35mm single lens reflex camera",
+      "prerequisites": "Art I or application and portfolio review",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "VA-620-1",
+      "name": "Photography II",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Photography I",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "VA-630-1",
+      "name": "Photography II",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course begins the development of a body of work leading to the Advanced Placement Examination. Students will refine and master technical skills as well as experiment with alternative approaches and materials as they compose photographs. Additionally",
+      "prerequisites": "Photo I",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "VA-740-1",
+      "name": "Photography III",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "In this course students will develop a thematic body of work that can be used for college admissions",
+      "prerequisites": "Photography II or Photography II - AP",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "VA-750-1",
+      "name": "Photography III",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "In this course each student will develop a thematic body of work that can be used for the Advanced Placement portfolio",
+      "prerequisites": "Photography II or Photography II - AP",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "VA-830-1",
+      "name": "Photo Studio - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "The course challenges students to take risks",
+      "prerequisites": "Concurrent enrollment in Photo II-Honors or Photo III-Honors",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "VA-840-1",
+      "name": "Photo Studio - AP [AP Studio Art",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The course challenges students to take risks",
+      "prerequisites": "Concurrent enrollment in Photo II-AP or Photo III-AP",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "VA-900-8",
+      "name": "Introduction to Visual Communications",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course is designed for students who want to effectively develop presentations to deliver information and ideas in a visually clear and compelling manner. Research suggests that people better connect to",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    }
+  ]
+}

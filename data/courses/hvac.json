@@ -1,0 +1,25 @@
+{
+  "name": "HVAC",
+  "courses": [
+    {
+      "courseNumber": "CT-754-2",
+      "name": "HVAC I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 2,
+      "description": "This course is the core introduction to basic construction skills covering essential topics such as basic safety",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-756-3",
+      "name": "HVAC II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 3,
+      "description": "This course completes the HVAC Career Academy coursework. Students can choose to participate in a skills-based internship or apprenticeship or stay on campus to complete the advanced course curriculum. The NCCER HVAC Level 1 curriculum covers essential project-based work topics such as Introduction to HVACR*",
+      "prerequisites": "HVAC I",
+      "gradeLevel": "12"
+    }
+  ]
+}

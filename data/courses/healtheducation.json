@@ -1,0 +1,55 @@
+{
+  "name": "HealthEducation",
+  "courses": [
+    {
+      "courseNumber": "HE-900-8",
+      "name": "Health I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course provides students with functional knowledge and health literacy skills to reduce health risks and enhance the health and well-being of self and others. Students will engage with this content in the context of the National Health Education Standards skills. Specific topics will include",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "HE-920-8",
+      "name": "Health II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course expands upon student development of skills",
+      "prerequisites": "Health I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "HE-950-8",
+      "name": "Current Health Issues",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course is designed to develop skills for living healthy lifestyles among adolescents preparing to enter college and the world of work. The course is organized around the Health Education National Standards placing a greater emphasis on personal skills. Students will discuss and apply a variety of skills to everyday situations they may face. Skills include how to determine the validity of health resources and services",
+      "prerequisites": "Health I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "HE-950-1",
+      "name": "Current Health Issues",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course is designed to develop skills for living healthy lifestyles among adolescents preparing to enter college and the world of work. The course is organized around the Health Education National Standards placing a greater emphasis on personal skills. Students will discuss and apply a variety of skills to everyday situations they may face. Skills include how to determine the validity of health resources and services",
+      "prerequisites": "Health I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "ST-999-1",
+      "name": "Student Services Office Assistant/Tutor",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Under the direction of the School Counseling Team Leader",
+      "prerequisites": "None",
+      "gradeLevel": "12"
+    }
+  ]
+}

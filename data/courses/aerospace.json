@@ -1,0 +1,22 @@
+{
+  "name": "Aerospace",
+  "courses": [
+    {
+      "courseNumber": "CT-605-2",
+      "name": "Aerospace I - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 2,
+      "description": "This is a hands-on course that helps students understand the field of engineering and the engineering design process. Students use computer-modeling software to study and apply the engineering design process. Students design",
+      "prerequisites": "Geometry is the minimum math requirement. (Can be taken concurrently"
+    },
+    {
+      "courseNumber": "CT-615-3",
+      "name": "Aerospace II - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 3,
+      "description": "This is a hands-on course in which students use computer simulations to learn about the logic of electronics while they design"
+    }
+  ]
+}

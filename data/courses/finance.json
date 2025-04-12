@@ -1,0 +1,25 @@
+{
+  "name": "Finance",
+  "courses": [
+    {
+      "courseNumber": "CT-625-2",
+      "name": "Academy of Finance I - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 2,
+      "description": "This course teaches students a diverse set of skills and knowledge in the field of business and finance. Through exploration and application of financial planning",
+      "prerequisites": "Algebra I",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-635-3",
+      "name": "Academy of Finance II - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 3,
+      "description": "Students will have the opportunity to combine theory and innovation into real-world application through a semester-based internship in the business environment",
+      "prerequisites": "Academy of Finance I - G/T",
+      "gradeLevel": "12"
+    }
+  ]
+}

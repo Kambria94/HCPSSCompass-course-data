@@ -1,0 +1,341 @@
+{
+  "name": "SocialStudies",
+  "courses": [
+    {
+      "courseNumber": "SO-401-1",
+      "name": "United States History",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course presents a survey of United States history from 1877 to the present. Students will learn major concepts and themes in United States history",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "SO-402-1",
+      "name": "United States History - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course presents a survey of United States history from 1877 to the present. Students will learn major concepts and themes in United States history",
+      "prerequisites": "Teacher recommendation",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "SO-403-1",
+      "name": "United States History - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This course presents a survey of United States history from 1877 to the present. Students will learn major concepts and themes in United States history",
+      "prerequisites": "Teacher recommendation",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "SO-615-1",
+      "name": "United States History - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course examines United States history through a chronological approach that emphasizes the major themes in the nation's past and the skills of historical thinking. Students are expected to complete at least one major written historical investigation and to participate in several seminar meetings. This course may be taken as an elective or as the United States History graduation requirement. Students electing this course may be given optional summer or pre-course readings. It is recommended that students in this course take the AP Exam when it is offered in May.",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-501-1",
+      "name": "American Government",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course presents a comprehensive study of national"
+    },
+    {
+      "courseNumber": "SO-502-1",
+      "name": "American Government - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course presents a comprehensive study of national"
+    },
+    {
+      "courseNumber": "SO-504-1",
+      "name": "Government and Politics - AP [AP United States Government and Politics]",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course covers politics and government in the United States. It prepares students for both the HSA and the AP exam. This course provides a college-level"
+    },
+    {
+      "courseNumber": "SO-600-1",
+      "name": "Modern World History",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course is designed to survey the history of the human experience from the late Middle Ages to the present. Students will learn major events",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-601-1",
+      "name": "Modern World History - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "This course is designed to survey the history of the human experience from the late Middle Ages to the present. Students will learn major events",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-621-1",
+      "name": "World History",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course covers content from 1200 CE to present. It looks at world history chronologically",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-506-8",
+      "name": "African American Studies",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course is an in-depth study of the history of the African American experience. Topics include the origin of civilizations in Africa",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SO-507-8",
+      "name": "Ancient and Medieval History",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course presents a survey of the human experience from 1000 BCE to 1350 CE. The course will focus on the major intellectual",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SO-603-8",
+      "name": "Anthropology",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course provides an opportunity for studying human culture. Cultural anthropology examines mankind's interaction with the environment and covers ancient culture",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SO-617-8",
+      "name": "Asian Studies",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This interdisciplinary course is divided into three units"
+    },
+    {
+      "courseNumber": "SO-604-1",
+      "name": "Comparative Government and Politics - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The instructional purpose of this course is to help students gain knowledge of the world's diverse political structures and practices"
+    },
+    {
+      "courseNumber": "SO-620-8",
+      "name": "Economics",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "Economics is a semester long course introducing basic economic principles and current economic issues with a focus on the American economy. Students will examine components of the American economy such as price",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SO-618-8",
+      "name": "Ethics in Contemporary Culture",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course provides an opportunity for students to apply guidelines and principles of ethics",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-605-1",
+      "name": "European History - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The instructional purpose of this course is the study of European civilization from the Renaissance period to present day. Students are expected to complete at least one major written historical investigation and to participate in several seminar meetings. Students electing this course may be given summer or pre-course readings. This course will NOT fulfill the World History graduation requirement. It is recommended that students in this course take the AP Exam when it is offered in May.",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-607-1",
+      "name": "Human Geography - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course introduces students to the systematic study of the patterns and processes that have shaped human understanding of Earth's surface",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "SO-404-1",
+      "name": "Humanities I - G/T (Social Studies"
+    },
+    {
+      "courseNumber": "SO-505-1",
+      "name": "Humanities II/Government and Politics - AP (Social Studies"
+    },
+    {
+      "courseNumber": "SO-616-1",
+      "name": "Humanities III/World History - AP or United States History - AP (Social Studies"
+    },
+    {
+      "courseNumber": "SO-700-1",
+      "name": "Humanities IV - G/T (Social Studies"
+    },
+    {
+      "courseNumber": "SO-508-8",
+      "name": "Latin American Studies",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This Latin American Studies course focuses on the historic influences that have led to the evolution of modern Latin America as well as the Latin American and Latinx experience in the United States. Unit 1 identifies the geographic regions of Latin America and traces the social",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SO-509-8",
+      "name": "Law and the Citizen",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course is designed to enable students to explore issues related to law",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SO-608-1",
+      "name": "Microeconomics/Macroeconomics - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "Students receive in-depth instruction in both microeconomics and macroeconomics. Major areas of study include economic concepts",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-609-1",
+      "name": "Microeconomics - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "Students receive instruction in microeconomics in greater depth and complexity than the combined course listed above. Microeconomics is the study of economics as it relates to the behavior of individuals",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-610-1",
+      "name": "Macroeconomics - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "Students receive instruction in macroeconomics in greater depth and complexity than the combined course. Macroeconomics is the study of economics as it relates to entire economic systems. In addition to learning content required for the AP Exam in microeconomics",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-512-8",
+      "name": "Native American Studies",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course is organized around the four themes of Native American Studies",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SO-513-8",
+      "name": "Political Science",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course provides for the study of politics and various political systems throughout the world",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SO-611-8",
+      "name": "Psychology",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course involves the systematic study of individual human behavior and experience. The purpose of this course is to introduce the student to the content",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-612-1",
+      "name": "Psychology - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The instructional purpose of this course is to introduce students to the systematic and scientific study of the behavior and mental processes of human beings and other animals. Students explore the psychological facts",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-613-8",
+      "name": "Sociology",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course examines human behavior in society and institutions",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SO-614-8",
+      "name": "World Religions",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course allows students to develop a general knowledge of world religions with more than 3 million followers",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SO-619-8",
+      "name": "Women's Studies",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course provides an opportunity for students to explore the women's movements in the United States through an interdisciplinary lens. Students will consider the foundation and history of the women's movement. Specific topics include socialization and gender stereotypes",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-622-8",
+      "name": "LGBTQ Studies",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course introduces students to the social science discipline of LGBT Studies through three units of study. The first unit focuses on key themes in LGBT Studies including",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SO-999-1",
+      "name": "Laboratory Assistant - Social Studies",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Working under the direction of the teacher",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Dance",
+  "courses": [
+    {
+      "courseNumber": "DT-400-1",
+      "name": "Dance I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this Fine Arts course",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "DT-500-1",
+      "name": "Dance II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this Fine Arts course students are challenged in sessions of dance technique that use a working knowledge of performance concepts that students will apply to all dance forms. Experiences are based on further developing principles and techniques of ballet",
+      "prerequisites": "Dance I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "DT-600-1",
+      "name": "Dance III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this Fine Arts course",
+      "prerequisites": "Dance II",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "DT-700-1",
+      "name": "Dance IV",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this Fine Arts course",
+      "prerequisites": "Dance III",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "DT-711-1",
+      "name": "Dance Seminar",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this Fine Arts course",
+      "prerequisites": "Application and Director Approval",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "DT-720-1",
+      "name": "Dance Company - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this Fine Arts course",
+      "prerequisites": "Audition Only",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "DT-730-1",
+      "name": "Junior Dance Company - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this Fine Arts course",
+      "prerequisites": "Audition Only",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "DT-900-8",
+      "name": "Dance for Athletes",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "Dance for Athletes is an elective movement-based course intended to merge cross training and dance. In this course",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    }
+  ]
+}

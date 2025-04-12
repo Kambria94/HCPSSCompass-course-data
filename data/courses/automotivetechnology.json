@@ -1,0 +1,25 @@
+{
+  "name": "AutomotiveTechnology",
+  "courses": [
+    {
+      "courseNumber": "CT-736-2",
+      "name": "Automotive Technology I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 2,
+      "description": "Students will receive training covering every system of the automobile",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-738-3",
+      "name": "Automotive Technology II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 3,
+      "description": "Students will continue to study the components of the automobile technology curriculum. Topics include diagnostics",
+      "prerequisites": "Automotive Technology I",
+      "gradeLevel": "12"
+    }
+  ]
+}

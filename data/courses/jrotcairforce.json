@@ -1,0 +1,55 @@
+{
+  "name": "JROTCAirForce",
+  "courses": [
+    {
+      "courseNumber": "CT-971-1",
+      "name": "JROTC Air Force I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0,
+      "description": "Air Force JROTC's mission is to \\Develop citizens of character dedicated to serving their nation and community.\\ The program educates and trains cadets in citizenship",
+      "prerequisites": "None",
+      "gradeLevel": "None"
+    },
+    {
+      "courseNumber": "CT-972-1",
+      "name": "JROTC Air Force II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0,
+      "description": "Students continue their studies in aerospace science",
+      "prerequisites": "JROTC Air Force I",
+      "gradeLevel": "None"
+    },
+    {
+      "courseNumber": "CT-973-1",
+      "name": "JROTC Air Force III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0,
+      "description": "Advanced studies in aerospace science cover cultural and global awareness",
+      "prerequisites": "JROTC Air Force II",
+      "gradeLevel": "None"
+    },
+    {
+      "courseNumber": "CT-974-1",
+      "name": "JROTC Air Force IV",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0,
+      "description": "Students engage in advanced aerospace science topics including policy and organization. Leadership education emphasizes advanced principles of management",
+      "prerequisites": "JROTC Air Force III",
+      "gradeLevel": "None"
+    },
+    {
+      "courseNumber": "CT-976-1",
+      "name": "JROTC Air Force Advanced",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0,
+      "description": "This course provides advanced leadership opportunities and advanced skill development for students who have completed the JROTC Air Force program. Students will continue to develop citizenship",
+      "prerequisites": "JROTC Air Force IV",
+      "gradeLevel": "None"
+    }
+  ]
+}

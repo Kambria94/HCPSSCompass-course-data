@@ -1,0 +1,55 @@
+{
+  "name": "JROTCArmy",
+  "courses": [
+    {
+      "courseNumber": "CT-951-1",
+      "name": "JROTC Army I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0,
+      "description": "Army JROTC's mission is \\To Motivate Young People to Be Better Citizens.\\ It provides means for cadets to develop citizenship",
+      "prerequisites": "None",
+      "gradeLevel": "None"
+    },
+    {
+      "courseNumber": "CT-952-1",
+      "name": "JROTC Army II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0,
+      "description": "As students progress through the Army JROTC program",
+      "prerequisites": "JROTC Army I",
+      "gradeLevel": "None"
+    },
+    {
+      "courseNumber": "CT-953-1",
+      "name": "JROTC Army III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0,
+      "description": "Students continue to build on their leadership skills and knowledge from previous JROTC courses. Advanced leadership development and applied leadership opportunities are emphasized. Students will also gain an appreciation for the contributions of the military to the history of our nation. Cadets wear Army provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred.",
+      "prerequisites": "JROTC Army II",
+      "gradeLevel": "None"
+    },
+    {
+      "courseNumber": "CT-954-1",
+      "name": "JROTC Army IV",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0,
+      "description": "Students continue to develop their leadership skills through advanced leadership development and applied leadership opportunities. Students will learn extensive first aid",
+      "prerequisites": "JROTC Army III",
+      "gradeLevel": "None"
+    },
+    {
+      "courseNumber": "CT-956-1",
+      "name": "JROTC Army Advanced",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0,
+      "description": "This course provides advanced leadership opportunities and advanced skill development for students who have completed the JROTC program. Students will continue to develop citizenship",
+      "prerequisites": "JROTC Army IV",
+      "gradeLevel": "None"
+    }
+  ]
+}

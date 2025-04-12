@@ -1,0 +1,75 @@
+{
+  "name": "Theatre",
+  "courses": [
+    {
+      "courseNumber": "DT-410-1",
+      "name": "Theatre Arts I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Theatre Arts I is a performance-based course which offers students an introduction to the process and production of theatre. Students will use critical thinking and problem solving to create personal meaning through collaborative performances. Students will use theatre practices to create",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "DT-741-1",
+      "name": "Theatre Company",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Theatre I or application and audition",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "DT-751-1",
+      "name": "Theatre Company - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Theatre I or application and audition",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "DT-761-1",
+      "name": "Musical Theatre Company",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Theatre I or application and audition",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "DT-771-1",
+      "name": "Musical Theatre Company - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Theatre I or application and audition",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "DT-791-1",
+      "name": "Theatre Apprenticeship - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this Fine Arts course",
+      "prerequisites": "Theatre I or application and audition",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "DT-910-8",
+      "name": "Technical Theatre",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "In this semester course",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    }
+  ]
+}

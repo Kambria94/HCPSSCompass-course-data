@@ -1,0 +1,25 @@
+{
+  "name": "AgriculturalScience",
+  "courses": [
+    {
+      "courseNumber": "CT-750-2",
+      "name": "Agricultural Science I - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 2,
+      "description": "While surveying the opportunities in agriculture and natural resources",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-752-3",
+      "name": "Agricultural Science II - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 3,
+      "description": "Students will complete hands-on activities",
+      "prerequisites": "Agricultural Science I - G/T",
+      "gradeLevel": "12"
+    }
+  ]
+}

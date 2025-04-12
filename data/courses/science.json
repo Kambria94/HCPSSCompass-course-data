@@ -1,0 +1,199 @@
+{
+  "name": "Science",
+  "courses": [
+    {
+      "courseNumber": "SC-400-1",
+      "name": "Earth and Space Systems Science",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this course"
+    },
+    {
+      "courseNumber": "SC-415-1",
+      "name": "Earth and Space Systems Science - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course"
+    },
+    {
+      "courseNumber": "SC-500-1",
+      "name": "Biology",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this course"
+    },
+    {
+      "courseNumber": "SC-515-1",
+      "name": "Biology - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course"
+    },
+    {
+      "courseNumber": "SC-901-1",
+      "name": "Biology - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course builds on the foundations of Biology and is designed to be the equivalent of a college-level introductory biology course. Students engage in the practices of science and engineering to construct their understanding of the process of evolution and its relationship to the diversity and unity of life; the use of free energy by biological systems to grow",
+      "prerequisites": "Recommended completion of Biology or Biology G/T and Advanced Physical Science or Chemistry G/T",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-602-8",
+      "name": "Chemistry - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 0.5,
+      "description": "In this semester course"
+    },
+    {
+      "courseNumber": "SC-615-1",
+      "name": "Chemistry - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course"
+    },
+    {
+      "courseNumber": "SC-903-1",
+      "name": "Chemistry - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course builds on the foundations of Chemistry and is designed to be the equivalent of a college-level introductory chemistry course. Students engage in the practices of science and engineering to construct their understanding of the structures and properties of matter",
+      "prerequisites": "Recommended completion of Advanced Physical Science or Chemistry G/T and Algebra II",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-660-1",
+      "name": "Advanced Physical Science",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this course"
+    },
+    {
+      "courseNumber": "SC-801-1",
+      "name": "Anatomy and Physiology",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course builds on the foundations of the life sciences and is designed to help students understand the anatomic and physiological basis of life. The course covers cytology",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-805-1",
+      "name": "Astronomy",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course builds on the foundations of the earth sciences. Students will use the Science and Engineering Practices to construct understanding of the historical development of astronomic models and the contributions of the early astronomers; the characteristics of light; the solar system; constellations; stellar compositions",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-810-1",
+      "name": "Environmental Science",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This Maryland Next Generation Science Standard (NGSS"
+    },
+    {
+      "courseNumber": "SC-905-1",
+      "name": "Environmental Science - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course builds on the foundations of the earth",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-815-1",
+      "name": "Forensic Science",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course builds on the foundations of the earth",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-825-1",
+      "name": "Marine Science",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course builds on the foundations of the earth",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-662-8",
+      "name": "Physics - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 0.5,
+      "description": "In this semester course",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "SC-907-1",
+      "name": "Physics 1 - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Recommended completion of Algebra II",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-909-1",
+      "name": "Physics 2 - AP",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course builds on the foundations of physics to establish student understanding in thermodynamics",
+      "prerequisites": "Recommended completion of Physics 1-AP",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-911-1",
+      "name": "Physics C",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course builds on the foundation of Physics and is designed to be the equivalent of a college-level",
+      "prerequisites": "Recommended completion of or concurrent enrollment in Calculus",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-913-1",
+      "name": "Physics C",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This course builds on the foundations of Physics and is designed to be the equivalent of a college-level introductory physics course for physics and/or engineering majors. Students will engage in the practices of science and engineering to construct an understanding of electricity and magnetism using algebra",
+      "prerequisites": "Completion of AP Physics C",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "SC-999-1",
+      "name": "Laboratory Assistant - Science",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course trains students in generalized laboratory techniques and safety procedures. The course emphasizes practicality and is designed to develop individual facility and dexterity while performing common laboratory practices. Students must be able to work independently. Only one assistant credit can be applied toward graduation. Only one elective credit can be earned as a student assistant",
+      "prerequisites": "Completion of three core science credits; teacher recommendation",
+      "gradeLevel": "11"
+    }
+  ]
+}

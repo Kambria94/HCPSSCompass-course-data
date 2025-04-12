@@ -1,0 +1,25 @@
+{
+  "name": "AnimationMedia",
+  "courses": [
+    {
+      "courseNumber": "CT-796-2",
+      "name": "Animation and Interactive Media I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 2,
+      "description": "Students work with industry standard software to simulate 3D environments and apply 3D effects to create realistic still images and animations. Each lesson is a building block for future projects of increasing complexity. As students progress through the course",
+      "prerequisites": "Art I",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-798-3",
+      "name": "Animation and Interactive Media II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 3,
+      "description": "Students learn advanced level animation skills and techniques based on successfully completed Animation I projects. Realism and its application to stylized works are stressed. Cloth",
+      "prerequisites": "Animation and Interactive Media I",
+      "gradeLevel": "12"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "name": "PhysicalEducation",
+  "courses": [
+    {
+      "courseNumber": "PE-900-8",
+      "name": "Lifetime Fitness 9 (required for graduation"
+    },
+    {
+      "courseNumber": "PE-911-8",
+      "name": "Aerobic Conditioning and Weight Training I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course introduces students to aerobic conditioning and weight training concepts such as benefits of proper diet along with exercise",
+      "prerequisites": "Lifetime Fitness",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-911-1",
+      "name": "Aerobic Conditioning and Weight Training I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course introduces students to aerobic conditioning and weight training concepts such as benefits of proper diet along with exercise",
+      "prerequisites": "Lifetime Fitness",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-921-8",
+      "name": "Aerobic Conditioning and Weight Training II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course reinforces and expands on the concepts learned in Aerobic Conditioning and Weight Training I. Students will be able to compare and contrast various types of aerobic conditioning and weight training programs and understand their application. Students will use their knowledge of basic exercise physiology to design a personalized circuit weight training program. Students may take this course more than once.",
+      "prerequisites": "Aerobic Conditioning and Weight Training I or Strength and Conditioning I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-921-1",
+      "name": "Aerobic Conditioning and Weight Training II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course reinforces and expands on the concepts learned in Aerobic Conditioning and Weight Training I. Students will be able to compare and contrast various types of aerobic conditioning and weight training programs and understand their application. Students will use their knowledge of basic exercise physiology to design a personalized circuit weight training program. Students may take this course more than once.",
+      "prerequisites": "Aerobic Conditioning and Weight Training I or Strength and Conditioning I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-930-8",
+      "name": "Specialty Sports",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "Students in Specialty Sports will demonstrate competency and/or refine activity specific movement skills in two or more lifetime activities (outdoor pursuits"
+    },
+    {
+      "courseNumber": "PE-930-1",
+      "name": "Specialty Sports",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students in Specialty Sports will demonstrate competency and/or refine activity specific movement skills in two or more lifetime activities (outdoor pursuits"
+    },
+    {
+      "courseNumber": "PE-940-8",
+      "name": "Sport for Life",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course will provide students with the knowledge",
+      "prerequisites": "Lifetime Fitness",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-940-1",
+      "name": "Sport for Life",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course will provide students with the knowledge",
+      "prerequisites": "Lifetime Fitness",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-951-8",
+      "name": "Strength and Conditioning I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course introduces students to strength training and conditioning principles. Students will develop physical literacy through a variety of movement skills. Students obtain a working knowledge of anatomy",
+      "prerequisites": "Lifetime Fitness",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-951-1",
+      "name": "Strength and Conditioning I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course introduces students to strength training and conditioning principles. Students will develop physical literacy through a variety of movement skills. Students obtain a working knowledge of anatomy",
+      "prerequisites": "Lifetime Fitness",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-961-8",
+      "name": "Strength and Conditioning II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course reinforces the concepts taught in Strength and Conditioning I to expand upon student's cognitive knowledge of the fitness room. Students will be able to identify all forms of weight training",
+      "prerequisites": "Strength and Conditioning I or Aerobic Conditioning and Weight Training I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-961-1",
+      "name": "Strength and Conditioning II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course reinforces the concepts taught in Strength and Conditioning I to expand upon student's cognitive knowledge of the fitness room. Students will be able to identify all forms of weight training",
+      "prerequisites": "Strength and Conditioning I or Aerobic Conditioning and Weight Training I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-971-8",
+      "name": "Strength and Conditioning III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course reinforces the concepts taught in Strength and Conditioning II to expand upon student's knowledge of exercise physiology and kinesiology. Students in this course will engage in rigorous strength and conditioning activities. Students will develop an in-depth personalized fitness and weight training program. Students may take this course more than once.",
+      "prerequisites": "Strength and Conditioning II or Aerobic Conditioning and Weight Training II",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "PE-971-1",
+      "name": "Strength and Conditioning III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course reinforces the concepts taught in Strength and Conditioning II to expand upon student's knowledge of exercise physiology and kinesiology. Students in this course will engage in rigorous strength and conditioning activities. Students will develop an in-depth personalized fitness and weight training program. Students may take this course more than once.",
+      "prerequisites": "Strength and Conditioning II or Aerobic Conditioning and Weight Training II",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "PE-981-8",
+      "name": "Unified Physical Education and Leadership",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course will allow students with and without disabilities to gain knowledge",
+      "prerequisites": "Lifetime Fitness",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "PE-981-1",
+      "name": "Unified Physical Education and Leadership",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course will allow students with and without disabilities to gain knowledge",
+      "prerequisites": "Lifetime Fitness",
+      "gradeLevel": "10"
+    }
+  ]
+}

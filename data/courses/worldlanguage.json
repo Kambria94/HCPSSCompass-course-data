@@ -1,0 +1,653 @@
+{
+  "name": "WorldLanguage",
+  "courses": [
+    {
+      "courseNumber": "WL-401-1",
+      "name": "American Sign Language I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This class is designed to introduce students to American Sign Language. Students will begin developing skills needed to communicate with deaf persons - such as finger spelling",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-501-1",
+      "name": "American Sign Language II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students will continue to build skills learned in American Sign Language I. New vocabulary will be added as students learn to increase their speed of expressive and receptive signing. Films and field trips will provide opportunities for students to learn about deaf people and their culture. Note",
+      "prerequisites": "American Sign Language I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "WL-601-1",
+      "name": "American Sign Language III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students will further develop expressive and receptive skills. Areas of concentration include vocabulary building",
+      "prerequisites": "American Sign Language II",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-402-1",
+      "name": "Chinese I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Chinese I introduces students to the Chinese language and culture with an overview of Chinese history",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-502-1",
+      "name": "Chinese II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course continues the study of the Chinese language and culture",
+      "prerequisites": "Chinese I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-503-1",
+      "name": "Chinese II - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Though the content is the same as Chinese II",
+      "prerequisites": "Chinese I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-602-1",
+      "name": "Chinese III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Chinese III reinforces basic communication skills and expands to include more sophisticated reading",
+      "prerequisites": "Chinese II or Chinese II-Honors",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-603-1",
+      "name": "Chinese III - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as Chinese III",
+      "prerequisites": "Chinese II or Chinese II - Honors",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-910-1",
+      "name": "Intermediate Special Topics in Chinese - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Intermediate Special Topics in Chinese - Honors uses a thematic approach to move students forward in their language across intermediate proficiency levels. In the course"
+    },
+    {
+      "courseNumber": "WL-910-8",
+      "name": "Intermediate Special Topics in Chinese - Honors (Half Credit"
+    },
+    {
+      "courseNumber": "WL-701-1",
+      "name": "Chinese IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Chinese IV - Honors continues to refine and expand communication skills with emphasis on oral",
+      "prerequisites": "Chinese III or Chinese III - Honors",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "WL-811-1",
+      "name": "Chinese V - AP Chinese Language and Culture",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The Chinese V class in Advanced Placement Chinese Language and Culture prepares students to demonstrate their level of Mandarin Chinese proficiency across the three communicative modes (Interpersonal"
+    },
+    {
+      "courseNumber": "WL-907-1",
+      "name": "Chinese VI - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Chinese V - AP Chinese Language and Culture",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-404-1",
+      "name": "French I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course is an introduction to the French language and Francophone culture. In French I",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-504-1",
+      "name": "French II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course emphasizes what students are able to do in the language. Students communicate regarding a variety of topics in the past",
+      "prerequisites": "French I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-505-1",
+      "name": "French II - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as French II",
+      "prerequisites": "French I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-604-1",
+      "name": "French III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "French III reinforces basic communication skills and expands to include more sophisticated writing and spontaneous speaking. Events are discussed in the present",
+      "prerequisites": "French II or French II-Honors",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-605-1",
+      "name": "French III - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as French III",
+      "prerequisites": "French II or French II - Honors",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-901-1",
+      "name": "Intermediate Special Topics in French - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Intermediate Special Topics in French - Honors uses a thematic approach to move students forward in their language across intermediate proficiency levels. In the course"
+    },
+    {
+      "courseNumber": "WL-901-8",
+      "name": "Intermediate Special Topics in French - Honors (Half Credit"
+    },
+    {
+      "courseNumber": "WL-702-1",
+      "name": "French IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "French IV - Honors continues to refine and expand communication skills in the three modes"
+    },
+    {
+      "courseNumber": "WL-802-1",
+      "name": "French V - AP French Language and Culture",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The AP French Language and Culture course provides students with opportunities to demonstrate their proficiency at the advanced level in each of the three modes of communication (Interpersonal"
+    },
+    {
+      "courseNumber": "WL-908-1",
+      "name": "French VI - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "French V - AP French Language and Culture",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-902-1",
+      "name": "Advanced Special Topics in French - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Advanced Special Topics in French - Honors uses a thematic approach to move students forward in their language proficiency toward intermediate high and advanced levels. In the course"
+    },
+    {
+      "courseNumber": "WL-406-1",
+      "name": "German I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course introduces students to the language and cultures of the German-speaking world. In German I",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-506-1",
+      "name": "German II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course emphasizes what students are able to do in the language. Students communicate on a variety of topics in the past",
+      "prerequisites": "German I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "WL-507-1",
+      "name": "German II - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as German II",
+      "prerequisites": "German I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "WL-606-1",
+      "name": "German III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "German III reinforces communication skills and expands to include more sophisticated writing and spontaneous speaking. Events are discussed in the past",
+      "prerequisites": "German II or German II - Honors",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-607-1",
+      "name": "German III - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as German III",
+      "prerequisites": "German II or German II - Honors",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-912-1",
+      "name": "Intermediate Special Topics in German - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Intermediate Special Topics in German - Honors uses a thematic approach to move students forward in their language across intermediate proficiency levels. In the course"
+    },
+    {
+      "courseNumber": "WL-912-8",
+      "name": "Intermediate Special Topics in German - Honors (Half Credit"
+    },
+    {
+      "courseNumber": "WL-703-1",
+      "name": "German IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "German IV continues to refine and expand communication skills in the three modes"
+    },
+    {
+      "courseNumber": "WL-903-1",
+      "name": "Advanced Special Topics in German - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Advanced Special Topics in German uses a thematic approach to move students forward in their language proficiency toward intermediate high and advanced levels. In the course"
+    },
+    {
+      "courseNumber": "WL-803-1",
+      "name": "German IV - AP German Language and Culture",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The AP German Language and Culture course provides students with opportunities to demonstrate their proficiency at the advanced level in each of the three modes of communication (Interpersonal"
+    },
+    {
+      "courseNumber": "WL-408-1",
+      "name": "Italian I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course is an introduction to the Italian language and culture. In Italian I",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-508-1",
+      "name": "Italian II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Italian I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "WL-509-1",
+      "name": "Italian II - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as Italian II",
+      "prerequisites": "Italian I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "WL-608-1",
+      "name": "Italian III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Italian III reinforces basic communication skills and expands to include more sophisticated writing and spontaneous speaking. Events are discussed in the past",
+      "prerequisites": "Italian II or Italian II - Honors",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-609-1",
+      "name": "Italian III - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as Italian III",
+      "prerequisites": "Italian II or Italian II - Honors",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-913-1",
+      "name": "Intermediate Special Topics in Italian - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Intermediate Special Topics in Italian - Honors uses a thematic approach to move students forward in their language across intermediate proficiency levels. In the course"
+    },
+    {
+      "courseNumber": "WL-913-8",
+      "name": "Intermediate Special Topics in Italian - Honors (Half Credit"
+    },
+    {
+      "courseNumber": "WL-704-1",
+      "name": "Italian IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Italian IV continues to refine and expand communication skills in the three modes"
+    },
+    {
+      "courseNumber": "WL-804-1",
+      "name": "Italian IV - AP Italian Language and Culture",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The AP Italian Language and Culture course provides students with opportunities to demonstrate their proficiency at the advanced level in each of the three modes of communication (Interpersonal"
+    },
+    {
+      "courseNumber": "WL-410-1",
+      "name": "Latin I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Latin I covers the fundamentals of Latin grammar and develops a basic working vocabulary. The aims include the ability to translate Latin on a first-year level",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-510-1",
+      "name": "Latin II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Latin II covers more complicated grammatical structures. It seeks to develop increased facility in translation and knowledge of Roman history.",
+      "prerequisites": "Latin I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "WL-511-1",
+      "name": "Latin II - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Though the content is the same as Latin II",
+      "prerequisites": "Latin I or Latin I - Honors",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "WL-610-1",
+      "name": "Latin III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Latin III will build on the instruction provided in Latin II. Students will receive a more comprehensive study of Roman mythology",
+      "prerequisites": "Latin II or Latin II - Honors",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-611-1",
+      "name": "Latin III - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as Latin III",
+      "prerequisites": "Latin II or Latin II - Honors",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-915-1",
+      "name": "Intermediate Special Topics in Latin - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Intermediate Special Topics in Latin - Honors uses a thematic approach to move students forward in their language across intermediate proficiency levels. In the course"
+    },
+    {
+      "courseNumber": "WL-915-8",
+      "name": "Intermediate Special Topics in Latin - Honors (Half Credit"
+    },
+    {
+      "courseNumber": "WL-705-1",
+      "name": "Latin IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "In alternate years",
+      "prerequisites": "Latin III or Latin III - Honors",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "WL-805-1",
+      "name": "Latin IV - AP [AP Latin",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The AP Latin course focuses on the in-depth study of selections from two of the greatest works in Latin literature",
+      "prerequisites": "Latin III or Latin III - Honors",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "WL-904-1",
+      "name": "Advanced Special Topics in Latin - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Advanced Special Topics in Latin is designed for the continuing study of Latin though a content-based approach. Students practice translating passages",
+      "prerequisites": "Latin IV - Honors",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "WL-412-1",
+      "name": "Russian I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course is an introduction to the Russian language and culture. In Russian I",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-512-1",
+      "name": "Russian II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Russian I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "WL-513-1",
+      "name": "Russian II - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as Russian II",
+      "prerequisites": "Russian I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "WL-612-1",
+      "name": "Russian III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Russian III reinforces basic communication skills and expands to include more sophisticated writing and spontaneous speaking. Events are discussed in the present",
+      "prerequisites": "Russian II",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-613-1",
+      "name": "Russian III - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as Russian III",
+      "prerequisites": "Russian II or Russian II - Honors",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-706-1",
+      "name": "Russian IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Russian IV continues to refine and expand communication skills. There is review of key grammar structures",
+      "prerequisites": "Russian III or Russian III - Honors",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "WL-414-1",
+      "name": "Spanish I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course introduces students to the language and cultures of the Spanish-speaking world. In Spanish I",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-514-1",
+      "name": "Spanish II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course emphasizes what students are able to do in the language. Students communicate about a variety of topics in past",
+      "prerequisites": "Spanish I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-515-1",
+      "name": "Spanish II - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as Spanish II",
+      "prerequisites": "Spanish I",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-614-1",
+      "name": "Spanish III",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Spanish III reinforces communication skills and expands to include more sophisticated writing and spontaneous speaking. Events are discussed in the present",
+      "prerequisites": "Spanish II or Spanish II - Honors",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-615-1",
+      "name": "Spanish III - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Although the content is the same as Spanish III",
+      "prerequisites": "Spanish II or Spanish II - Honors",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "WL-905-1",
+      "name": "Intermediate Special Topics in Spanish - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Intermediate Special Topics in Spanish - Honors uses a thematic approach to move students forward in their language across intermediate proficiency levels. In the course"
+    },
+    {
+      "courseNumber": "WL-905-8",
+      "name": "Intermediate Special Topics in Spanish - Honors (Half Credit"
+    },
+    {
+      "courseNumber": "WL-707-1",
+      "name": "Spanish IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Spanish IV - Honors continues to refine and expand communication skills in the three modes"
+    },
+    {
+      "courseNumber": "WL-806-1",
+      "name": "Spanish V - AP Spanish Language",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The AP Spanish Language and Culture course provides students with opportunities to demonstrate their proficiency at the advanced level in each of the three modes of communication (Interpersonal"
+    },
+    {
+      "courseNumber": "WL-807-1",
+      "name": "Spanish V - AP Spanish Literature",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "The Spanish V class in Advanced Placement Spanish Literature familiarizes students with literary selections and develops their ability to read",
+      "prerequisites": "Spanish IV - Honors",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-909-1",
+      "name": "Spanish VI - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "Spanish V - AP Spanish Language or Spanish V - AP Spanish Literature",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "WL-906-1",
+      "name": "Advanced Special Topics in Spanish - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Advanced Special Topics in Spanish - Honors uses a thematic approach to move students forward in their language proficiency toward intermediate high and advanced levels. In the course"
+    },
+    {
+      "courseNumber": "WL-999-1",
+      "name": "Laboratory Assistant - World Languages",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Working under the direction of the teacher",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    }
+  ]
+}

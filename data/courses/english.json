@@ -1,0 +1,361 @@
+{
+  "name": "English",
+  "courses": [
+    {
+      "courseNumber": "LA-401-1",
+      "name": "English 9",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students read",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "LA-400-1",
+      "name": "English 9 Seminar",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "English 9 Seminar is an elective course for selected students who are reading no more than two years below grade level. This course supports the students' understanding of skills and concepts taught in the English 9 class by providing students with additional instructional time for explicit instruction in strategic reading",
+      "prerequisites": "Teacher recommendation; Corequisite",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "LA-402-1",
+      "name": "English 9 - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Students read",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "LA-403-1",
+      "name": "English 9 - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "This class offers an enriched",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "LA-501-1",
+      "name": "English 10",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students explore the actions and reactions of individuals to the world in which they live and construct oral and written analytical responses to diverse text formats that are thematically connected",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "LA-502-1",
+      "name": "English 10 - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Students read",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "LA-503-1",
+      "name": "English 10 - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "description": "In this course",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "LA-500-1",
+      "name": "High School English Seminar",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "High School English Seminar is an elective course for selected students concurrently enrolled in English 10 or English 11. The co-taught delivery model provides opportunities for additional explicit instruction and hands-on experiences for developing critical reading",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "LA-600-8",
+      "name": "English High School Assessment Mastery",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course is an elective course for students who need additional assistance mastering the standards measured on the MCAP. Class instruction focuses on engaging students in whole class",
+      "prerequisites": "English 10",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-601-1",
+      "name": "English 11",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students explore American literature within the context of the American Dream",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-602-1",
+      "name": "English 11 - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "English 11 Honors requires students to have a commitment to academic pursuit",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-603-1",
+      "name": "English 11 - AP [AP English Language and Composition]",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This College Board-approved course supports the College Board's AP English Language and Composition Course Description. Students construct expository",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-701-1",
+      "name": "English 12",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students enhance their critical reading",
+      "prerequisites": "None",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "LA-702-1",
+      "name": "English 12 - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "English 12 Honors requires students to have a commitment to academic pursuit",
+      "prerequisites": "None",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "LA-703-1",
+      "name": "English 12 - AP [AP English Literature and Composition]",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "description": "This College Board-approved course supports the College Board's AP English Literature and Composition Course Description. This intensive course provides students opportunities to examine closely works by major authors from historical",
+      "prerequisites": "None",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "LA-800-8",
+      "name": "Advanced Composition",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "Throughout this elective course students write papers in each of the four traditional rhetorical modes of description",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-800-1",
+      "name": "Advanced Composition",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Throughout this elective course students write papers in each of the four traditional rhetorical modes of description",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-810-8",
+      "name": "African American Literature",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course exposes students to African American writers and their contributions to the development of American literature. The chronological",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-810-1",
+      "name": "African American Literature",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course exposes students to African American writers and their contributions to the development of American literature. The chronological",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-830-1",
+      "name": "Humanities I - G/T (English"
+    },
+    {
+      "courseNumber": "LA-831-1",
+      "name": "Humanities II - G/T (English"
+    },
+    {
+      "courseNumber": "LA-832-1",
+      "name": "Humanities III - AP (English"
+    },
+    {
+      "courseNumber": "LA-833-1",
+      "name": "Humanities IV - AP (English"
+    },
+    {
+      "courseNumber": "LA-840-1",
+      "name": "Journalism I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Journalism I is an introductory course designed to prepare students for roles on the school newspaper staff. The course strives to make connections between high school and professional journalism while also allowing students to explore and understand the impact their opinions and actions have on their high school",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "LA-841-1",
+      "name": "Journalism II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students learn the practical experience of producing the school newspaper. This experience includes forming a staff",
+      "prerequisites": "Journalism I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "LA-842-1",
+      "name": "Journalism III - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Students enrolled in this course refine and enhance journalistic skills introduced in Journalism I and II. Students communicate in a variety of forms for a variety of audiences and purposes. Advanced-level students assume leadership roles and contribute to local and national publications. Some assignments may include tasks outside of class. Level III students may expect to invest approximately 4 hours of out-of-class time each week.",
+      "prerequisites": "Journalism II",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-843-1",
+      "name": "Journalism IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Students refine journalistic skills and assume major responsibilities for the production of the school newspaper. In addition",
+      "prerequisites": "Journalism III",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "LA-860-8",
+      "name": "Speech Communication I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "The student learns to speak effectively in both formal and informal situations",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "LA-860-1",
+      "name": "Speech Communication I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "The student learns to speak effectively in both formal and informal situations",
+      "prerequisites": "None",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "LA-865-8",
+      "name": "Speech Communication II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "description": "This course provides students with the opportunity to polish and refine some of the basic speech skills introduced in Speech Communication I. Experiences with formal debate",
+      "prerequisites": "Speech Communication I or consent of instructor",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-865-1",
+      "name": "Speech Communication II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "This course provides students with the opportunity to polish and refine some of the basic speech skills introduced in Speech Communication I. Experiences with formal debate",
+      "prerequisites": "Speech Communication I or consent of instructor",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-870-1",
+      "name": "Yearbook I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students receive a practical",
+      "prerequisites": "None",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "LA-871-1",
+      "name": "Yearbook II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students continue practical experiences in publications through the production of a yearbook",
+      "prerequisites": "Yearbook I",
+      "gradeLevel": "10"
+    },
+    {
+      "courseNumber": "LA-872-1",
+      "name": "Yearbook III - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Students refine publication skills and assume major management responsibilities for the production of the yearbook. In addition",
+      "prerequisites": "Yearbook II",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-873-1",
+      "name": "Yearbook IV - Honors",
+      "isWeighted": true,
+      "courseLevel": "Honors",
+      "credits": 1,
+      "description": "Students polish their publication skills and assume leadership responsibilities for the production of the school yearbook. In addition",
+      "prerequisites": "Yearbook III",
+      "gradeLevel": "12"
+    },
+    {
+      "courseNumber": "LA-999-1",
+      "name": "Laboratory Asst. - English Language Arts",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Working under the direction of the teacher",
+      "prerequisites": "None",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "LA-905-1",
+      "name": "Strategic Reading I",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students who are marked Below Level in reading and who are two or more years below grade level in reading would be eligible for enrollment in this program. The high school reading specialist and special educator or ELD teacher may co-teach the course. Students are provided with explicit reading instructional support in the areas of vocabulary",
+      "prerequisites": "Below Level reading performance and two or more years below grade level in reading",
+      "gradeLevel": "9"
+    },
+    {
+      "courseNumber": "LA-910-1",
+      "name": "Strategic Reading II",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "description": "Students who are marked Below Level in reading and who are two or more years below grade level in reading would be eligible for enrollment in this program. The high school reading specialist and special educator or ELD teacher may co-teach the course. Students are provided with explicit reading instructional support in the areas of vocabulary",
+      "prerequisites": "Strategic Reading I and reading specialist recommendation",
+      "gradeLevel": "9"
+    }
+  ]
+}

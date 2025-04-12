@@ -1,0 +1,25 @@
+{
+  "name": "GraphicDesign",
+  "courses": [
+    {
+      "courseNumber": "CT-715-2",
+      "name": "Graphic Design I - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 2,
+      "description": "This course introduces students to advanced digital publishing techniques used by professional graphic designers. Topics include",
+      "prerequisites": "Art I",
+      "gradeLevel": "11"
+    },
+    {
+      "courseNumber": "CT-725-3",
+      "name": "Advanced Graphic Design - G/T",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 3,
+      "description": "Students learn advanced level graphic skills and techniques based on successfully completed projects in Graphic Design I - G/T. All students are required to choose real-world problems to research and must complete a portfolio of their work. Graphic Design students have the opportunity to acquire Print ED certification",
+      "prerequisites": "Graphic Design I - G/T",
+      "gradeLevel": "12"
+    }
+  ]
+}

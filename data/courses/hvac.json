@@ -1,5 +1,5 @@
 {
-  "name": "HVAC",
+  "name": "hvac",
   "courses": [
     {
       "courseNumber": "CT-754-2",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 2,
-      "description": "This course is the core introduction to basic construction skills covering essential topics such as basic safety",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course is the core introduction to basic construction skills covering essential topics such as basic safety, introduction to construction math, hand tools, power tools, construction drawings, basic communication skills, employability skills, and material handling. These foundational skills are applicable to all skilled trades, emphasizing safe work practices, proper tool usage, professional conduct, and technical language proficiency. Students will engage with various HVAC concepts through hands-on activities, projects, and problems, making learning both practical and exciting. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-756-3",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 3,
-      "description": "This course completes the HVAC Career Academy coursework. Students can choose to participate in a skills-based internship or apprenticeship or stay on campus to complete the advanced course curriculum. The NCCER HVAC Level 1 curriculum covers essential project-based work topics such as Introduction to HVACR*",
       "prerequisites": "HVAC I",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "This course completes the HVAC Career Academy coursework. Students can choose to participate in a skills-based internship or apprenticeship or stay on campus to complete the advanced course curriculum. The NCCER HVAC Level 1 curriculum covers essential project-based work topics such as Introduction to HVACR*, trade mathematics, basics in: electricity, heating, cooling, air distribution systems, copper and plastic piping practices, soldering and brazing, and carbon steel piping practices. These foundational skills encompass electrical systems, air distribution, hydronic distribution, refrigeration, and heating cycles. Students can participate in a worksite experience that includes a mentored experience with a personalized work-based training plan. Students must provide their own transportation to the worksite."
     }
   ]
 }

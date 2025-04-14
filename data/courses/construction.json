@@ -1,5 +1,5 @@
 {
-  "name": "Construction",
+  "name": "construction",
   "courses": [
     {
       "courseNumber": "CT-740-2",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 2,
-      "description": "Students apply architectural engineering",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Students apply architectural engineering, construction technology, and management principles to practical projects within residential and commercial construction. In addition to carpentry, students in this course also explore a variety of construction trade areas, such as electrical and plumbing. Current software solutions, machines, material usage, and design techniques are employed. Students will work in teams to construct models and full-scale projects appropriate to the solution of design, management, and construction problems. Students are enrolled via equitable, randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-742-3",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 3,
-      "description": "This course completes the Construction Academy coursework. Students may either participate in a skills based internship or remain on campus to complete the advanced course curriculum. Students who participate in an internship are required to complete at least 6-8 hours per week at their internship site and must provide their own transportation to the internship site.",
       "prerequisites": "Construction Technology I",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "This course completes the Construction Academy coursework. Students may either participate in a skills based internship or remain on campus to complete the advanced course curriculum. Students who participate in an internship are required to complete at least 6-8 hours per week at their internship site and must provide their own transportation to the internship site."
     }
   ]
 }

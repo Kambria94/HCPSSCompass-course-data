@@ -1,5 +1,5 @@
 {
-  "name": "Theatre",
+  "name": "theatre",
   "courses": [
     {
       "courseNumber": "DT-410-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Theatre Arts I is a performance-based course which offers students an introduction to the process and production of theatre. Students will use critical thinking and problem solving to create personal meaning through collaborative performances. Students will use theatre practices to create",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Theatre Arts I is a performance-based course which offers students an introduction to the process and production of theatre. Students will use critical thinking and problem solving to create personal meaning through collaborative performances. Students will use theatre practices to create, perform, and reflect in social and historical contexts. An expectation is that students will attend live theatrical productions during after-school hours. The number of required non-school hour events during a school year may not exceed 6."
     },
     {
       "courseNumber": "DT-741-1",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Theatre I or application and audition",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this course, students collaborate as a production company working as directors, writers, actors, designers, and technicians on theatrical projects. Exploring plays and theatre processes from a variety of time periods and cultures, students develop performances and designs for production. Students in this course are expected to participate in class project performances. The number of required non-school hour practices, events, and performances during a school year may not exceed 25. Students are encouraged to be a part of the co-curricular productions. This course can be repeated for elective credit."
     },
     {
       "courseNumber": "DT-751-1",
@@ -27,9 +27,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Theatre I or application and audition",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this course, students assume leadership within the production company working as directors, writers, actors, designers, and technicians on theatrical projects. Synthesizing historical and cultural perspectives, students will justify their artistic choices. Students will create a digital portfolio showcasing their work from the course. This class will cultivate a theatre artist who is empowered to make theatre with integrity that reflects personal meaning and engages the community. Students in this course are expected to participate in class projects performances. The number of required non-school hour practices, events, and performances during a school year may not exceed 25. Students are encouraged to be a part of the co-curricular productions. This course can be repeated for elective credit."
     },
     {
       "courseNumber": "DT-761-1",
@@ -37,9 +37,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Theatre I or application and audition",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this course, students collaborate as a production company working as directors, lyricists, composers, choreographers, actors, designers, and technicians on theatrical projects. Exploring musicals and theatre processes from a variety of time periods and cultures, students develop performances and designs for production. Students in this course are expected to participate in class project performances. The number of required non-school hour practices, events, and performances during a school year may not exceed 25. Students are encouraged to be a part of the co-curricular productions. This course can be repeated for elective credit."
     },
     {
       "courseNumber": "DT-771-1",
@@ -47,9 +47,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Theatre I or application and audition",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this course, students assume leadership within the production company working as directors, writers, actors, designers, and technicians on theatrical projects. Synthesizing historical and cultural perspectives, students will justify their artistic choices. Students will create a digital portfolio showcasing their work from the course. This class will cultivate a theatre artist who is empowered to make theatre with integrity that reflects personal meaning and engages the community. Students in this course are expected to participate in class project performances. The number of required non-school hour practices, events, and performances during a school year may not exceed 25. Students are encouraged to be a part of the co-curricular productions. This course can be repeated for elective credit."
     },
     {
       "courseNumber": "DT-791-1",
@@ -57,9 +57,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this Fine Arts course",
       "prerequisites": "Theatre I or application and audition",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "In this Fine Arts course, an emphasis on training a new generation of theatre artists through original creation, portfolio development, independent research, task commitment, and special topics related to Theatre. The majority of the class time will be dedicated to production team tasks connected to the co-curricular productions and/or classroom instruction supervised by the Theatre Arts teacher. Performance components beyond the regular school day are required. The number of required non-school hour practices, events and performances during a school year may not exceed 30. This course can be repeated for elective credit."
     },
     {
       "courseNumber": "DT-910-8",
@@ -67,9 +67,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "In this semester course",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "In this semester course, students will design and construct the technical elements involved in theatrical productions. Students will learn about storytelling and design principles in order to apply them to set, lighting, prop, sound, costume, and marketing. Students will also learn about safe practices in construction and electrical work. Students will be actively involved in the production process. The semester course does not satisfy the fine arts credit for graduation."
     }
   ]
 }

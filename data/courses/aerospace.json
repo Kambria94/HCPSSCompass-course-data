@@ -1,5 +1,5 @@
 {
-  "name": "Aerospace",
+  "name": "aerospace",
   "courses": [
     {
       "courseNumber": "CT-605-2",
@@ -7,8 +7,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 2,
-      "description": "This is a hands-on course that helps students understand the field of engineering and the engineering design process. Students use computer-modeling software to study and apply the engineering design process. Students design",
-      "prerequisites": "Geometry is the minimum math requirement. (Can be taken concurrently"
+      "prerequisites": "Geometry is the minimum math requirement. (Can be taken concurrently)",
+      "gradeLevel": "11, 12",
+      "description": "This is a hands-on course that helps students understand the field of engineering and the engineering design process. Students use computer-modeling software to study and apply the engineering design process. Students design, construct, test, and evaluate various projects that apply knowledge and skills. This course includes course material from PLTW Introduction to Engineering Design, PLTW Principles of Engineering, and Engineering Essentials. Students are enrolled via equitable, randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-615-3",
@@ -16,7 +17,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 3,
-      "description": "This is a hands-on course in which students use computer simulations to learn about the logic of electronics while they design"
+      "prerequisites": "Aerospace I - G/T",
+      "gradeLevel": "12",
+      "description": "This is a hands-on course in which students use computer simulations to learn about the logic of electronics while they design, test, and construct circuits and devices. In addition, this course propels students' learning in the fundamentals of atmospheric and space flight. As they explore the physics of flight, students bring the concepts to life by designing an airfoil, propulsion system, and rockets. They learn basic orbital mechanics using industry-standard software. Finally, students work in teams to research, design, and construct solutions to open-ended engineering problems. A mentoring engineer guides students through the process. This course includes the Project Lead the Way (PLTW) course curriculum from PLTW Digital Electronics - G/T, PLTW Aerospace Engineering - G/T, and the PLTW Engineering Design and Development - G/T."
     }
   ]
 }

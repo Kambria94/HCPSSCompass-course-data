@@ -1,5 +1,5 @@
 {
-  "name": "ELD",
+  "name": "eld",
   "courses": [
     {
       "courseNumber": "EL-420-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course provides multilingual learners with intensive instruction to accelerate the acquisition of vocabulary",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "This course provides multilingual learners with intensive instruction to accelerate the acquisition of vocabulary, language forms and conventions, and to increase linguistic complexity in English. Students earn one World Language credit."
     },
     {
       "courseNumber": "EL-420-8",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course provides multilingual learners with intensive instruction to accelerate the acquisition of vocabulary",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "This course provides multilingual learners with intensive instruction to accelerate the acquisition of vocabulary, language forms and conventions, and to increase linguistic complexity in English. Students earn one World Language credit."
     },
     {
       "courseNumber": "EL-421-8",
@@ -27,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course provides multilingual learners with intensive instruction to accelerate the acquisition of vocabulary",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "This course provides multilingual learners with intensive instruction to accelerate the acquisition of vocabulary, language forms and conventions, and to increase linguistic complexity in English. Students earn one World Language credit."
     },
     {
       "courseNumber": "EL-430-1",
@@ -37,9 +37,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course focuses on developing foundational reading skills for multilingual learners with limited literacy skills in their native language. It includes instruction in the areas of word study",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "This course focuses on developing foundational reading skills for multilingual learners with limited literacy skills in their native language. It includes instruction in the areas of word study, grammar, and comprehension skills. Specific objectives are differentiated for the needs of individual students and the cohort of learners."
     },
     {
       "courseNumber": "EL-430-8",
@@ -47,9 +47,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course focuses on developing foundational reading skills for multilingual learners with limited literacy skills in their native language. It includes instruction in the areas of word study",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "This course focuses on developing foundational reading skills for multilingual learners with limited literacy skills in their native language. It includes instruction in the areas of word study, grammar, and comprehension skills. Specific objectives are differentiated for the needs of individual students and the cohort of learners."
     },
     {
       "courseNumber": "EL-431-8",
@@ -57,9 +57,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course focuses on developing foundational reading skills for multilingual learners with limited literacy skills in their native language. It includes instruction in the areas of word study",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "This course focuses on developing foundational reading skills for multilingual learners with limited literacy skills in their native language. It includes instruction in the areas of word study, grammar, and comprehension skills. Specific objectives are differentiated for the needs of individual students and the cohort of learners."
     },
     {
       "courseNumber": "EL-410-1",
@@ -67,7 +67,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course is designed for multilingual Learners with entering and emerging English proficiency levels (ELP 1 - ELP 2"
+      "prerequisites": "None",
+      "gradeLevel": "9",
+      "description": "This course is designed for multilingual Learners with entering and emerging English proficiency levels (ELP 1 - ELP 2). In this course, students develop academic language in all modes of communication including listening, speaking, reading, and writing. Instruction focuses on word/phrase, sentence, and discourse dimensions of language used to access the concepts and objectives of secondary content courses. This course fulfills one World Language credit. Note: Course may not meet all colleges' entrance requirements."
     },
     {
       "courseNumber": "EL-410-8",
@@ -75,7 +77,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is designed for multilingual Learners with entering and emerging English proficiency levels (ELP 1 - ELP 2"
+      "prerequisites": "None",
+      "gradeLevel": "9",
+      "description": "This course is designed for multilingual Learners with entering and emerging English proficiency levels (ELP 1 - ELP 2). In this course, students develop academic language in all modes of communication including listening, speaking, reading, and writing. Instruction focuses on word/phrase, sentence, and discourse dimensions of language used to access the concepts and objectives of secondary content courses. This course fulfills one World Language credit. Note: Course may not meet all colleges' entrance requirements."
     },
     {
       "courseNumber": "EL-411-8",
@@ -83,7 +87,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is designed for multilingual Learners with entering and emerging English proficiency levels (ELP 1 - ELP 2"
+      "prerequisites": "None",
+      "gradeLevel": "9",
+      "description": "This course is designed for multilingual Learners with entering and emerging English proficiency levels (ELP 1 - ELP 2). In this course, students develop academic language in all modes of communication including listening, speaking, reading, and writing. Instruction focuses on word/phrase, sentence, and discourse dimensions of language used to access the concepts and objectives of secondary content courses. This course fulfills one World Language credit. Note: Course may not meet all colleges' entrance requirements."
     },
     {
       "courseNumber": "EL-510-1",
@@ -91,7 +97,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course is designed for multilingual learners with emerging and developing English proficiency levels (ELP 2 - ELP 3"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10",
+      "description": "This course is designed for multilingual learners with emerging and developing English proficiency levels (ELP 2 - ELP 3). In this course, students develop academic language in all modes of communication including listening, speaking, reading, and writing. Instruction focuses on word/phrase, sentence, and discourse dimensions of language used to access the concepts and objectives of secondary content courses. This course fulfills one World Language credit. Note: Course may not meet all colleges' entrance requirements."
     },
     {
       "courseNumber": "EL-510-8",
@@ -99,7 +107,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is designed for multilingual learners with emerging and developing English proficiency levels (ELP 2 - ELP 3"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10",
+      "description": "This course is designed for multilingual learners with emerging and developing English proficiency levels (ELP 2 - ELP 3). In this course, students develop academic language in all modes of communication including listening, speaking, reading, and writing. Instruction focuses on word/phrase, sentence, and discourse dimensions of language used to access the concepts and objectives of secondary content courses. This course fulfills one World Language credit. Note: Course may not meet all colleges' entrance requirements."
     },
     {
       "courseNumber": "EL-511-8",
@@ -107,7 +117,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is designed for multilingual learners with emerging and developing English proficiency levels (ELP 2 - ELP 3"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10",
+      "description": "This course is designed for multilingual learners with emerging and developing English proficiency levels (ELP 2 - ELP 3). In this course, students develop academic language in all modes of communication including listening, speaking, reading, and writing. Instruction focuses on word/phrase, sentence, and discourse dimensions of language used to access the concepts and objectives of secondary content courses. This course fulfills one World Language credit. Note: Course may not meet all colleges' entrance requirements."
     },
     {
       "courseNumber": "EL-611-1",
@@ -115,7 +127,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course is designed for multilingual learners with developing and expanding English proficiency levels (ELP 3 - ELP 4"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is designed for multilingual learners with developing and expanding English proficiency levels (ELP 3 - ELP 4). In this course, students develop academic language in all modes of communication including listening, speaking, reading, and writing. Instruction focuses on more complex word/phrase, sentence, and discourse dimensions of language used to access the concepts and objectives of secondary content courses. This course fulfills one World Language credit. Note: Course may not meet all colleges' entrance requirements."
     },
     {
       "courseNumber": "EL-611-8",
@@ -123,7 +137,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is designed for multilingual learners with developing and expanding English proficiency levels (ELP 3 - ELP 4"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is designed for multilingual learners with developing and expanding English proficiency levels (ELP 3 - ELP 4). In this course, students develop academic language in all modes of communication including listening, speaking, reading, and writing. Instruction focuses on more complex word/phrase, sentence, and discourse dimensions of language used to access the concepts and objectives of secondary content courses. This course fulfills one World Language credit. Note: Course may not meet all colleges' entrance requirements."
     },
     {
       "courseNumber": "EL-612-8",
@@ -131,7 +147,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is designed for multilingual learners with developing and expanding English proficiency levels (ELP 3 - ELP 4"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is designed for multilingual learners with developing and expanding English proficiency levels (ELP 3 - ELP 4). In this course, students develop academic language in all modes of communication including listening, speaking, reading, and writing. Instruction focuses on more complex word/phrase, sentence, and discourse dimensions of language used to access the concepts and objectives of secondary content courses. This course fulfills one World Language credit. Note: Course may not meet all colleges' entrance requirements."
     }
   ]
 }

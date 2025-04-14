@@ -1,5 +1,5 @@
 {
-  "name": "AdvancedResearch",
+  "name": "advancedResearch",
   "courses": [
     {
       "courseNumber": "GT-400-1",
@@ -7,9 +7,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Independent Research is a college-level course in which students design an original research study or creative production in self-selected areas of interest. Students learn advanced-level research methodologies and college-level writing and oral presentation skills. Under the guidance of the G/T resource teacher",
       "prerequisites": "Application and teacher recommendations",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Independent Research is a college-level course in which students design an original research study or creative production in self-selected areas of interest. Students learn advanced-level research methodologies and college-level writing and oral presentation skills. Under the guidance of the G/T resource teacher, each student identifies a problem and formulates a research question. Student researchers address identified problems, answer research questions, and communicate the results of their achievements to professionals in their selected areas of study."
     },
     {
       "courseNumber": "GT-410-1",
@@ -17,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Independent Research II is a second-level course for students wishing to continue their research or creative production. Students learn advanced-level research methodologies and college-level writing and oral presentation skills. Under the guidance of the G/T resource teacher",
       "prerequisites": "Independent Research I - G/T and teacher recommendations",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Independent Research II is a second-level course for students wishing to continue their research or creative production. Students learn advanced-level research methodologies and college-level writing and oral presentation skills. Under the guidance of the G/T resource teacher, each student identifies a problem and formulates a research question. Student researchers address identified problems, answer research questions, and communicate the results of their achievements to professionals in their selected areas of study. Students may participate in an internship or mentorship."
     },
     {
       "courseNumber": "GT-420-1",
@@ -27,25 +27,49 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Independent Research III is a third-level course for students wishing to continue their research or creative production. Students learn advanced-level research methodologies and college-level writing and oral presentation skills. Under the guidance of the G/T resource teacher",
       "prerequisites": "Independent Research II - G/T and teacher recommendations",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Independent Research III is a third-level course for students wishing to continue their research or creative production. Students learn advanced-level research methodologies and college-level writing and oral presentation skills. Under the guidance of the G/T resource teacher, each student identifies a problem and formulates a research question. Student researchers address identified problems, answer research questions, and communicate the results of their achievements to professionals in their selected areas of study. Students may participate in an internship or mentorship."
     },
     {
       "courseNumber": "GT-430-1",
-      "name": "Intern/Mentor Program I - G/T (1 credit"
+      "name": "Intern/Mentor Program I - G/T (1 credit)",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "prerequisites": "Grade of \\",
+      "gradeLevel": "11, 12",
+      "description": "Students in this college-level course design an original research study or creative production intended to contribute new knowledge to the field of study. Students study off-campus (five to ten hours per week) with a professional mentor in a self-selected area of interest. The G/T resource teacher facilitates the experience and provides instruction in research methodologies, advanced writing skills, and oral presentation skills. At the mentor's worksite, students apply their knowledge and skills."
     },
     {
       "courseNumber": "GT-440-2",
-      "name": "Intern/Mentor Program I - G/T (2 credits"
+      "name": "Intern/Mentor Program I - G/T (2 credits)",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 2,
+      "prerequisites": "Grade of \\",
+      "gradeLevel": "11, 12",
+      "description": "Students in this college-level course design an original research study or creative production intended to contribute new knowledge to the field of study. Students study off-campus (five to ten hours per week) with a professional mentor in a self-selected area of interest. The G/T resource teacher facilitates the experience and provides instruction in research methodologies, advanced writing skills, and oral presentation skills. At the mentor's worksite, students apply their knowledge and skills."
     },
     {
       "courseNumber": "GT-450-1",
-      "name": "Intern/Mentor Program II - G/T (1 credit"
+      "name": "Intern/Mentor Program II - G/T (1 credit)",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "prerequisites": "Intern/Mentor Program I - G/T; Grade of \\",
+      "gradeLevel": "12",
+      "description": "Students in this college-level course design an original research study or creative production intended to contribute new knowledge to the field of study. Students study off-campus (five to ten hours per week) with a professional mentor in a self-selected area of interest. The G/T resource teacher facilitates the experience and provides instruction in research methodologies, advanced writing skills, and oral presentation skills. At the mentor's worksite, students apply their knowledge and skills."
     },
     {
       "courseNumber": "GT-460-2",
-      "name": "Intern/Mentor Program II - G/T (2 credits"
+      "name": "Intern/Mentor Program II - G/T (2 credits)",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 2,
+      "prerequisites": "Intern/Mentor Program I - G/T; Grade of \\",
+      "gradeLevel": "12",
+      "description": "Students in this college-level course design an original research study or creative production intended to contribute new knowledge to the field of study. Students study off-campus (five to ten hours per week) with a professional mentor in a self-selected area of interest. The G/T resource teacher facilitates the experience and provides instruction in research methodologies, advanced writing skills, and oral presentation skills. At the mentor's worksite, students apply their knowledge and skills."
     }
   ]
 }

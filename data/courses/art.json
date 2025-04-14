@@ -1,95 +1,95 @@
 {
-  "name": "Art",
+  "name": "art",
   "courses": [
     {
       "courseNumber": "VA-400-1",
-      "name": "Art I",
+      "name": "Art I: Defining the Artistic Process",
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Art I is the prerequisite course for the comprehensive high school art program and fulfills the one-credit Fine Arts graduation requirement. Studio problems are designed to build creative and critical thinking skills through hands-on practice in drawing",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Art I is the prerequisite course for the comprehensive high school art program and fulfills the one-credit Fine Arts graduation requirement. Studio problems are designed to build creative and critical thinking skills through hands-on practice in drawing, painting, printmaking, sculpture, digital and mixed media. Students gain an appreciation for the role of art in our culturally diverse world while developing essential life skills such as perseverance, collaboration, reflection, and refinement."
     },
     {
       "courseNumber": "VA-500-1",
-      "name": "Art II",
+      "name": "Art II: Developing Ideas in Media",
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course challenges students to refine their skills in visual arts media exploration and creative problem solving. These problems become increasingly complex and require students to draw upon knowledge of both traditional and contemporary art from diverse cultures. Works of art that reflect a personal aesthetic and exhibit breadth and quality become the basis for a cumulative portfolio including a sketchbook/journal.",
       "prerequisites": "Art I or application and portfolio review",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course challenges students to refine their skills in visual arts media exploration and creative problem solving. These problems become increasingly complex and require students to draw upon knowledge of both traditional and contemporary art from diverse cultures. Works of art that reflect a personal aesthetic and exhibit breadth and quality become the basis for a cumulative portfolio including a sketchbook/journal."
     },
     {
       "courseNumber": "VA-510-1",
-      "name": "Art II",
+      "name": "Art II: Developing Ideas in Media - G/T",
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course challenges students to refine their skills in visual arts media exploration and creative problem solving. These problems become increasingly complex and require students to draw upon knowledge of both traditional and contemporary art from diverse cultures. Works of art that reflect a personal aesthetic and exhibit breadth and quality become the basis for a cumulative portfolio including a sketchbook/journal. This course is recommended for students who have demonstrated an ability to work successfully at a demanding pace. Emphasis is placed on creative problem solving",
       "prerequisites": "Art I or application and portfolio review",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course challenges students to refine their skills in visual arts media exploration and creative problem solving. These problems become increasingly complex and require students to draw upon knowledge of both traditional and contemporary art from diverse cultures. Works of art that reflect a personal aesthetic and exhibit breadth and quality become the basis for a cumulative portfolio including a sketchbook/journal. This course is recommended for students who have demonstrated an ability to work successfully at a demanding pace. Emphasis is placed on creative problem solving, independent research, and task commitment."
     },
     {
       "courseNumber": "VA-640-1",
-      "name": "Art III",
+      "name": "Art III: Finding Meaning - Exploring Contemporary Media and Processes - Honors",
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course challenges students to take risks",
       "prerequisites": "Art II or Art II - G/T",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course challenges students to take risks, explore contemporary artistic practices and ideas to expand their portfolio. Students will research the work of contemporary artists and processes which can include collaboration, installation, and performative-based art making. Students are expected to investigate a variety of visual arts materials with a focus on quality and develop an understanding of contemporary art making practices. Students articulate intent through collaborative discourse and written statements based on concepts demonstrated through a body of work and sketchbook/journal studio experiences."
     },
     {
       "courseNumber": "VA-650-1",
-      "name": "Art III",
+      "name": "Art III: Finding Meaning - Exploring Contemporary Media and Processes - G/T",
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course challenges students to take risks",
       "prerequisites": "Art II or Art II - G/T",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course challenges students to take risks, explore contemporary artistic practices and ideas to expand their portfolio. Students will research the work of contemporary artists and processes which can include collaboration, installation, and performative-based art making. Students are expected to investigate a variety of visual arts materials with a focus on quality and develop an understanding of contemporary art making practices. Students articulate their intent through collaborative discourse and written artist's statements based on individual concepts demonstrated through a cumulative portfolio and sketchbook/journal. Emphasis is placed on creative problem solving, independent research and learning, task commitment, and special topics."
     },
     {
       "courseNumber": "VA-700-1",
-      "name": "Art IV",
+      "name": "Art IV: Personal Directions in Art - Honors",
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Art III or Art III - G/T",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "In this course, students develop a body of work informed by the research of culturally diverse, contemporary and historic artists, and peer dialogue in support of an identified artistic direction and inquiry. Students maintain a sketchbook/journal to investigate ideas, themes, and media and develop a portfolio that reflect a breadth of course experiences. Students are expected to document their artistic process and support the quality execution of artworks defended by artist's statements."
     },
     {
       "courseNumber": "VA-710-1",
-      "name": "Art IV",
+      "name": "Art IV: Personal Directions in Art - AP [AP Studio Art: Drawing, 2-D Design and 3-D Design]",
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Art III or Art III - G/T",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "In this course, students develop and refine a body of work informed by independent research of culturally diverse, contemporary and historic artists, and peer dialogue in support of an identified personal direction and inquiry. The portfolio reflects a breadth of experiences, concentration on a specific theme, and quality execution of artworks. Students maintain a sketchbook/journal to accumulate and investigate ideas, themes, and media. The portfolio reflects a breadth of experiences, the documentation of the artistic process, concentration on a specific theme, and the quality execution of artworks defended by a personal artist's statement. The course continues the development of the body of work begun in Art III. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "VA-855-1",
-      "name": "Art V",
+      "name": "Art V: Independent Inquiry - Materials and Meaning Making - Honors",
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Art IV or Art IV - AP",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "In this course, students pursue new ideas and solutions informed by personal aesthetics, material meaning, and thematic interests. Independent research into contemporary and historic artistic practices/processes and student-led inquiry support personal artistic investigations and direction. Students maintain a sketchbook/journal to investigate ideas, themes, and media and further develop their portfolios to reflect a depth of inquiry and document their artistic process. Written artist statements and reflections support and defend artistic choices and document decision making."
     },
     {
       "courseNumber": "VA-860-1",
-      "name": "Art V",
+      "name": "Art V: Independent Inquiry - Materials and Meaning Making - AP [AP Studio Art: Drawing, 2-D Design and 3-D Design]",
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Art IV or Art IV - AP",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "In this course, students continue to pursue ideas and solutions informed by personal aesthetics, material meaning, and thematic interests. Independent research into contemporary and historic artistic practices/processes and student-led inquiry support personal artistic investigations and direction. Students maintain a sketchbook/journal to investigate ideas, themes, and media and further develop their portfolios to reflect a depth of inquiry and document their artistic process. Written artist statements and reflections support and defend artistic choices and document decision making. Students' AP portfolios will demonstrate a specific line of inquiry supported by reflective, personal artist's statements. The course continues the development of the body of work begun in Art IV. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "VA-720-1",
@@ -97,9 +97,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "The Advanced Placement offering in History of Art is designed to provide the same benefits to high school students as those provided by an introductory college course in art history. In this course",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "The Advanced Placement offering in History of Art is designed to provide the same benefits to high school students as those provided by an introductory college course in art history. In this course, students examine major forms of artistic expression around the globe and from the past through the present. While it benefits students to have successfully completed Art I: Foundations of Studio and to have a foundation in content knowledge and art making practices, it is not a requirement. It is recommended that students in this course take the AP Exam when it is offered in May. This course does not satisfy the fine art graduation credit. It is a general elective credit."
     },
     {
       "courseNumber": "VA-810-1",
@@ -107,79 +107,79 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "The course challenges students to take risks",
-      "prerequisites": "Concurrent enrollment in Art III-Honors",
-      "gradeLevel": "10"
+      "prerequisites": "Concurrent enrollment in Art III-Honors, Art IV-Honors, or Art V - Honors",
+      "gradeLevel": "10, 11, 12",
+      "description": "The course challenges students to take risks, experiment with and expand upon art media competencies, and explore personal concepts to develop a thematic body of artwork. Students research the work of contemporary artists employing studio processes that enable them to communicate personal concepts and ideas. Each student in the course is expected to handle visual arts media with a sense of quality, breadth, and concentration on a particular interest or problem as evidenced in a thematic cumulative portfolio and sketchbook/journal."
     },
     {
       "courseNumber": "VA-820-1",
-      "name": "Art Studio - AP [Studio Art",
+      "name": "Art Studio - AP [Studio Art: Drawing, 2-D Design, and 3-D Design]",
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "The course challenges students to take risks",
-      "prerequisites": "Concurrent enrollment in Art III-GT",
-      "gradeLevel": "10"
+      "prerequisites": "Concurrent enrollment in Art III-GT, Art IV-AP, or Art V - AP",
+      "gradeLevel": "10, 11, 12",
+      "description": "The course challenges students to take risks, experiment with and expand upon art media competencies, and explore personal concepts in developing a thematic body of artwork. Students research the work of contemporary artists employing studio processes that enable them to communicate personal concepts and ideas. Each student in the course is expected to handle visual arts media with a sense of quality, breadth, and concentration on a particular interest or problem as evidenced in a thematic cumulative portfolio and sketchbook/journal for the purposes of college portfolio applications. It is recommended that students in this course take the AP Exam when offered in May."
     },
     {
       "courseNumber": "VA-520-1",
-      "name": "Photography I",
+      "name": "Photography I: Developing Ideas in Photography",
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Art I or application and portfolio review",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "In this course, students apply the language of art in producing fine art photographs. Primary experiences will center around the use of a 35mm single lens reflex camera, film processing, darkroom techniques, print manipulation, and the presentation of work. Technical skills evolve through the introduction of pinhole photography and contact printing. Experiences throughout the course will include composing, exposing, processing, enlarging images in the darkroom, and basic experiences in digital imaging."
     },
     {
       "courseNumber": "VA-530-1",
-      "name": "Photography I",
+      "name": "Photography I: Developing Ideas in Photography - G/T",
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course explores the ways students apply the language of art in producing fine art photographs. Primary experiences will center around the use of a 35mm single lens reflex camera",
       "prerequisites": "Art I or application and portfolio review",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course explores the ways students apply the language of art in producing fine art photographs. Primary experiences will center around the use of a 35mm single lens reflex camera, film processing, darkroom techniques, print manipulation, and the presentation of work for specific purposes. Technical skills evolve through the introduction of pinhole photography and contact printings while refining personal and conceptual ideas. Experiences throughout the course will include composing, exposing, processing, enlarging images in the darkroom, and photographic digital imaging processes. This course is recommended for students who have demonstrated an ability to work successfully at a demanding pace. Emphasis is placed on creative problem solving, independent research, and task commitment, while developing a portfolio that reflects a diverse breadth of photographic experiences."
     },
     {
       "courseNumber": "VA-620-1",
-      "name": "Photography II",
+      "name": "Photography II: Portfolio Development - Honors",
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Photography I",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "In this course, students refine and master technical skills as well as experiment with alternative approaches and materials as they compose unique photographs. Additionally, students will develop a photographic portfolio that demonstrates quality, shows breadth of formal, technical, and expressive experiences and concentrates on a specific theme or problem. Through collaboration with peers and instructors students will develop a personal aesthetic viewpoint. In-class and independent problems further the development of skills and techniques."
     },
     {
       "courseNumber": "VA-630-1",
-      "name": "Photography II",
+      "name": "Photography II: Portfolio Development - AP [AP Studio Art: 2-D Design]",
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course begins the development of a body of work leading to the Advanced Placement Examination. Students will refine and master technical skills as well as experiment with alternative approaches and materials as they compose photographs. Additionally",
       "prerequisites": "Photo I",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course begins the development of a body of work leading to the Advanced Placement Examination. Students will refine and master technical skills as well as experiment with alternative approaches and materials as they compose photographs. Additionally, students will develop a photographic portfolio that demonstrates quality, shows breadth of formal, technical, and expressive experiences and concentrates on a specific theme or problem. Through collaboration with peers and instructors students will develop a personal aesthetic viewpoint that will be demonstrated through the AP Portfolio. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "VA-740-1",
-      "name": "Photography III",
+      "name": "Photography III: Personal Directions in Photography - Honors",
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "In this course students will develop a thematic body of work that can be used for college admissions",
       "prerequisites": "Photography II or Photography II - AP",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "In this course students will develop a thematic body of work that can be used for college admissions, scholarships and student exhibitions. As students move from the second to the third level in photo studio, the content sharpens in focus upon self-assessment and evaluation. Students continue working in a sketchbook/journal to refine personal imagery based on the study of master artists."
     },
     {
       "courseNumber": "VA-750-1",
-      "name": "Photography III",
+      "name": "Photography III: Personal Directions in Photography - AP [AP Studio Art: 2-D Design]",
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "In this course each student will develop a thematic body of work that can be used for the Advanced Placement portfolio",
       "prerequisites": "Photography II or Photography II - AP",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "In this course each student will develop a thematic body of work that can be used for the Advanced Placement portfolio, college admissions, scholarships, and student exhibitions. As students move from the second to the third level in photo studio, the content sharpens its focus upon self-assessment and evaluation. Students continue working in a sketchbook/journal to refine personal imagery based on the study of master artists. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "VA-830-1",
@@ -187,19 +187,19 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "The course challenges students to take risks",
       "prerequisites": "Concurrent enrollment in Photo II-Honors or Photo III-Honors",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "The course challenges students to take risks, experiment with and expand upon photographic media competencies, and explore personal concepts in developing a thematic body of artwork. Students research the work of contemporary photographers employing studio processes that enable them to communicate personal concepts and ideas. Each student in the course is expected to handle photographic media with a sense of quality, breadth, and concentration on a particular interest or problem as evidenced in a thematic cumulative portfolio and sketchbook/journal."
     },
     {
       "courseNumber": "VA-840-1",
-      "name": "Photo Studio - AP [AP Studio Art",
+      "name": "Photo Studio - AP [AP Studio Art: 2-D Design]",
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "The course challenges students to take risks",
       "prerequisites": "Concurrent enrollment in Photo II-AP or Photo III-AP",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "The course challenges students to take risks, experiment with and expand upon art media competencies, and explore personal concepts in developing a thematic body of artwork. Students research the work of contemporary artists employing studio processes that enable them to communicate personal concepts and ideas. Each student in the course is expected to handle visual arts media with a sense of quality, breadth, and concentration on a particular interest or problem as evidenced in a thematic cumulative portfolio and sketchbook/journal for the purposes of college portfolio applications. It is recommended that students in this course take the AP Exam when offered in May."
     },
     {
       "courseNumber": "VA-900-8",
@@ -207,9 +207,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is designed for students who want to effectively develop presentations to deliver information and ideas in a visually clear and compelling manner. Research suggests that people better connect to",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is designed for students who want to effectively develop presentations to deliver information and ideas in a visually clear and compelling manner. Research suggests that people better connect to, understand, and retain information when images accompany words. Through a practice-based, hands-on approach, students will learn how to effectively design infographics, integrate text and images with specific audiences in mind, using both traditional and digital media to communicate ideas, data or information. This course does not satisfy the fine arts credit for graduation."
     }
   ]
 }

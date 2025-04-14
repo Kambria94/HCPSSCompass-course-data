@@ -1,5 +1,5 @@
 {
-  "name": "Cybersecurity",
+  "name": "cybersecurity",
   "courses": [
     {
       "courseNumber": "CT-790-2",
@@ -7,7 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 2,
-      "description": "This course provides an introduction to the computer hardware and software and fundamental networking skills needed to help meet the growing demand for entry-level IT professionals. The curriculum covers the fundamentals of PC technology"
+      "prerequisites": "Algebra I",
+      "gradeLevel": "11, 12",
+      "description": "This course provides an introduction to the computer hardware and software and fundamental networking skills needed to help meet the growing demand for entry-level IT professionals. The curriculum covers the fundamentals of PC technology, networking, and systems security and also provides an introduction to advanced concepts. Students who complete this course will be able to describe the internal components of a PC, assemble and fix laptops and desktops. Hands-on labs and e-learning tools help students develop critical thinking and complex problem solving skills in a network environment. This course prepares students for CompTIA A+ certifications as well as offers a learning pathway to the Networking Essentials (Cyber Ops pathway). Students are enrolled via equitable, randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-792-3",
@@ -15,7 +17,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 3,
-      "description": "This course provides in-depth coverage of small to medium or ISP network knowledge and current cybersecurity risks and threats to an organization's data"
+      "prerequisites": "Cybersecurity Computer Essentials",
+      "gradeLevel": "12",
+      "description": "This course provides in-depth coverage of small to medium or ISP network knowledge and current cybersecurity risks and threats to an organization's data, combined with a structured way of addressing the safeguarding of these critical electronic assets. This course offers a hands-on approach to learning with interactive tools and labs to help students develop greater understanding of the general theory needed to build networks. Students acquire the knowledge necessary for protecting network services, devices, traffic, and data. Students who meet specific criteria may participate in a worksite internship related to their career interests or will to remain on campus to complete the advanced course curriculum. Students who participate in an internship are required to complete at least 6-8 hours per week at their internship site and must provide their own transportation to the internship site (Cyber Ops pathway)."
     },
     {
       "courseNumber": "CT-685-2",
@@ -23,7 +27,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 2,
-      "description": "This course provides a framework for understanding the why"
+      "prerequisites": "Algebra I",
+      "gradeLevel": "11, 12",
+      "description": "This course provides a framework for understanding the why, where, and how of the components of a computer network. Students learn the fundamentals of cybersecurity and computer networking through the use of the Cisco Networking Academy curriculum, which helps students develop skills to earn the Cisco Certified Support Technician (CCST) certification. This course offers a learning pathway to the Cybersecurity Networking II - G/T (Computer Networking Pathway). Students are enrolled via equitable, randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-695-3",
@@ -31,7 +37,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 3,
-      "description": "This course provides students with the knowledge of cybersecurity-related issues necessary to implement system security in a wide variety of networks. Students learn in-depth information about the risks and vulnerabilities of networks and focus on network defense techniques. In addition"
+      "prerequisites": "Cybersecurity and Computer Networking I - G/T",
+      "gradeLevel": "12",
+      "description": "This course provides students with the knowledge of cybersecurity-related issues necessary to implement system security in a wide variety of networks. Students learn in-depth information about the risks and vulnerabilities of networks and focus on network defense techniques. In addition, students become skilled at protecting and securing sensitive information on networks and systems. This course offers hands-on, interactive problem-solving activities that allow students to analyze the latest cyber-related threats and mitigation techniques. Students work towards earning the Cisco Certified Network Associate (CCNA) certification (Computer Networking Pathway)."
     }
   ]
 }

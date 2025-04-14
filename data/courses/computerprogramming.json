@@ -1,5 +1,5 @@
 {
-  "name": "ComputerProgramming",
+  "name": "computerProgramming",
   "courses": [
     {
       "courseNumber": "CT-405-1",
@@ -7,9 +7,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course will introduce students to creative aspects of programming",
       "prerequisites": "Algebra I",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course will introduce students to creative aspects of programming, using abstractions and algorithms, working with large data sets, understanding the Internet and issues of cybersecurity, and impacts of computing that affect different populations. Students will have the opportunity to use current technologies to solve problems and create meaningful computational artifacts."
     },
     {
       "courseNumber": "CT-400-1",
@@ -17,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course will give students the opportunity to delve into real-world",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course will give students the opportunity to delve into real-world, relevant computing problems while gaining foundation computer science knowledge. Students will engage in several in-depth projects to demonstrate the real-world applications of computing. Students will explore human computer iteration, problem solving, web design, programming, computing and data analysis, and robotics."
     },
     {
       "courseNumber": "CT-800-1",
@@ -27,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course prepares students to understand and apply technological concepts and processes that are the cornerstone of the high school technology education program. Students study the nature and technological issues of the designed world. Group and individual activities engage students in creating ideas",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course prepares students to understand and apply technological concepts and processes that are the cornerstone of the high school technology education program. Students study the nature and technological issues of the designed world. Group and individual activities engage students in creating ideas, developing innovations, design, fabricating, and engineering practical solutions. Technology content, resources, and laboratory/classroom activties allow students to apply science, mathematics, and other school subjects in authentic situations."
     },
     {
       "courseNumber": "CT-475-1",
@@ -37,9 +37,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course is a fast-paced advanced level course that extends the study of the fundamental principles and technology of object-oriented programming using the Java language. Topics include classes",
       "prerequisites": "Programming Fundamentals - G/T or Computer Science Principles - AP with teacher approval",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is a fast-paced advanced level course that extends the study of the fundamental principles and technology of object-oriented programming using the Java language. Topics include classes, objects, data types, variables, Boolean expressions, methods, looping, input, and output. It is recommended that students in this course sit for the AP Exam when it is offered in May. This course may also be used as one of the four mathematics courses that satisfies graduation requirements, as well as the mathematics every year in high school. However, in accordance with the University System of MD requirements, this course should not serve as the final high school mathematics course. Students taking this course in grade 12 should also enroll in another mathematics course."
     },
     {
       "courseNumber": "CT-495-1",
@@ -47,7 +47,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course explores advanced components of object-oriented programming. Topics include Graphic User Interfaces (GUIs"
+      "prerequisites": "Computer Science A - AP",
+      "gradeLevel": "11, 12",
+      "description": "This course explores advanced components of object-oriented programming. Topics include Graphic User Interfaces (GUIs), effective web-page design, and advanced aspects of software development. The Java programming language, the use of Java applets, JavaScript, and HTML will be emphasized."
     },
     {
       "courseNumber": "CT-496-1",
@@ -55,9 +57,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Successful completion or concurrent enrollment in Advanced Object-Oriented Design - G/T",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "In this course, students explore advanced topics being pursued by contemporary computer science researchers. It begins with a survey of abstract data types and the algorithms used to implement them. Students use the knowledge and skills developed through programming and algorithm design/analysis to perform hands-on, project-driven explorations of advanced topics. Possible topics include machine learning, encryption algorithms, data science, cybersecurity, robotics, and quantum computing. These topics are currently dominating the computer science field and companies are looking for people with experience. Topics are modified as the needs of the workforce changes."
     },
     {
       "courseNumber": "CT-463-1",
@@ -65,9 +67,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this course, students will explore the fundamentals of programming concepts and text-based coding using Python. It is predicated on the notion that learning about programming and computer science should be fun and engaging. In this course, students will be exposed to graphics-based problem solving because it is visually engaging, allows for multiple correct solutions, and provides visual cues when a solution goes awry. Additionally, students will be introduced to the Java programming language in order to prepare for additional course work in the academy."
     }
   ]
 }

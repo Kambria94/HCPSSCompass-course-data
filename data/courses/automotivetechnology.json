@@ -1,5 +1,5 @@
 {
-  "name": "AutomotiveTechnology",
+  "name": "automotiveTechnology",
   "courses": [
     {
       "courseNumber": "CT-736-2",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 2,
-      "description": "Students will receive training covering every system of the automobile",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Students will receive training covering every system of the automobile, related tools, and industry equipment. Emphasis is on diagnostics, troubleshooting skills, safe use of equipment, suspension and steering, and brake systems. Course content provides students with the knowledge and skills required for entry-level employment as a repair technician in any modern shop. Students are enrolled via equitable, randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-738-3",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 3,
-      "description": "Students will continue to study the components of the automobile technology curriculum. Topics include diagnostics",
       "prerequisites": "Automotive Technology I",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Students will continue to study the components of the automobile technology curriculum. Topics include diagnostics, troubleshooting skills, safe use of equipment, electrical and electronic systems, and engine performance. Course content provides students with the knowledge and skills required for entry-level employment as a repair technician in any modern shop."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "CareerResearch",
+  "name": "careerResearch",
   "courses": [
     {
       "courseNumber": "CT-510-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Using Maryland's career clusters",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Using Maryland's career clusters, students gain an understanding of how accurate, current, and unbiased career information is necessary for successful career planning. Topics include financial literacy, goal setting and planning, investigating careers, finding, applying for, and maintaining employment, communicating effectively, applying reading and mathematical skills, understanding choices and challenges in the world of work, and using appropriate technology. Students will complete a career portfolio."
     },
     {
       "courseNumber": "CT-520-1",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students continue to explore career options and develop workplace readiness skills. Topics include meeting the expectations of an employer",
       "prerequisites": "Career Research and Development I",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Students continue to explore career options and develop workplace readiness skills. Topics include meeting the expectations of an employer, teamwork, assessing progress towards career goals, entrepreneur/leadership, financial literacy, and using interpersonal skills, communicating effectively, following health and safety rules, applying reading and mathematical skills, and using technology at the workplace."
     },
     {
       "courseNumber": "CT-530-1",
@@ -27,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Using the career research",
       "prerequisites": "None",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Using the career research, interest inventories, and aptitude tests taken in CRD I, students work with their teacher for placement based on their results and interests. Students will sign a student placement contract. This is a mentored experience with a minimum of 135 work hours monitored by the CRD teacher. Additionally, students will develop a written work-based training plan. Special education students who require more direct support to be successful, may receive services through the Work-Study teacher at their school as determined by the IEP team. Students must provide their own transportation to the worksite."
     }
   ]
 }

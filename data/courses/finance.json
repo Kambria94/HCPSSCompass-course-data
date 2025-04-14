@@ -1,5 +1,5 @@
 {
-  "name": "Finance",
+  "name": "finance",
   "courses": [
     {
       "courseNumber": "CT-625-2",
@@ -7,9 +7,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 2,
-      "description": "This course teaches students a diverse set of skills and knowledge in the field of business and finance. Through exploration and application of financial planning",
       "prerequisites": "Algebra I",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course teaches students a diverse set of skills and knowledge in the field of business and finance. Through exploration and application of financial planning, investment strategies, and accounting and economic principles, students will create financial plans and investment portfolios. Students will also apply accounting principles to a small business cycle. Units of study include: Principles of Finance, Principles of Accounting, Business Economics, Financial Planning, and Applied Finance. Students are enrolled via equitable, randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-635-3",
@@ -17,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 3,
-      "description": "Students will have the opportunity to combine theory and innovation into real-world application through a semester-based internship in the business environment",
       "prerequisites": "Academy of Finance I - G/T",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Students will have the opportunity to combine theory and innovation into real-world application through a semester-based internship in the business environment, a three credit college level business course, and in the creation of business strategic plans. Units of study include: Managerial Accounting, Entrepreneurship, Business Ethics, and Global Business. Students who meet specific criteria will participate in a worksite internship related to their career interests. Students who participate in an internship are required to complete at least 6-8 hours per week at their internship site and must provide their own transportation to the internship site."
     }
   ]
 }

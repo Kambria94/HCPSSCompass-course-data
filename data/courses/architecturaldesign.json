@@ -1,5 +1,5 @@
 {
-  "name": "ArchitecturalDesign",
+  "name": "architecturalDesign",
   "courses": [
     {
       "courseNumber": "CT-730-2",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 2,
-      "description": "This course will introduce the basic principles and methods of design as applied to architecture. Basic design theories and strategies related to the development of spatial concepts in architectural design including composition",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course will introduce the basic principles and methods of design as applied to architecture. Basic design theories and strategies related to the development of spatial concepts in architectural design including composition, color, form, and relationship of elements will be applied in the development of 2D and 3D design projects. This course further emphasizes the architectural design process while relating these principles to general construction practices. Students are enrolled via equitable randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-734-3",
@@ -17,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 3,
-      "description": "This course is now aligned with the new MSDE Program of Study",
       "prerequisites": "Architectural Design",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "This course is now aligned with the new MSDE Program of Study, Construction Design Management which prepares students for college and career opportunities. Students also work on earning Autodesk Revit certification which is the standard for Architects in the field. The curriculum dually aligns with the University of Maryland and Morgan State University curricular goals and objectives wherein students can earn articulated credit or advanced standing when accepted to architectural programs. Students also complete a capstone project that is reviewed and juried by architects and architectural industry professionals."
     }
   ]
 }

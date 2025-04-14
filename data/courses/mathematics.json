@@ -1,5 +1,5 @@
 {
-  "name": "Mathematics",
+  "name": "mathematics",
   "courses": [
     {
       "courseNumber": "MA-401-1",
@@ -7,7 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course focuses on the mastery of five critical areas"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course focuses on the mastery of five critical areas: (1) developing understanding and investigating relationships between quantities and reasoning with equations; (2) developing understanding and applying linear and exponential relationships; (3) performing arithmetic operations on polynomial expressions, solving equations, inequalities, and systems of equations; (4) using properties of rational and irrational numbers to develop an understanding of quadratic functions; and (5) investigating trends and modeling with descriptive statistics."
     },
     {
       "courseNumber": "MA-400-8",
@@ -15,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "Algebra I Seminar is an elective course for students concurrently enrolled in Algebra I. The course provides students with additional instructional time to master content",
       "prerequisites": "Concurrent enrollment in Algebra I",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11",
+      "description": "Algebra I Seminar is an elective course for students concurrently enrolled in Algebra I. The course provides students with additional instructional time to master content, engage in applications-based problem solving, and develop the behaviors defined by the Standards for Mathematical Practices."
     },
     {
       "courseNumber": "MA-400-1",
@@ -25,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Algebra I Seminar is an elective course for students concurrently enrolled in Algebra I. The course provides students with additional instructional time to master content",
       "prerequisites": "Concurrent enrollment in Algebra I",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11",
+      "description": "Algebra I Seminar is an elective course for students concurrently enrolled in Algebra I. The course provides students with additional instructional time to master content, engage in applications-based problem solving, and develop the behaviors defined by the Standards for Mathematical Practices."
     },
     {
       "courseNumber": "MA-410-8",
@@ -35,9 +37,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is an elective course for students who have passed the Algebra I course and have not passed the MCAP Algebra I Assessment. The course fulfills the requirement for appropriate assistance before a student can re-take the MCAP–Algebra I Assessment. Instruction is offered with a high degree of one-on-one and small group interaction with the teacher.",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is an elective course for students who have passed the Algebra I course and have not passed the MCAP Algebra I Assessment. The course fulfills the requirement for appropriate assistance before a student can re-take the MCAP–Algebra I Assessment. Instruction is offered with a high degree of one-on-one and small group interaction with the teacher."
     },
     {
       "courseNumber": "MA-431-1",
@@ -45,9 +47,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course focuses on the development of transformational",
       "prerequisites": "Algebra I",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course focuses on the development of transformational, Euclidean, and coordinate geometry with extensive real-world application. Students work with rigid motions, dilations, and constructions of geometric figures to establish criteria for determining if two figures are similar and/or congruent. Students prove theorems and apply concepts of proportional reasoning to begin to explore right triangle trigonometry. Students also explore probability of compound events."
     },
     {
       "courseNumber": "MA-430-8",
@@ -55,9 +57,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "Geometry Seminar is an elective course for students concurrently enrolled in Geometry. The course provides students with additional instructional time to master content",
       "prerequisites": "Concurrent enrollment in Geometry",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11",
+      "description": "Geometry Seminar is an elective course for students concurrently enrolled in Geometry. The course provides students with additional instructional time to master content, engage in applications-based problem solving, and develop the behaviors defined by the Standards for Mathematical Practices."
     },
     {
       "courseNumber": "MA-430-1",
@@ -65,9 +67,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Geometry Seminar is an elective course for students concurrently enrolled in Geometry. The course provides students with additional instructional time to master content",
       "prerequisites": "Concurrent enrollment in Geometry",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11",
+      "description": "Geometry Seminar is an elective course for students concurrently enrolled in Geometry. The course provides students with additional instructional time to master content, engage in applications-based problem solving, and develop the behaviors defined by the Standards for Mathematical Practices."
     },
     {
       "courseNumber": "MA-433-1",
@@ -75,9 +77,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this Gifted and Talented course",
       "prerequisites": "Algebra I",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this Gifted and Talented course, students will focus on the development of transformational, Euclidean, and coordinate geometry with extensive real-world application. Students work with rigid motions, dilations, and constructions of geometric figures to establish criteria for determining if two figures are similar and/or congruent. Student will prove and use theorems, definitions, and postulates to explain mathematical conjectures for various geometric figures and angle concepts. Students also explore probability of compound events, and an introduction to trigonometry."
     },
     {
       "courseNumber": "MA-461-1",
@@ -85,9 +87,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course extends the study of topics introduced in Algebra I. The emphases on linear",
       "prerequisites": "Algebra I and Geometry",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course extends the study of topics introduced in Algebra I. The emphases on linear, quadratic, exponential, logarithmic, polynomial, and rational functions are motivated by data investigations. Graphing calculators are an integral part of this course. This course may be taken concurrently with Geometry."
     },
     {
       "courseNumber": "MA-460-8",
@@ -95,9 +97,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "Algebra II Seminar is an elective course for students concurrently enrolled in Algebra II. It provides students with additional instructional time to master essential algebraic content and engage in applications-based problem solving",
       "prerequisites": "Concurrent enrollment in Algebra II",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Algebra II Seminar is an elective course for students concurrently enrolled in Algebra II. It provides students with additional instructional time to master essential algebraic content and engage in applications-based problem solving, communication of mathematical ideas, and reasoning and proof. This course provides the opportunity for students to improve study skills and build mathematical foundations for future mathematical study. As an integral component of the course, technology facilitates investigation and deepens understanding."
     },
     {
       "courseNumber": "MA-460-1",
@@ -105,9 +107,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Algebra II Seminar is an elective course for students concurrently enrolled in Algebra II. It provides students with additional instructional time to master essential algebraic content and engage in applications-based problem solving",
       "prerequisites": "Concurrent enrollment in Algebra II",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Algebra II Seminar is an elective course for students concurrently enrolled in Algebra II. It provides students with additional instructional time to master essential algebraic content and engage in applications-based problem solving, communication of mathematical ideas, and reasoning and proof. This course provides the opportunity for students to improve study skills and build mathematical foundations for future mathematical study. As an integral component of the course, technology facilitates investigation and deepens understanding."
     },
     {
       "courseNumber": "MA-463-1",
@@ -115,9 +117,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course is for students capable of and interested in progressing through the concepts of Algebra II - G/T",
-      "prerequisites": "Algebra I",
-      "gradeLevel": "9"
+      "prerequisites": "Algebra I, Geometry, or Geometry - G/T",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is for students capable of and interested in progressing through the concepts of Algebra II - G/T, Algebra II and enrichment topics at an accelerated rate and in more depth. Course requirements are rigorous, with an emphasis on mathematical reasoning and communication. Graphing tools are an integral part of this course."
     },
     {
       "courseNumber": "MA-491-1",
@@ -125,9 +127,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course is designed to further student understanding of the content initially presented in Algebra II. This course",
       "prerequisites": "Students must have taken Algebra II or Algebra II G/T",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course is designed to further student understanding of the content initially presented in Algebra II. This course, collaboratively developed with Howard Community College, is designed to prepare students for entry into a college level, credit-bearing mathematics course. In addition to college level strategies, topics include linear, exponential, logarithmic, quadratic, polynomial, rational, radical, and absolute value functions. Time will also be spent on applications of algebraic functions, matrices, and conic sections. Graphing tools are an integral part of the course."
     },
     {
       "courseNumber": "MA-502-1",
@@ -135,9 +137,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course serves as a foundation for students who will be taking calculus. It focuses on graphical analysis through the study of sequence and series; polynomials",
       "prerequisites": "Algebra II or Algebra II - G/T",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course serves as a foundation for students who will be taking calculus. It focuses on graphical analysis through the study of sequence and series; polynomials, rational, radical, exponential, logarithmic, and logistic functions; continuity and limits; vectors; and absolute value, greatest integer, and piecewise functions. This course emphasizes the use of graphing tools."
     },
     {
       "courseNumber": "MA-522-1",
@@ -145,9 +147,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course serves as a foundation for students who will be taking calculus. It focuses on right triangle trigonometry",
       "prerequisites": "Algebra II or Algebra II - G/T",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course serves as a foundation for students who will be taking calculus. It focuses on right triangle trigonometry, circular functions, graphs of trigonometric functions, inverse trigonometric functions, trigonometric identities, trigonometric equations, coordinate geometry, oblique triangles, conic sections, parametric equations, and polar coordinates."
     },
     {
       "courseNumber": "MA-542-1",
@@ -155,9 +157,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course extends the concepts of algebra and includes topics in trigonometry",
       "prerequisites": "Algebra II or Algebra II - G/T",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course extends the concepts of algebra and includes topics in trigonometry, analytic geometry, manipulating various function families, and exploring limits for the various function families. This course is for students capable of and interested in progressing through the concepts of precalculus. Its purpose is to equip students with the knowledge and skills necessary for Business Calculus - G/T and/or Calculus AB - AP, excluding Calculus C/Multivariate Calculus - AP. Course requirements are rigorous, with an emphasis on mathematical reasoning and communication. Graphing tools are an integral part of this course."
     },
     {
       "courseNumber": "MA-543-1",
@@ -165,9 +167,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course extends the concepts of algebra and includes topics in trigonometry; statistics; parametric",
       "prerequisites": "Algebra II or Algebra II - G/T",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course extends the concepts of algebra and includes topics in trigonometry; statistics; parametric, polar, trigonometric, and rational functions; data analysis; and sequences and series. This course is for students capable of and interested in progressing through the concepts of precalculus and enrichment topics at an accelerated rate and in more depth. Its purpose is to equip students with the knowledge and skills necessary for Business Calculus - G/T and/or Calculus AB - AP, and subsequently, Calculus C/Multivariate Calculus - AP. Course requirements are rigorous, with an emphasis on mathematical reasoning and communication. Graphing tools are an integral part of this course."
     },
     {
       "courseNumber": "MA-563-1",
@@ -175,9 +177,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course includes the major concepts and methods used to collect",
       "prerequisites": "Algebra II or Algebra II - G/T",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course includes the major concepts and methods used to collect, analyze, and draw conclusions from data. Students will use the statistical problem solving and data science process to interpret categorical and quantitative data, make inferences, and justify conclusions from sample surveys, experiments, and observational studies. Students will apply probability rules to calculate expected values, analyze and compare strategies on the basis of expected values, and evaluate the outcomes of decisions."
     },
     {
       "courseNumber": "MA-565-1",
@@ -185,9 +187,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "Statistics AP offers students an opportunity to learn college level",
       "prerequisites": "Algebra II or Algebra II - G/T",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Statistics AP offers students an opportunity to learn college level, non-calculus based statistics that focuses on four major topics: data exploration, study planning, probability as it relates to distributions of data and simulations, and inferential reasoning. The course content prepares students to meet the rigor and the calculator requirements of the Advanced Placement examination. Graphing calculators are an integral part of this course. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "MA-643-1",
@@ -195,9 +197,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course is an introduction to the study of Discrete Mathematics",
       "prerequisites": "Precalculus - G/T or Precalculus - Honors",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course is an introduction to the study of Discrete Mathematics, a branch of contemporary mathematics that develops reasoning and problem-solving abilities, with an emphasis on proof. Topics include logic, mathematical reasoning and proof, set theory, combinatorics, probability cryptology, and graph theory. Course requirements are rigorous with an emphasis on mathematical reasoning and communication. This course is intended for students interested in mathematics and/or the computer sciences. Graphing tools are an integral part of this course."
     },
     {
       "courseNumber": "MA-603-1",
@@ -205,9 +207,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Business Calculus - G/T is an applications-based calculus course. Concepts of rate of change and differentiation of functions are applied to such topics as motion",
-      "prerequisites": "Mathematical Analysis - Honors",
-      "gradeLevel": "11"
+      "prerequisites": "Mathematical Analysis - Honors, Precalculus - Honors or Precalculus - G/T",
+      "gradeLevel": "11, 12",
+      "description": "Business Calculus - G/T is an applications-based calculus course. Concepts of rate of change and differentiation of functions are applied to such topics as motion, optimization, and average cost. Concepts of accumulation of change and integration of functions are applied to such topics as present and future value and population growth. The content of this course is not intended to prepare students for the Advanced Placement exam. Graphing tools are an integral part of this course."
     },
     {
       "courseNumber": "MA-625-1",
@@ -215,9 +217,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course is fundamental to the study of all advanced mathematics",
-      "prerequisites": "Precalculus - Honors",
-      "gradeLevel": "10"
+      "prerequisites": "Precalculus - Honors, Precalculus - G/T or Mathematical Analysis - Honors and Trigonometry - Honors",
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is fundamental to the study of all advanced mathematics, science, and engineering. The content includes the study of limits, derivatives, algebraic and transcendental functions, differentials, indefinite integrals, applications of derivatives and definite integrals, and methods of integration. The course content prepares students to meet the rigor and the calculator requirements of the Advanced Placement examination, AB Level. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "MA-705-1",
@@ -225,8 +227,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "Calculus C/Multivariate Calculus continues concepts studied in Calculus AB. Topics include hyperbolic functions",
-      "prerequisites": "Precalculus - G/T (or Mathematics Analysis - Honors and Trigonometry - Honors"
+      "prerequisites": "Precalculus - G/T (or Mathematics Analysis - Honors and Trigonometry - Honors) and Calculus AB - AP",
+      "gradeLevel": "11, 12",
+      "description": "Calculus C/Multivariate Calculus continues concepts studied in Calculus AB. Topics include hyperbolic functions, sequences and series, parametric and vector-value functions, partial derivatives, improper integrals, directional directives, multiple integration, and applications. Optional topics include Green's Theorem, Stokes' Theorem, and the Divergence Theorem. This course is designed to meet the rigor and calculator requirements of the Advanced Placement examination, BC Level. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "MA-710-1",
@@ -234,9 +237,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students in this course will develop skills in the basic concepts of linear algebra. These skills will cover areas such as vector spaces",
       "prerequisites": "Calculus AB - AP",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Students in this course will develop skills in the basic concepts of linear algebra. These skills will cover areas such as vector spaces, systems of linear equations and matrices, determinants, similar matrices, diagonalizations, linear transformations, eigenvalues and eigenvectors, inner product spaces, quadratic forms, and complex vector spaces."
     },
     {
       "courseNumber": "MA-723-1",
@@ -244,9 +247,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "The course content includes a study of standard types of elementary differential equations",
       "prerequisites": "Calculus C/Multivariate Calculus - AP",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "The course content includes a study of standard types of elementary differential equations, linear equations, systems of linear equations, series solutions, numerical methods, stability, elementary partial differential equations, boundary value problems, applications, and other selected topics."
     },
     {
       "courseNumber": "MA-999-1",
@@ -254,9 +257,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Working under the direction of the teacher",
       "prerequisites": "Approval of the mathematics instructional team leader",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Working under the direction of the teacher, students gain work experience in the paraprofessional aspects of teaching in the developmental mathematics classes. Student assistants will distribute, collect, and store materials of instruction, provide routine assistance to students, and provide occasional tutorial assistance to students under the guidance of the teacher. Only one elective credit can be earned as a student assistant; credit may be awarded only after the 20th required graduation credit has been recorded."
     },
     {
       "courseNumber": "CT-475-1",
@@ -264,9 +267,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course is a fast-paced advanced level course that extends the study of the fundamental principles and technology of object-oriented programming using the Java language. Topics include classes",
       "prerequisites": "Programming Fundamentals G/T; or Computer Science Principles AP with teacher approval",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is a fast-paced advanced level course that extends the study of the fundamental principles and technology of object-oriented programming using the Java language. Topics include classes, objects, data types, variables, Boolean expressions, methods, looping, input, and output. Topics will include searching, sorting, GUI components and event handling. It is recommended that students in this course take the AP Exam when it is offered in May. This course may also be used as one of the four mathematics courses that satisfies graduation requirements, as well as the mathematics every year in high school requirement. However, in accordance with the University System of MD requirements, this course should not serve as the final high school mathematics course. Students taking this course in grade 12 should also enroll in another mathematics course."
     }
   ]
 }

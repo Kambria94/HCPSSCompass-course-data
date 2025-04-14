@@ -1,5 +1,5 @@
 {
-  "name": "JROTCAirForce",
+  "name": "jrotcAirForce",
   "courses": [
     {
       "courseNumber": "CT-971-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0,
-      "description": "Air Force JROTC's mission is to \\Develop citizens of character dedicated to serving their nation and community.\\ The program educates and trains cadets in citizenship",
       "prerequisites": "None",
-      "gradeLevel": "None"
+      "gradeLevel": "None",
+      "description": "Air Force JROTC's mission is to \\\"Develop citizens of character dedicated to serving their nation and community.\\\" The program educates and trains cadets in citizenship, promotes community service, instills responsibility, character, and self-discipline, and provides instruction in air and space fundamentals. Students learn about aerospace science, including aircraft flight, aviation history, air power, space environment, and aerospace industry. Leadership education develops skills in discipline, responsibility, communication, and drill. The Wellness Program motivates cadets to lead healthy, active lifestyles. Cadets wear Air Force provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred."
     },
     {
       "courseNumber": "CT-972-1",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0,
-      "description": "Students continue their studies in aerospace science",
       "prerequisites": "JROTC Air Force I",
-      "gradeLevel": "None"
+      "gradeLevel": "None",
+      "description": "Students continue their studies in aerospace science, including principles of aircraft flight, space programs, space technology, rocketry, and propulsion. Leadership education emphasizes customs and courtesies, cadet corps activities, study habits, and time management. The Wellness Program continues to promote healthy, active lifestyles. Cadets wear Air Force provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred."
     },
     {
       "courseNumber": "CT-973-1",
@@ -27,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0,
-      "description": "Advanced studies in aerospace science cover cultural and global awareness",
       "prerequisites": "JROTC Air Force II",
-      "gradeLevel": "None"
+      "gradeLevel": "None",
+      "description": "Advanced studies in aerospace science cover cultural and global awareness, astronomy, and survival skills. Leadership education focuses on life skills, career opportunities, and principles of management. The Wellness Program continues to emphasize maintaining healthy lifestyles. Cadets wear Air Force provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred."
     },
     {
       "courseNumber": "CT-974-1",
@@ -37,9 +37,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0,
-      "description": "Students engage in advanced aerospace science topics including policy and organization. Leadership education emphasizes advanced principles of management",
       "prerequisites": "JROTC Air Force III",
-      "gradeLevel": "None"
+      "gradeLevel": "None",
+      "description": "Students engage in advanced aerospace science topics including policy and organization. Leadership education emphasizes advanced principles of management, communication skills, and corps activities. The Wellness Program continues to promote healthy, active lifestyles. Cadets wear Air Force provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred."
     },
     {
       "courseNumber": "CT-976-1",
@@ -47,9 +47,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0,
-      "description": "This course provides advanced leadership opportunities and advanced skill development for students who have completed the JROTC Air Force program. Students will continue to develop citizenship",
       "prerequisites": "JROTC Air Force IV",
-      "gradeLevel": "None"
+      "gradeLevel": "None",
+      "description": "This course provides advanced leadership opportunities and advanced skill development for students who have completed the JROTC Air Force program. Students will continue to develop citizenship, character, and leadership while serving in advanced leadership roles. The Wellness Program continues to emphasize maintaining healthy lifestyles. Cadets wear Air Force provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred."
     }
   ]
 }

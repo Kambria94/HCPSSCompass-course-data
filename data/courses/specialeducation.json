@@ -1,5 +1,5 @@
 {
-  "name": "SpecialEducation",
+  "name": "specialEducation",
   "courses": [
     {
       "courseNumber": "RE-400-0",
@@ -7,7 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Resource",
       "credits": 0,
-      "description": "In this course"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this course, students with IEPs are working toward a Certificate of Completion and are working toward individualized reading and written language goals and objectives aligned with modified English curriculum and Alternative State Standards. Students take the English Language Arts Multistate Alternate Assessment (MSAA) in grade 11."
     },
     {
       "courseNumber": "RE-500-0",
@@ -15,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Resource",
       "credits": 0,
-      "description": "Students with IEPs who are seeking a Certificate of Completion learn modified curriculum in American Government",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students with IEPs who are seeking a Certificate of Completion learn modified curriculum in American Government, US History, and World History with a focus on application in activities related to daily living and employment."
     },
     {
       "courseNumber": "RE-600-0",
@@ -25,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Resource",
       "credits": 0,
-      "description": "In this course students with IEPs are working toward a Certificate of Completion. Students work toward individualized goals and objectives aligned with modified mathematics curriculum. Students take the Multistate Mathematics Alternative Assessment in grade 11.",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this course students with IEPs are working toward a Certificate of Completion. Students work toward individualized goals and objectives aligned with modified mathematics curriculum. Students take the Multistate Mathematics Alternative Assessment in grade 11."
     },
     {
       "courseNumber": "RE-700-0",
@@ -35,7 +37,9 @@
       "isWeighted": false,
       "courseLevel": "Resource",
       "credits": 0,
-      "description": "Throughout this course students with IEPs who are seeking a Certificate of Completion learn modified science curriculum standards in earth and space systems"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Throughout this course students with IEPs who are seeking a Certificate of Completion learn modified science curriculum standards in earth and space systems, life, and physical science. Students in the 11th grade take the Alternate Maryland Integrated Science Assessment (Alt-MISA)."
     },
     {
       "courseNumber": "RE-900-0",
@@ -43,9 +47,9 @@
       "isWeighted": false,
       "courseLevel": "Resource",
       "credits": 0,
-      "description": "Students must have an IEP and are participating in the Multi State Alternative Assessments as determined by the IEP team. This course is designed to help students improve their organizational",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students must have an IEP and are participating in the Multi State Alternative Assessments as determined by the IEP team. This course is designed to help students improve their organizational, self-advocacy, independent living, and employment skills. Students will engage in structured learning tasks aligned with their IEP goals/objectives in small group settings with a high degree of interaction by the instructor."
     },
     {
       "courseNumber": "RE-811-0",
@@ -53,9 +57,9 @@
       "isWeighted": false,
       "courseLevel": "Resource",
       "credits": 0,
-      "description": "The Career and Community Exploration program is a hands-on work experience program in a community-based setting. Within a small group and under the direct supervision of a teacher",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "The Career and Community Exploration program is a hands-on work experience program in a community-based setting. Within a small group and under the direct supervision of a teacher, students are introduced to a variety of half-day training sites beginning in the third year or later of high school Students engage in work and independent living activities aligned with their IEP goals related to transitioning into employment and independent living."
     },
     {
       "courseNumber": "RE-410-8",
@@ -63,9 +67,9 @@
       "isWeighted": false,
       "courseLevel": "Seminar",
       "credits": 0.5,
-      "description": "This course is for students with an IEP who require individualized and/or specialized instruction in reading and written language beyond the interventions offered in Reading and English Seminar courses. Recommendation for this additional need would be determined through the IEP team on an individual basis. This course would be taken in addition to the grade level English course.",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is for students with an IEP who require individualized and/or specialized instruction in reading and written language beyond the interventions offered in Reading and English Seminar courses. Recommendation for this additional need would be determined through the IEP team on an individual basis. This course would be taken in addition to the grade level English course."
     },
     {
       "courseNumber": "RE-410-1",
@@ -73,9 +77,9 @@
       "isWeighted": false,
       "courseLevel": "Seminar",
       "credits": 1,
-      "description": "This course is for students with an IEP who require individualized and/or specialized instruction in reading and written language beyond the interventions offered in Reading and English Seminar courses. Recommendation for this additional need would be determined through the IEP team on an individual basis. This course would be taken in addition to the grade level English course.",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is for students with an IEP who require individualized and/or specialized instruction in reading and written language beyond the interventions offered in Reading and English Seminar courses. Recommendation for this additional need would be determined through the IEP team on an individual basis. This course would be taken in addition to the grade level English course."
     },
     {
       "courseNumber": "RE-620-8",
@@ -83,9 +87,9 @@
       "isWeighted": false,
       "courseLevel": "Seminar",
       "credits": 0.5,
-      "description": "This course is for students with an IEP who require individualized and/or specialized instruction in mathematics beyond the interventions offered in Algebra I",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is for students with an IEP who require individualized and/or specialized instruction in mathematics beyond the interventions offered in Algebra I, Geometry, and Algebra II Seminar courses. Recommendation for this additional need would be determined through the IEP team on an individual basis. This course would be taken in addition to the grade level math course."
     },
     {
       "courseNumber": "RE-620-1",
@@ -93,9 +97,9 @@
       "isWeighted": false,
       "courseLevel": "Seminar",
       "credits": 1,
-      "description": "This course is for students with an IEP who require individualized and/or specialized instruction in mathematics beyond the interventions offered in Algebra I",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is for students with an IEP who require individualized and/or specialized instruction in mathematics beyond the interventions offered in Algebra I, Geometry, and Algebra II Seminar courses. Recommendation for this additional need would be determined through the IEP team on an individual basis. This course would be taken in addition to the grade level math course."
     },
     {
       "courseNumber": "RE-310-1",
@@ -103,9 +107,9 @@
       "isWeighted": false,
       "courseLevel": "Tutorial",
       "credits": 1,
-      "description": "This tutorial aligns with the IEP of a student who is blind or visually impaired. Instruction is provided in the reading and writing of Unified English Braille and the Nemeth Braille Code for Mathematics and Science Notation. Instruction in the following specialized Braille codes is provided as appropriate",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This tutorial aligns with the IEP of a student who is blind or visually impaired. Instruction is provided in the reading and writing of Unified English Braille and the Nemeth Braille Code for Mathematics and Science Notation. Instruction in the following specialized Braille codes is provided as appropriate: foreign language, music, computer, and chemical codes. Additional areas of instruction include tactile graphics, textbook format, and the use of specialized technology to access and produce written work"
     },
     {
       "courseNumber": "RE-990-1",
@@ -113,9 +117,9 @@
       "isWeighted": false,
       "courseLevel": "Special Education",
       "credits": 1,
-      "description": "This course is designed to provide experience for general education students in working with students with disabilities. Only one elective credit can be earned as a peer assistant. Credit may only be awarded after the 20th required graduation credit has been recorded. Students have the option of earning a credit only or earning a credit AND up to 75 student service learning hours. If a student wishes to earn service learning hours using this option",
       "prerequisites": "Successful completion of all courses taken previous year; permission of Special Education Instructional Team Leader",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course is designed to provide experience for general education students in working with students with disabilities. Only one elective credit can be earned as a peer assistant. Credit may only be awarded after the 20th required graduation credit has been recorded. Students have the option of earning a credit only or earning a credit AND up to 75 student service learning hours. If a student wishes to earn service learning hours using this option, pages 1 and 2 of an Individual Service Learning Project Proposal should be completed and submitted to the School Counseling Team Leader and Principal for approval. The student must prepare for additional projects, mediation or tutoring assignments beyond the duties of other peer assistants in order to be approved for service learning hours. Upon completion of the course, the student must complete the Service Learning Validation Form in order to be awarded the 75 service learning hours."
     },
     {
       "courseNumber": "RE-900-8",
@@ -123,9 +127,9 @@
       "isWeighted": false,
       "courseLevel": "Tutorial",
       "credits": 0.5,
-      "description": "Students must have an IEP or a 504 and are participating in PARCC/HSA assessed courses to meet Maryland graduation requirements. This course",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students must have an IEP or a 504 and are participating in PARCC/HSA assessed courses to meet Maryland graduation requirements. This course, by semester or over a full year, is designed to improve organization, test taking, and self-advocacy skills and is designated on the 504/IEP plan. Students will engage in structured learning tasks aligned with their IEP goals/objectives or 504 Plan in small group settings with a high degree of interaction by the instructor."
     },
     {
       "courseNumber": "RE-900-1",
@@ -133,9 +137,9 @@
       "isWeighted": false,
       "courseLevel": "Tutorial",
       "credits": 1,
-      "description": "Students must have an IEP or a 504 and are participating in PARCC/HSA assessed courses to meet Maryland graduation requirements. This course",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students must have an IEP or a 504 and are participating in PARCC/HSA assessed courses to meet Maryland graduation requirements. This course, by semester or over a full year, is designed to improve organization, test taking, and self-advocacy skills and is designated on the 504/IEP plan. Students will engage in structured learning tasks aligned with their IEP goals/objectives or 504 Plan in small group settings with a high degree of interaction by the instructor."
     },
     {
       "courseNumber": "RE-905-1",
@@ -143,9 +147,9 @@
       "isWeighted": false,
       "courseLevel": "Tutorial",
       "credits": 1,
-      "description": "This course is designed to provide reading instruction to students who need to continue or begin a specialized reading intervention that is not available in the Strategic Reading course to address their needs in decoding and comprehension. The course incorporates a multi-sensory approach to meet the needs of students. This course is available at all the high schools.",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is designed to provide reading instruction to students who need to continue or begin a specialized reading intervention that is not available in the Strategic Reading course to address their needs in decoding and comprehension. The course incorporates a multi-sensory approach to meet the needs of students. This course is available at all the high schools."
     },
     {
       "courseNumber": "RE-800-8",
@@ -153,9 +157,9 @@
       "isWeighted": false,
       "courseLevel": "Work Study",
       "credits": 0.5,
-      "description": "The Work Study program is a supervised",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "The Work Study program is a supervised, hands-on work experience program in a community-based setting. Students are introduced to a variety of half-day training sites beginning in the third year or later of high school. Students engage in work activities aligned with their employment and independent living IEP goals related to transition. Work Study may be taken for elective credit. It may not be used in place of the Career Research and Development program choice."
     },
     {
       "courseNumber": "RE-800-1",
@@ -163,9 +167,9 @@
       "isWeighted": false,
       "courseLevel": "Work Study",
       "credits": 1,
-      "description": "The Work Study program is a supervised",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "The Work Study program is a supervised, hands-on work experience program in a community-based setting. Students are introduced to a variety of half-day training sites beginning in the third year or later of high school. Students engage in work activities aligned with their employment and independent living IEP goals related to transition. Work Study may be taken for elective credit. It may not be used in place of the Career Research and Development program choice."
     },
     {
       "courseNumber": "RE-800-2",
@@ -173,9 +177,9 @@
       "isWeighted": false,
       "courseLevel": "Work Study",
       "credits": 2,
-      "description": "The Work Study program is a supervised",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "The Work Study program is a supervised, hands-on work experience program in a community-based setting. Students are introduced to a variety of half-day training sites beginning in the third year or later of high school. Students engage in work activities aligned with their employment and independent living IEP goals related to transition. Work Study may be taken for elective credit. It may not be used in place of the Career Research and Development program choice."
     },
     {
       "courseNumber": "RE-800-3",
@@ -183,9 +187,9 @@
       "isWeighted": false,
       "courseLevel": "Work Study",
       "credits": 3,
-      "description": "The Work Study program is a supervised",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "The Work Study program is a supervised, hands-on work experience program in a community-based setting. Students are introduced to a variety of half-day training sites beginning in the third year or later of high school. Students engage in work activities aligned with their employment and independent living IEP goals related to transition. Work Study may be taken for elective credit. It may not be used in place of the Career Research and Development program choice."
     },
     {
       "courseNumber": "RE-800-4",
@@ -193,9 +197,9 @@
       "isWeighted": false,
       "courseLevel": "Work Study",
       "credits": 4,
-      "description": "The Work Study program is a supervised",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "The Work Study program is a supervised, hands-on work experience program in a community-based setting. Students are introduced to a variety of half-day training sites beginning in the third year or later of high school. Students engage in work activities aligned with their employment and independent living IEP goals related to transition. Work Study may be taken for elective credit. It may not be used in place of the Career Research and Development program choice."
     }
   ]
 }

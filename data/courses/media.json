@@ -1,5 +1,5 @@
 {
-  "name": "Media",
+  "name": "media",
   "courses": [
     {
       "courseNumber": "LM-801-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Permission of instructor",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "In this course, students receive instruction and experience in various technical and artistic aspects of video production. Topics covered include principles of communications, marketing and advertising, storytelling, social and personal branding, and broadcast news. Students will learn about and have hands-on experience with camera operation, lighting, storyboarding, script writing, graphic design, audio mixing, technical direction, and editing. Students will create and direct their own productions based on class assignments. Enrollment is limited and based on permission of the instructor."
     },
     {
       "courseNumber": "LM-811-1",
@@ -17,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Permission of instructor",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "In this course, students receive instruction and experience in various technical and artistic aspects of video production. Students will research and apply various film and video influences and techniques, implications of intellectual property, and analyze the ways in which social media impacts traditional ways of consuming media. Topics covered include principles of communications, marketing and advertising, storytelling, social and personal branding, and broadcast news. Students will learn about and have hands-on experience with camera operation, lighting, storyboarding, script writing, graphic design, audio mixing, technical direction, and editing. Students will create and direct their own productions based on research and class assignments. Enrollment is limited and based on permission of the instructor."
     },
     {
       "courseNumber": "LM-999-1",
@@ -27,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Under the direction of the media specialist",
       "prerequisites": "Permission of instructor",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Under the direction of the media specialist, students gain experience in working in a high school media center. Students will collect and distribute materials, operate equipment, assist students, process materials, perform clerical duties, and create audiovisual productions. Students must be able to work independently. Enrollment is limited and based on permission of the instructor. Only one elective credit can be earned as a student assistant; credit may only be awarded after the 20th required graduation credit has been recorded."
     }
   ]
 }

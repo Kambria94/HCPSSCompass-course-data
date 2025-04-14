@@ -1,5 +1,5 @@
 {
-  "name": "Apprenticeship",
+  "name": "apprenticeship",
   "courses": [
     {
       "courseNumber": "CT-590-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course provides industry related training which takes place outside of HCPSS. This training includes technical and employability skills and increased knowledge of the World of Work. Instruction is individualized and may be received through the employer",
       "prerequisites": "Job interview and offer",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "This course provides industry related training which takes place outside of HCPSS. This training includes technical and employability skills and increased knowledge of the World of Work. Instruction is individualized and may be received through the employer, a post-secondary institution, an online platform, or technical school."
     },
     {
       "courseNumber": "CT-595-3",
@@ -17,7 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 3,
-      "description": "The Apprenticeship Maryland Academy is coordinated through a partnership between the Maryland State Department of Education (MSDE"
+      "prerequisites": "Job interview and offer",
+      "gradeLevel": "12",
+      "description": "The Apprenticeship Maryland Academy is coordinated through a partnership between the Maryland State Department of Education (MSDE) and the Maryland Department of Labor, Licensing and Regulation (DLLR). Eligible employers are approved by the Maryland Apprenticeship Training Council (MATC), through a DLLR interview and hire high school seniors to work with eligible employers in STEM industries and traditional occupations, creating an \\\"earn and learn\\\" opportunity."
     }
   ]
 }

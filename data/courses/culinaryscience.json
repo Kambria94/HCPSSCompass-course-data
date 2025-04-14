@@ -1,5 +1,5 @@
 {
-  "name": "CulinaryScience",
+  "name": "culinaryScience",
   "courses": [
     {
       "courseNumber": "CT-910-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course is designed to provide a foundation in the study of culinary sciences",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course is designed to provide a foundation in the study of culinary sciences, food, and nutrition. It offers students the opportunity to prepare healthy foods as an individual, or as a first step in preparation for a career related to food, nutrition, or hospitality services. Practical activities in the laboratory support instruction in consumerism, management, and nutrition. Students will learn and apply safe food handler practices in the lab."
     },
     {
       "courseNumber": "CT-912-1",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course is for students who are pursuing a professional career in either the restaurant or hospitality industry. Through a hands-on",
       "prerequisites": "Food and Nutrition Technology",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is for students who are pursuing a professional career in either the restaurant or hospitality industry. Through a hands-on, project-oriented approach students will learn to use professional equipment and techniques. Culinary Sciences students will finish the first level of the ProStart program, the National Restaurant Association curriculum, and are prepared to earn ServeSafe Manager certification."
     },
     {
       "courseNumber": "CT-914-1",
@@ -27,17 +27,29 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course is designed for students who are pursuing college study and/or immediate entry into the professional restaurant and hospitality industries. Providing advanced training",
       "prerequisites": "Culinary Sciences",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course is designed for students who are pursuing college study and/or immediate entry into the professional restaurant and hospitality industries. Providing advanced training, the course focuses on the practices and skills required of professionals in food production, food services, and hospitality. Students who complete the course will finish the second level of the ProStart program and will be eligible to take the ProStart final examination."
     },
     {
       "courseNumber": "CT-917-1",
-      "name": "Field Experience in Culinary Science (1 credit"
+      "name": "Field Experience in Culinary Science (1 credit)",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 1,
+      "prerequisites": "Completion or concurrent enrollment in Advanced Culinary Science and Restaurant Operations",
+      "gradeLevel": "12",
+      "description": "This course provides students an opportunity to apply and extend their knowledge and skills in a commercial food service or hospitality environment. Students who earn a passing grade in this course will have completed at least 135 hours of employment or mentored work toward the 400 hours required to earn the nationally recognized ProStart Certificate of Achievement."
     },
     {
       "courseNumber": "CT-917-2",
-      "name": "Field Experience in Culinary Science (2 credits"
+      "name": "Field Experience in Culinary Science (2 credits)",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 2,
+      "prerequisites": "Completion or concurrent enrollment in Advanced Culinary Science and Restaurant Operations",
+      "gradeLevel": "12",
+      "description": "This course provides students an opportunity to apply and extend their knowledge and skills in a commercial food service or hospitality environment. Students who earn a passing grade in this course will have completed at least 135 hours of employment or mentored work toward the 400 hours required to earn the nationally recognized ProStart Certificate of Achievement."
     }
   ]
 }

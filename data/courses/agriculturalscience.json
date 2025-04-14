@@ -1,5 +1,5 @@
 {
-  "name": "AgriculturalScience",
+  "name": "agriculturalScience",
   "courses": [
     {
       "courseNumber": "CT-750-2",
@@ -7,9 +7,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 2,
-      "description": "While surveying the opportunities in agriculture and natural resources",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "While surveying the opportunities in agriculture and natural resources, students will engage in a wide range of topics, from the basics of plant, soil, and animal science to the economic and environmental aspects of agriculture production. Through the use of hands-on projects and activities, students will investigate the fundamentals of animal science, including animal terminology, anatomy, nutrition, reproduction, and health management practices of small and large domestic animals. Additionally, this course will provide students with a foundational understanding of basic principles of plant biology, including plant anatomy, growth processes, soil composition, soil fertility, and crop production. Students will learn how to raise plants in the school greenhouse. All students will be members of Howard County FFA and the National FFA Organization. Students are enrolled via equitable randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-752-3",
@@ -17,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 3,
-      "description": "Students will complete hands-on activities",
       "prerequisites": "Agricultural Science I - G/T",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Students will complete hands-on activities, projects, and problems designed to build content knowledge and technical skills in the field of animal and plant biotechnology. Students will continue to build animal science knowledge and skills with an emphasis on veterinary procedures and ethical considerations in veterinary practice. A capstone experience culminates students' experiences in agriscience and includes a research project. Students will investigate a problem of their choice and conclude the project by reporting their results in the form of a research paper and a research poster. Research may be conducted at an internship, in the school greenhouse, or classroom laboratory. The school greenhouse provided opportunities for students to start seeds, transplant, propagate, and maintain plants for an end of year plant sale. Students who participate in an internship are required to complete at least 6-8 hours per week at their internship site and must provide their own transportation."
     }
   ]
 }

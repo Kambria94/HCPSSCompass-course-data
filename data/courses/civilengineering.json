@@ -1,5 +1,5 @@
 {
-  "name": "CivilEngineering",
+  "name": "civilEngineering",
   "courses": [
     {
       "courseNumber": "CT-616-2",
@@ -7,8 +7,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 2,
-      "description": "This is a hands-on course that helps students understand the field of engineering and the engineering design process. Students use computer-modeling software to study and apply the engineering design process. Students design",
-      "prerequisites": "Geometry is the minimum math requirement. (Can be taken concurrently"
+      "prerequisites": "Geometry is the minimum math requirement. (Can be taken concurrently)",
+      "gradeLevel": "11, 12",
+      "description": "This is a hands-on course that helps students understand the field of engineering and the engineering design process. Students use computer-modeling software to study and apply the engineering design process. Students design, construct, test, and evaluate various projects that apply knowledge and skills. This course may include course material from PLTW Introduction to Engineering Design, PLTW Engineering Essentials, or PLTW Principles of Engineering. Limited seats are available. Students are enrolled via equitable randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-617-3",
@@ -16,7 +17,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 3,
-      "description": "This is a hands-on course in which students design"
+      "prerequisites": "Civil Engineering I - G/T",
+      "gradeLevel": "12",
+      "description": "This is a hands-on course in which students design, construct, test and evaluate various projects that apply knowledge and skills. Students explore various technology systems and manufacturing processes to learn how engineers and technicians apply math, science, and technology in the problem solving process. Students will explore the field of Civil Engineering in residential and commercial design, systems, applications and construction. Students will apply cost and efficiency analysis to services and utilities in design problems. Finally, students work in teams to research, design, and construct solutions to open-ended engineering problems. This course includes the Project Lead the Way (PLTW) course curriculum from PLTW Principles of Engineering - G/T, PLTW Civil Engineering - G/T, and PLTW Engineering Design and Development - G/T."
     }
   ]
 }

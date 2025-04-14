@@ -1,5 +1,5 @@
 {
-  "name": "HealthEducation",
+  "name": "healthEducation",
   "courses": [
     {
       "courseNumber": "HE-900-8",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course provides students with functional knowledge and health literacy skills to reduce health risks and enhance the health and well-being of self and others. Students will engage with this content in the context of the National Health Education Standards skills. Specific topics will include",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "This course provides students with functional knowledge and health literacy skills to reduce health risks and enhance the health and well-being of self and others. Students will engage with this content in the context of the National Health Education Standards skills. Specific topics will include: social and emotional health; substance abuse prevention; healthy eating; disease prevention and control; violence and injury prevention, and sexual health. This course should be taken sequentially with lifetime fitness in Grade 9."
     },
     {
       "courseNumber": "HE-920-8",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course expands upon student development of skills",
       "prerequisites": "Health I",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course expands upon student development of skills, attitudes, and behaviors to promote college and career readiness. Students develop, practice, and apply skills for health literacy, including analyzing influences, accessing valid and reliable information, interpersonal communication, decision-making, goal setting, self-management, and advocacy. This course is a graduation requirement for students entering grade 9 in 2021-22 school year or later."
     },
     {
       "courseNumber": "HE-950-8",
@@ -27,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is designed to develop skills for living healthy lifestyles among adolescents preparing to enter college and the world of work. The course is organized around the Health Education National Standards placing a greater emphasis on personal skills. Students will discuss and apply a variety of skills to everyday situations they may face. Skills include how to determine the validity of health resources and services",
       "prerequisites": "Health I",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is designed to develop skills for living healthy lifestyles among adolescents preparing to enter college and the world of work. The course is organized around the Health Education National Standards placing a greater emphasis on personal skills. Students will discuss and apply a variety of skills to everyday situations they may face. Skills include how to determine the validity of health resources and services, analyzing internal and external influences on personal health behaviors, verbal and nonverbal skills to develop and maintain healthy personal relationships, making healthy decisions, setting personal health goals, and advocating for personal, family and community health."
     },
     {
       "courseNumber": "HE-950-1",
@@ -37,9 +37,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course is designed to develop skills for living healthy lifestyles among adolescents preparing to enter college and the world of work. The course is organized around the Health Education National Standards placing a greater emphasis on personal skills. Students will discuss and apply a variety of skills to everyday situations they may face. Skills include how to determine the validity of health resources and services",
       "prerequisites": "Health I",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is designed to develop skills for living healthy lifestyles among adolescents preparing to enter college and the world of work. The course is organized around the Health Education National Standards placing a greater emphasis on personal skills. Students will discuss and apply a variety of skills to everyday situations they may face. Skills include how to determine the validity of health resources and services, analyzing internal and external influences on personal health behaviors, verbal and nonverbal skills to develop and maintain healthy personal relationships, making healthy decisions, setting personal health goals, and advocating for personal, family and community health."
     },
     {
       "courseNumber": "ST-999-1",
@@ -47,9 +47,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Under the direction of the School Counseling Team Leader",
       "prerequisites": "None",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Under the direction of the School Counseling Team Leader, students will gain experience working in a high school counseling center. Students will collect and distribute materials, operate equipment, assist students, locate career and college information, process materials, perform clerical duties, and other duties as assigned. Students will be required to take a mid-term and final exam as with other credit bearing courses. Only one elective credit may be earned as a student assistant. Students have the option of earning a credit only or earning a credit AND up to 75 student service learning hours. If a student wishes to earn service learning hours using this option, pages 1 and 2 of an Individual Service Learning Project Proposal should be completed and submitted to the School Counseling Team Leader and Principal for approval. The student must prepare for additional projects, mediation or tutoring assignments beyond the duties of other office assistants in order to be approved for service learning hours. Upon completion of the course, the student must complete the Service Learning Validation Form in order to be awarded the 75 service learning hours."
     }
   ]
 }

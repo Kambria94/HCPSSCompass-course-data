@@ -1,5 +1,5 @@
 {
-  "name": "TeacherAcademy",
+  "name": "teacherAcademy",
   "courses": [
     {
       "courseNumber": "CT-924-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course focuses on curriculum delivery models in response to the developmental needs of children and adolescents. Emphasis is placed on the development of instructional materials and activities to promote learning",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course focuses on curriculum delivery models in response to the developmental needs of children and adolescents. Emphasis is placed on the development of instructional materials and activities to promote learning, classroom management strategies, and a supportive classroom environment. Students will explore basic theories of motivation that increase learning. Students will participate in guided observations and field experiences to critique classroom lessons in preparation for developing and implementing their own. Students will continue to develop the components of a working portfolio to be assembled upon completion of the internship."
     },
     {
       "courseNumber": "CT-922-CC",
@@ -17,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course is designed for students interested in working with children in a variety of careers. It focuses on the major theories of child development and learning. Practical experience is gained by observation of and interaction with young children. Students must be in at least the 10th grade. Students who complete Human Growth and Development and Foundations of Curriculum and Instruction with a B or higher may be eligible for college credits at HCC.",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is designed for students interested in working with children in a variety of careers. It focuses on the major theories of child development and learning. Practical experience is gained by observation of and interaction with young children. Students must be in at least the 10th grade. Students who complete Human Growth and Development and Foundations of Curriculum and Instruction with a B or higher may be eligible for college credits at HCC."
     },
     {
       "courseNumber": "CT-925-CC",
@@ -27,7 +27,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Required for all Teacher Academy of Maryland (TAM"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Required for all Teacher Academy of Maryland (TAM) students, this course is for students interested in a teaching career in any grade level from Early Childhood through high school. Class discussion and assignments will focus on the history, purposes, issues, ethics, laws, roles, and qualifications of the teaching profession. Students will participate in guided observations and field experiences outside of class to identify characteristics of an effective classroom teacher and to reflect upon their personal career goals. Students who complete Teaching as a Profession - G/T with a B or higher may be eligible for college credits at Howard Community College (HCC)."
     },
     {
       "courseNumber": "CT-926-1",
@@ -35,15 +37,29 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "The high school-based Child Development Associate (CDA"
+      "prerequisites": "Human Growth and Development and either Teaching as a Profession or Foundations of Curriculum and Instruction",
+      "gradeLevel": "11",
+      "description": "The high school-based Child Development Associate (CDA) curriculum is designed to provide students with the same academic and hands-on training needed to prepare any professional for early childhood education and care settings. In grade 11, HCPSS students have the opportunity to earn the CDA certification by completing the CDA Internship and Portfolio course. This approach also delivers the experience and academic training needed to meet the Council's strict requirements to successfully submit a CDA application, pass a proctored exam, and succeed through an on-site verification. The CDA standardized training requirements are an industry leading quality assurance measure to ensure consistency and are required to meet all of the qualifications of other CDA candidates, including 120 hours of education, 480 hours of work experience, a professional portfolio and family questionnaire, direct observation, and a comprehensive examination."
     },
     {
       "courseNumber": "CT-927-1",
-      "name": "Field Experience in Education - G/T (1 credit"
+      "name": "Field Experience in Education - G/T (1 credit)",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "prerequisites": "Foundations of Curriculum and Instruction",
+      "gradeLevel": "12",
+      "description": "This course is the capstone experience for the Teacher Academy of Maryland. Students will have the opportunity to apply and extend their knowledge about teaching in a K-10 classroom setting under the supervision of a mentor teacher. During their placement, students will examine what makes an effective teacher, the importance of family and caregivers in the learning process, and methods for creating and maintaining an effective learning environment. Students will also collaborate with the mentor teacher to develop and implement lesson plans that address diverse student needs and learning styles. Once placed, students are supervised by the Teacher Academy of Maryland teacher and must schedule a portion of their placement hours during the Teacher Academy teacher's afternoon work hours to allow for monitoring and evaluation. Students must provide their own transportation to the worksite."
     },
     {
       "courseNumber": "CT-927-2",
-      "name": "Field Experience in Education - G/T (2 credits"
+      "name": "Field Experience in Education - G/T (2 credits)",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 2,
+      "prerequisites": "Foundations of Curriculum and Instruction",
+      "gradeLevel": "12",
+      "description": "This course is the capstone experience for the Teacher Academy of Maryland. Students will have the opportunity to apply and extend their knowledge about teaching in a K-10 classroom setting under the supervision of a mentor teacher. During their placement, students will examine what makes an effective teacher, the importance of family and caregivers in the learning process, and methods for creating and maintaining an effective learning environment. Students will also collaborate with the mentor teacher to develop and implement lesson plans that address diverse student needs and learning styles. Once placed, students are supervised by the Teacher Academy of Maryland teacher and must schedule a portion of their placement hours during the Teacher Academy teacher's afternoon work hours to allow for monitoring and evaluation. Students must provide their own transportation to the worksite."
     }
   ]
 }

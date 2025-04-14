@@ -1,5 +1,5 @@
 {
-  "name": "PLTWEngineering",
+  "name": "pltwEngineering",
   "courses": [
     {
       "courseNumber": "CT-805-1",
@@ -7,9 +7,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "It is recommended that students complete Algebra I prior to enrolling in this course.",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this course, students use computer modeling software, such as AutoDesk Inventor, to study and apply the engineering design process. Models of product solutions are created, analyzed, and communicated using solid modeling computer design software."
     },
     {
       "courseNumber": "CT-815-1",
@@ -17,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course is a hands-on course that helps the student understand the field of engineering and engineering technology. Students design",
       "prerequisites": "PLTW Introduction to Engineering Design - G/T",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is a hands-on course that helps the student understand the field of engineering and engineering technology. Students design, construct, test, and evaluate various projects that apply knowledge and skills. Students explore various technology systems and manufacturing processes to learn how engineers and technicians apply math, science, and technology in an engineering problem-solving process."
     },
     {
       "courseNumber": "CT-835-1",
@@ -27,9 +27,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course applies principles of robotics and automation and builds on computer solid modeling skills developed in Introduction to Engineering Design. Students use computer-controlled equipment to produce models of three-dimensional designs. Fundamental concepts of robotics used in automated manufacturing and design analysis are included.",
       "prerequisites": "PLTW Introduction to Engineering Design - G/T",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course applies principles of robotics and automation and builds on computer solid modeling skills developed in Introduction to Engineering Design. Students use computer-controlled equipment to produce models of three-dimensional designs. Fundamental concepts of robotics used in automated manufacturing and design analysis are included."
     },
     {
       "courseNumber": "CT-825-1",
@@ -37,9 +37,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students use computer simulations to learn about the logic of electronics while they design",
       "prerequisites": "It is recommended that students complete Algebra II prior to enrolling in this course.",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Students use computer simulations to learn about the logic of electronics while they design, test, and construct circuits and devices. Students apply logic that encompasses the application of electronic circuits and devices."
     },
     {
       "courseNumber": "CT-845-1",
@@ -47,9 +47,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Teams of students",
-      "prerequisites": "PLTW Introduction to Engineering Design - G/T",
-      "gradeLevel": "12"
+      "prerequisites": "PLTW Introduction to Engineering Design - G/T, and PLTW Principles of Engineering - G/T and one of the following courses, either PLTW Computer Integrated Manufacturing - G/T or PLTW Digital Electronics - G/T",
+      "gradeLevel": "12",
+      "description": "Teams of students, guided by community mentors and professional engineers, work together to research, design, and construct solutions to open-ended engineering problems. Students apply principles developed in the preceding courses. They must present progress reports, submit a final written report, and defend their solutions to a panel of outside reviewers at the end of the school year. Some of these activities may take place outside the school day."
     }
   ]
 }

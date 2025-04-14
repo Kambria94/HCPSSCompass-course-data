@@ -1,5 +1,5 @@
 {
-  "name": "Science",
+  "name": "science",
   "courses": [
     {
       "courseNumber": "SC-400-1",
@@ -7,7 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this course"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10",
+      "description": "In this course, students use the Science and Engineering Practices and Crosscutting Concepts of Science to build understanding of: the universe and Earth's place in it (stars, planets, and Earth's history); the dynamic and interrelated systems of the Earth (Earth materials, plate tectonics and other large scale system interactions, water and Earth's surface processes, weather, and climate), and the interactions between Earth's surface processes and human activities (natural resources, natural hazards, human impact on Earth systems, and global climate change). Engineering design is incorporated as students consider technological solutions to real-world problems. This course supports environmental literacy and fulfills the Earth Science graduation requirement."
     },
     {
       "courseNumber": "SC-415-1",
@@ -15,7 +17,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this course"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10",
+      "description": "In this course, students will use the Science and Engineering Practices and Crosscutting Concepts of Science to build an understanding of: the universe and Earth's place in it (stars, planets, and Earth's history); the dynamic and interrelated systems of the Earth (Earth materials, plate tectonics and other large scale system interaction, water and Earth's surface processes, weather, and climate), and the interactions between Earth's surface processes and human activities (natural resources, natural hazards, human impact on Earth systems, and global climate change). Earth and Space Systems Science G/T is an enriched course with additional opportunities to dig deeper into content. Engineering design is incorporated as students consider technological solutions to real-world problems. This course supports environmental literacy and fulfills the Earth Science graduation requirement."
     },
     {
       "courseNumber": "SC-500-1",
@@ -23,7 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this course"
+      "prerequisites": "None",
+      "gradeLevel": "10, 11",
+      "description": "In this course, students use the Science and Engineering Practices and Crosscutting Concepts of Science to build an understanding of: how organisms live and grow (structure and function, growth and development of organisms, and organization for matter and energy flow in organisms); how and why organisms interact with their environment and the effects of these interactions (interdependent relationships in ecosystems, cycles of matter and energy transfer in ecosystems, ecosystem dynamics, functioning, and resilience, and social interactions and group behavior); how characteristics of one generation are passed to the next and how individuals of the same species and even siblings can have different characteristics (inheritance of traits and variation of traits), and what evidence shows that different species are related (evidence of common ancestry and diversity, natural selection, adaptation, and biodiversity and humans). Engineering design is incorporated as students consider technological solutions to real-world problems. This course supports environmental literacy and fulfills the Life Science graduation requirement. Note: Animals may be dissected in this course. Alternatives to dissection are available."
     },
     {
       "courseNumber": "SC-515-1",
@@ -31,7 +37,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this course"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10",
+      "description": "In this course, students use the Science and Engineering Practices and Crosscutting Concepts of Science to build understanding of important life science and Earth systems science including: how organisms live and grow (structure and function, growth and development of organisms, and organization for matter and energy flow in organisms); how and why organisms interact with their environment and the effects of these interactions (interdependent relationships in ecosystems, cycles of matter and energy transfer in ecosystems, ecosystem dynamics, functioning, and resilience, and social interactions and group behavior); how characteristics of one generation are passed to the next and how individuals of the same species and even siblings can have different characteristics (inheritance of traits and variation of traits); what evidence shows that different species are related (evidence of common ancestry and diversity, natural selection, adaptation, and biodiversity and humans); the universe and Earth's place in it (Earth's history including Plate Tectonics); the dynamic and interrelated systems of the Earth (water and Earth's surface processes), and the interactions between Earth's surface processes and human activities (natural resources, natural hazards, human impact on Earth systems, and global climate change). Engineering design is incorporated as students consider technological solutions to real-world problems. This course supports environmental literacy and fulfills the Life Science graduation requirement. Note: Animals may be dissected in this course. Alternatives to dissection are available."
     },
     {
       "courseNumber": "SC-901-1",
@@ -39,9 +47,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course builds on the foundations of Biology and is designed to be the equivalent of a college-level introductory biology course. Students engage in the practices of science and engineering to construct their understanding of the process of evolution and its relationship to the diversity and unity of life; the use of free energy by biological systems to grow",
       "prerequisites": "Recommended completion of Biology or Biology G/T and Advanced Physical Science or Chemistry G/T",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course builds on the foundations of Biology and is designed to be the equivalent of a college-level introductory biology course. Students engage in the practices of science and engineering to construct their understanding of the process of evolution and its relationship to the diversity and unity of life; the use of free energy by biological systems to grow, reproduce, and maintain homeostasis; the storage, retrieval, transmission, and response of living systems to information essential to life processes, and the interaction of biological systems. Active and extensive engagement in laboratory work including the design of experiments is fundamental to the course. It is recommended that students in this course take the AP Exam when it is offered in May. Completion of Biology or Biology G/T and Advanced Physical Science or Chemistry G/T is recommended. This course features learning that supports the discipline of Life Science. Note: Animals may be dissected in this course. Alternatives to dissection are available."
     },
     {
       "courseNumber": "SC-602-8",
@@ -49,7 +57,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 0.5,
-      "description": "In this semester course"
+      "prerequisites": "None",
+      "gradeLevel": "10, 11, 12",
+      "description": "In this semester course, students will use the Science and Engineering Practices and Crosscutting Concepts of Science to build an understanding of: the structure, properties, and states of matter (atomic structure, periodic table, molecular structure, bonding, and interactions of matter); nuclear processes; chemical reactions (chemical kinetics, energetics, and equilibrium); and how principles of Chemistry as they relate to our everyday lives. Engineering design is incorporated as students consider technological solutions to real-world problems. This course supports environmental literacy and with the successful completion of Physics Honors fulfills the Physical Science graduation requirement."
     },
     {
       "courseNumber": "SC-615-1",
@@ -57,7 +67,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this course"
+      "prerequisites": "None",
+      "gradeLevel": "10, 11",
+      "description": "In this course, students use the Science and Engineering Practices and Crosscutting Concepts of Science to build understanding of important chemical and Earth systems concepts including: structure and properties of matter (atomic structure, periodic table, molecular structure, and interactions of matter); nuclear processes; chemical reactions (chemical kinetics, energetics, and equilibrium); energy conservation, conversion, and transfer; wave properties including electromagnetic radiation, information technologies, and instrumentation; the chemical and physical properties of water; the role and cycling of carbon among Earth's systems; Earth's materials; interactions between Earth's surface processes and human activities including natural resources, human impact on Earth systems, and global climate change; the universe and its stars (element formation, nuclear fusion, atomic spectra), and the dynamic and interrelated systems of the Earth (plate tectonics and other large scale system interactions). Engineering design is incorporated as students consider technological solutions to real-world problems. This course supports environmental literacy and fulfills the Earth/Space Science or Physical Science graduation requirement."
     },
     {
       "courseNumber": "SC-903-1",
@@ -65,9 +77,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course builds on the foundations of Chemistry and is designed to be the equivalent of a college-level introductory chemistry course. Students engage in the practices of science and engineering to construct their understanding of the structures and properties of matter",
       "prerequisites": "Recommended completion of Advanced Physical Science or Chemistry G/T and Algebra II",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course builds on the foundations of Chemistry and is designed to be the equivalent of a college-level introductory chemistry course. Students engage in the practices of science and engineering to construct their understanding of the structures and properties of matter, chemical equilibrium, chemical kinetics, and thermodynamics. Significant laboratory work is integral to the learning experience and will emphasize experimental design, detailed observation, data collection, and data analysis including the application of statistics. It is recommended that students in this course take the AP Chemistry Exam when it is offered in May. College Board data show that students who complete a first course in Chemistry prior to taking AP Chemistry tend to achieve higher on the AP Examination. Thus, it is recommended that students successfully complete Advanced Physical Science or Chemistry G/T before enrolling in AP Chemistry. Additionally, advanced algebraic applications are a regular part of AP Chemistry; thus it is recommended that students complete Algebra II prior to enrolling in AP Chemistry. This course features learning that supports the discipline of Physical Science."
     },
     {
       "courseNumber": "SC-660-1",
@@ -75,7 +87,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this course"
+      "prerequisites": "None",
+      "gradeLevel": "10, 11, 12",
+      "description": "In this course, students use the Science and Engineering Practices and Crosscutting Concepts of Science to build understanding of important physical science concepts including: structure and properties of matter (atomic structure, periodic table, molecular structure and interactions of matter); nuclear processes; chemical reactions (chemical kinetics, energetics, and equilibrium); motion and stability; forces and interactions (mechanics, electrostatics, gravitation, momentum); energy (transfer and conservation), and waves and their applications in technologies for information transfer (wave properties, electromagnetic radiation, and information technologies and instrumentation). Engineering design is incorporated as students consider technological solutions to real-world problems. This course features learning that fulfills the Physical Science graduation requirement."
     },
     {
       "courseNumber": "SC-801-1",
@@ -83,9 +97,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course builds on the foundations of the life sciences and is designed to help students understand the anatomic and physiological basis of life. The course covers cytology",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course builds on the foundations of the life sciences and is designed to help students understand the anatomic and physiological basis of life. The course covers cytology, histology, and the human body systems. Students will use the Science and Engineering Practices to construct understanding of the interdependence of structure and function in biological systems. Students will be expected to integrate relevant information and acquired skills in the exploration of careers in the medical sciences. Note: Animals may be dissected in the course. Alternatives to dissection are available."
     },
     {
       "courseNumber": "SC-805-1",
@@ -93,9 +107,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course builds on the foundations of the earth sciences. Students will use the Science and Engineering Practices to construct understanding of the historical development of astronomic models and the contributions of the early astronomers; the characteristics of light; the solar system; constellations; stellar compositions",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course builds on the foundations of the earth sciences. Students will use the Science and Engineering Practices to construct understanding of the historical development of astronomic models and the contributions of the early astronomers; the characteristics of light; the solar system; constellations; stellar compositions, energy sources, and life cycles; and the theories related to the origin of the solar system and the universe. Applications of a variety of astronomic instruments will support descriptive and experimental laboratory experiences. Detailed observation, data recording, and data interpretation including statistical analysis will be emphasized."
     },
     {
       "courseNumber": "SC-810-1",
@@ -103,7 +117,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This Maryland Next Generation Science Standard (NGSS"
+      "prerequisites": "None",
+      "gradeLevel": "12",
+      "description": "This Maryland Next Generation Science Standard (NGSS) aligned course builds on the foundations of the earth, life, and physical sciences. It is designed for students to experience the interdisciplinary nature of environmental science. Students will use the Science and Engineering Practices to construct an understanding of the interdependence of organisms, populations, and natural resources; renewable and nonrenewable energy resources, and humans' impact on the environment. Students will participate in frequent descriptive and field investigations, service projects, and research related to environmental law. Students will also have the opportunity to explore environmental careers. This course supports environmental literacy and can fulfill the Earth Science or Physical Science graduation requirement. Note: Animals may be dissected in this course. Alternatives to dissection are available."
     },
     {
       "courseNumber": "SC-905-1",
@@ -111,9 +127,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course builds on the foundations of the earth",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course builds on the foundations of the earth, life, and physical sciences and is designed to be the equivalent of a college-level introductory environmental science course. Students will engage in the Science and Engineering Practices to construct understanding of the interrelationships among elements of the natural world, environmental problems, and the relative risks associated with them. Descriptive laboratory field investigations will emphasize detailed observation, data recording, data interpretation, and statistical analysis. This course supports environmental literacy and can fulfill the Earth Science or Physical Science graduation requirement. It is recommended that students in this course take the AP Exam when it is offered in May. Note: Animals may be dissected in this course. Alternatives to dissection are available."
     },
     {
       "courseNumber": "SC-815-1",
@@ -121,9 +137,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course builds on the foundations of the earth",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course builds on the foundations of the earth, life, and physical sciences and is designed to help students understand the principles of Forensic Science. Students will use the Science and Engineering Practices to construct understanding of forensic methodologies, the identification of human evidence, and the importance of proper collection and handling of specimens to ensure the integrity of evidence collected at crime scenes. Students will regularly engage in laboratory investigations where an interdisciplinary approach incorporates principles of chemistry, biology, physics, geology, and various medical sciences. Note: Animals may be dissected in this course. Alternatives to dissection are available."
     },
     {
       "courseNumber": "SC-825-1",
@@ -131,9 +147,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course builds on the foundations of the earth",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course builds on the foundations of the earth, life, and physical sciences and is designed to help students understand oceanography and marine biology. The course includes the history and methodology of marine science, oceanography, marine biology, and the physical and human factors that influence marine ecology. Students will use the Science and Engineering Practices to construct understanding of the adaptations in marine life organisms, characteristics of the oceans, and the interactions and relationships within marine ecosystems. Note: Animals may be dissected in this course. Alternatives to dissection are available."
     },
     {
       "courseNumber": "SC-662-8",
@@ -141,9 +157,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 0.5,
-      "description": "In this semester course",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "In this semester course, students will use the Science and Engineering Practices and Crosscutting Concepts of Science to build an understanding of: forces and Motion and types of Interactions the relationship between energy, conservation of energy, energy transfer, and energy in everyday life, and wave properties, electromagnetic radiation, and information technologies and instrumentation. Engineering design is incorporated as students consider technological solutions to real-world problems. This course supports environmental literacy and with the successful completion of Chemistry Honors fulfills the Physical Science graduation requirement."
     },
     {
       "courseNumber": "SC-907-1",
@@ -151,9 +167,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "Recommended completion of Algebra II",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "In this course, students use the practices of science and the Big Questions of Physics to understand forces, motion, gravity, energy and momentum, electrostatics and electrical circuits, and waves and sound. Engineering design is incorporated as students consider technological solutions to real-world problems. This course is designed to be the equivalent of an introductory college-level, algebra-based physics course. Extensive laboratory experiences are integral to the course and emphasize planning and carrying out investigations along with analyzing and interpreting data. It is recommended that students in this course take the AP Physics 1 exam when it is offered in May. This is a quantitatively rigorous course, thus completion of Algebra II is recommended. This course features learning that fulfills the Physical Science graduation requirement."
     },
     {
       "courseNumber": "SC-909-1",
@@ -161,29 +177,29 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course builds on the foundations of physics to establish student understanding in thermodynamics",
-      "prerequisites": "Recommended completion of Physics 1-AP",
-      "gradeLevel": "11"
+      "prerequisites": "Recommended completion of Physics 1-AP, Physics G/T, or Physics and Algebra II",
+      "gradeLevel": "11, 12",
+      "description": "This course builds on the foundations of physics to establish student understanding in thermodynamics, fluid statics and dynamics, electrostatics and electric circuits, magnetism and electromagnetic induction, optics, and modern physics. It is designed to be the equivalent of a college-level, algebra-based physics course. Students will engage in the practices of science and engineering to construct an understanding of the conceptual and quantitative relationships within physics. Extensive laboratory experiences are integral to the course and emphasize planning and carrying out investigations along with analyzing and interpreting data. It is recommended that students in this course take the AP exam when it is offered in May. This course is intended to build on previous physics learning, so completion of either Physics 1-AP, Physics G/T, or Physics is recommended. This is a quantitatively rigorous course. Thus, completion of Algebra II is recommended. This course features learning that fulfills the Physical Science graduation requirement."
     },
     {
       "courseNumber": "SC-911-1",
-      "name": "Physics C",
+      "name": "Physics C: Mechanics - AP",
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course builds on the foundation of Physics and is designed to be the equivalent of a college-level",
       "prerequisites": "Recommended completion of or concurrent enrollment in Calculus",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course builds on the foundation of Physics and is designed to be the equivalent of a college-level, calculus-based introductory physics course for physics and/or engineering majors. Students will engage in the practices of science and engineering to construct a deep understanding of Newtonian mechanics using algebra, trigonometry, and calculus. Extensive laboratory experiences are integral to the course and emphasize detailed observation, data recording, data interpretation, and statistical analysis. It is recommended that students in this course take the AP Exam when it is offered in May. Completion of or concurrent enrollment in Calculus is recommended. This course features learning that fulfills the Physical Science graduation requirement."
     },
     {
       "courseNumber": "SC-913-1",
-      "name": "Physics C",
+      "name": "Physics C: Electricity and Magnetism - AP",
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course builds on the foundations of Physics and is designed to be the equivalent of a college-level introductory physics course for physics and/or engineering majors. Students will engage in the practices of science and engineering to construct an understanding of electricity and magnetism using algebra",
-      "prerequisites": "Completion of AP Physics C",
-      "gradeLevel": "11"
+      "prerequisites": "Completion of AP Physics C: Mechanics and recommended completion of or concurrent enrollment in Calculus",
+      "gradeLevel": "11, 12",
+      "description": "This course builds on the foundations of Physics and is designed to be the equivalent of a college-level introductory physics course for physics and/or engineering majors. Students will engage in the practices of science and engineering to construct an understanding of electricity and magnetism using algebra, trigonometry, and calculus. Extensive laboratory experiences are integral to the course and emphasize detailed observation, data recording, data interpretation, and statistical analysis. It is recommended that students in this course take the AP Exam when it is offered in May. Completion of or concurrent enrollment in Calculus is recommended. This course features learning that fulfills the Physical Science graduation requirement."
     },
     {
       "courseNumber": "SC-999-1",
@@ -191,9 +207,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course trains students in generalized laboratory techniques and safety procedures. The course emphasizes practicality and is designed to develop individual facility and dexterity while performing common laboratory practices. Students must be able to work independently. Only one assistant credit can be applied toward graduation. Only one elective credit can be earned as a student assistant",
       "prerequisites": "Completion of three core science credits; teacher recommendation",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course trains students in generalized laboratory techniques and safety procedures. The course emphasizes practicality and is designed to develop individual facility and dexterity while performing common laboratory practices. Students must be able to work independently. Only one assistant credit can be applied toward graduation. Only one elective credit can be earned as a student assistant, and credit may only be awarded after the 20th required graduation credit has been recorded."
     }
   ]
 }

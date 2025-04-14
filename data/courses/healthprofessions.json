@@ -1,5 +1,5 @@
 {
-  "name": "HealthProfessions",
+  "name": "healthProfessions",
   "courses": [
     {
       "courseNumber": "CT-760-2",
@@ -7,9 +7,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 2,
-      "description": "This course provides students with an overview of healthcare professions and organizations. Emphasis is placed on learning about health careers",
       "prerequisites": "Biology",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course provides students with an overview of healthcare professions and organizations. Emphasis is placed on learning about health careers, employment opportunities, and required professional characteristics to work within health care. In addition, students learn about the structure and function of the human body, pathological conditions, and treatments. Students gain knowledge of medical terminology, infection control and prevention strategies, ethical and legal issues, and have the opportunity to become nationally certified in cardiopulmonary resuscitation and first aid. Through using hands-on skills and technology to research body systems and diseases, students will gain an advanced understanding of health care. Students are enrolled via equitable, randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-763-3",
@@ -17,15 +17,19 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 3,
-      "description": "The Certified Clinical Medical Assistant (CCMA"
+      "prerequisites": "Foundations of Health Care - Honors",
+      "gradeLevel": "12",
+      "description": "The Certified Clinical Medical Assistant (CCMA) is a multi-skilled healthcare practitioner who is competent in both clinical and administrative procedures. Students are prepared for actual experience in the clinical setting with a focus on the specific knowledge, skills and abilities such as medical terminology, basic patient communication, assessment skills, procedures and measurements, medical office administrative procedures and patient records management. This specialty course prepares students to take the National Health Careers Association (NHA) Certified Clinical Medical Assistant test. All students are required to take this exam. Passing the CCMA test will award students an NHA Provisional CCMA Certificate which, upon high school graduation, can be transferred to a full NHA CCMA certification. Students may participate in a clinical worksite experience where they will have the opportunity to practice and demonstrate the competencies associated with CCMA. Students participating in clinical worksite experiences must maintain up-to-date immunizations before participation and provide their own transportation."
     },
     {
       "courseNumber": "CT-765-3",
-      "name": "Certified Nursing Assistant/Patient Care Technician",
+      "name": "Certified Nursing Assistant/Patient Care Technician: Theory and Clinical - Honors",
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 3,
-      "description": "This Certified Nursing Assistant (CNA"
+      "prerequisites": "Foundations of Health Care - Honors",
+      "gradeLevel": "12",
+      "description": "This Certified Nursing Assistant (CNA) course is approved by the Maryland Board of Nursing (MBON) and provides comprehensive education and training in topics such as lifespan development, basic patient care, vital signs, and communication. After successfully completing the coursework and clinical requirements, and passing the state Nursing Assistant certification examination, students will receive a non-credit Certificate of Completion from HCC and register with the MBON for their CNA-I license. The Patient Care Technician (PCT) curriculum further prepares CNAs to perform delegated nursing functions that require a higher level of technical ability and skill needed in the hospital setting. In addition to the skills learned during CNA training, students will develop skills in complex health care procedures including phlebotomy, intravenous therapy, glucose monitoring, electrocardiograms, wound care, and urinary catheterization. The knowledge and competencies learned in this course are valuable in pursuing any career in healthcare. Students must have up-to-date immunizations and active medical insurance, be 16 years or older prior to participation in clinical experiences, and complete a criminal background check prior to participation in clinical experiences. Students will complete 40 hours of clinical experience during the school year on weekends. After successful completion of the required course components, students will need a social security number in order to register with the MBON."
     },
     {
       "courseNumber": "CT-762-3",
@@ -33,17 +37,19 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 3,
-      "description": "Students will participate in a pre-approved health related certification training program. Students must provide their own transportation to the internship site.",
       "prerequisites": "Foundations of Health Care - Honors and recommendation by instructor",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Students will participate in a pre-approved health related certification training program. Students must provide their own transportation to the internship site."
     },
     {
       "courseNumber": "CT-766-3",
-      "name": "Emergency Medical Technician",
+      "name": "Emergency Medical Technician: Basic and Clinical",
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 3,
-      "description": "The Emergency Medical Technician Academy is the result of a partnership between Howard County Public Schools and Howard County Department of Fire and Rescue Services. The Emergency Medical Technician National Registry EMT (NREMT"
+      "prerequisites": "Foundations of Health Care - Honors",
+      "gradeLevel": "12",
+      "description": "The Emergency Medical Technician Academy is the result of a partnership between Howard County Public Schools and Howard County Department of Fire and Rescue Services. The Emergency Medical Technician National Registry EMT (NREMT) class will prepare students with the emergency skills to assess a patient's condition and manage medical and trauma emergencies. The class provides classroom and clinical experiences. To satisfy the course requirements, students must be 16 years old prior to participation in clinical experiences and complete a minimum of 10 patient care pre-hospital calls beyond the school day. They must also complete national attendance and performance standards during the program, including 225 hours of required content level classwork and sitting for credentialing exams. If students do not complete clinical, they may still pass the class but not receive the completer. This course serves as a prerequisite for coursework in the Emergency Medical Services Program at Howard Community College. Students must provide their own transportation to all clinical experiences."
     },
     {
       "courseNumber": "CT-768-3",
@@ -51,9 +57,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 3,
-      "description": "The Physical Rehabilitation course is designed to expose students to varied careers related to the physical and occupational therapy field. This course integrates concepts of physical therapy",
       "prerequisites": "Foundations of Healthcare - Honors",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "The Physical Rehabilitation course is designed to expose students to varied careers related to the physical and occupational therapy field. This course integrates concepts of physical therapy, occupational therapy, kinesiology, and athletic training. Students will focus on musculoskeletal, neuromuscular, cardio-pulmonary, and Integumentary related injuries, diseases and disorders. In addition, students will also focus on preventative activities, therapeutic practices, and rehabilitation. Students have the opportunity to participate in an internship in the clinical setting with a focus on the specific knowledge, skills, and abilities that relate to physical rehabilitation and/or occupational therapy."
     }
   ]
 }

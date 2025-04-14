@@ -1,9 +1,15 @@
 {
-  "name": "PhysicalEducation",
+  "name": "physicalEducation",
   "courses": [
     {
       "courseNumber": "PE-900-8",
-      "name": "Lifetime Fitness 9 (required for graduation"
+      "name": "Lifetime Fitness 9 (required for graduation)",
+      "isWeighted": false,
+      "courseLevel": "Regular",
+      "credits": 0.5,
+      "prerequisites": "None",
+      "gradeLevel": "9",
+      "description": "This course is designed to help students develop physical literacy through the application of health and skill-related concepts of fitness while engaging in lifelong physical activities. Students will explore physical literacy concepts through the cognitive, affective, and psychomotor domains. Students set short- and long-term fitness goals based on physiological assessments. Students will use movement concepts and principles (e.g., force, motion, rotation) to analyze and improve performance of self and/or others in a variety of selected activities. This course should be taken sequentially with Health Education in Grade 9."
     },
     {
       "courseNumber": "PE-911-8",
@@ -11,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course introduces students to aerobic conditioning and weight training concepts such as benefits of proper diet along with exercise",
       "prerequisites": "Lifetime Fitness",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course introduces students to aerobic conditioning and weight training concepts such as benefits of proper diet along with exercise, target heart rate, body composition, overload, progression, and specificity. Students will participate in aerobic dance, step aerobics, jump rope activities, and use cardio respiratory exercising machines. Students will be able to describe how the cardiovascular system functions while exercising in and out of their target heart rate zone. Students will experience gains in muscular endurance through circuit and pyramid weight training. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-911-1",
@@ -21,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course introduces students to aerobic conditioning and weight training concepts such as benefits of proper diet along with exercise",
       "prerequisites": "Lifetime Fitness",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course introduces students to aerobic conditioning and weight training concepts such as benefits of proper diet along with exercise, target heart rate, body composition, overload, progression, and specificity. Students will participate in aerobic dance, step aerobics, jump rope activities, and use cardio respiratory exercising machines. Students will be able to describe how the cardiovascular system functions while exercising in and out of their target heart rate zone. Students will experience gains in muscular endurance through circuit and pyramid weight training. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-921-8",
@@ -31,9 +37,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course reinforces and expands on the concepts learned in Aerobic Conditioning and Weight Training I. Students will be able to compare and contrast various types of aerobic conditioning and weight training programs and understand their application. Students will use their knowledge of basic exercise physiology to design a personalized circuit weight training program. Students may take this course more than once.",
       "prerequisites": "Aerobic Conditioning and Weight Training I or Strength and Conditioning I",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course reinforces and expands on the concepts learned in Aerobic Conditioning and Weight Training I. Students will be able to compare and contrast various types of aerobic conditioning and weight training programs and understand their application. Students will use their knowledge of basic exercise physiology to design a personalized circuit weight training program. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-921-1",
@@ -41,9 +47,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course reinforces and expands on the concepts learned in Aerobic Conditioning and Weight Training I. Students will be able to compare and contrast various types of aerobic conditioning and weight training programs and understand their application. Students will use their knowledge of basic exercise physiology to design a personalized circuit weight training program. Students may take this course more than once.",
       "prerequisites": "Aerobic Conditioning and Weight Training I or Strength and Conditioning I",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course reinforces and expands on the concepts learned in Aerobic Conditioning and Weight Training I. Students will be able to compare and contrast various types of aerobic conditioning and weight training programs and understand their application. Students will use their knowledge of basic exercise physiology to design a personalized circuit weight training program. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-930-8",
@@ -51,7 +57,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "Students in Specialty Sports will demonstrate competency and/or refine activity specific movement skills in two or more lifetime activities (outdoor pursuits"
+      "prerequisites": "Lifetime Fitness",
+      "gradeLevel": "10, 11, 12",
+      "description": "Students in Specialty Sports will demonstrate competency and/or refine activity specific movement skills in two or more lifetime activities (outdoor pursuits, individual-performance activities, invasion games, net/wall games, or target games). Students from beginning levels through advanced levels will develop an in-depth knowledge of technical and tactical strategies, coaching techniques, officiating procedures, and progressive skill development. Individual schools will select the sport activity that best meets the needs of their student population. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-930-1",
@@ -59,7 +67,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students in Specialty Sports will demonstrate competency and/or refine activity specific movement skills in two or more lifetime activities (outdoor pursuits"
+      "prerequisites": "Lifetime Fitness",
+      "gradeLevel": "10, 11, 12",
+      "description": "Students in Specialty Sports will demonstrate competency and/or refine activity specific movement skills in two or more lifetime activities (outdoor pursuits, individual-performance activities, invasion games, net/wall games, or target games). Students from beginning levels through advanced levels will develop an in-depth knowledge of technical and tactical strategies, coaching techniques, officiating procedures, and progressive skill development. Individual schools will select the sport activity that best meets the needs of their student population. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-940-8",
@@ -67,9 +77,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course will provide students with the knowledge",
       "prerequisites": "Lifetime Fitness",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course will provide students with the knowledge, confidence, and skills to enjoy participating in outdoor pursuits, individual performance activities, invasion games, net/wall games, target games, and lifetime activities. Students will learn lifelong physical activity skills through quality participation and social interaction. Instruction is provided to students at all skill levels. Individual schools will select the lifetime physical activities that meet the needs of their student population. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-940-1",
@@ -77,9 +87,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course will provide students with the knowledge",
       "prerequisites": "Lifetime Fitness",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course will provide students with the knowledge, confidence, and skills to enjoy participating in outdoor pursuits, individual performance activities, invasion games, net/wall games, target games, and lifetime activities. Students will learn lifelong physical activity skills through quality participation and social interaction. Instruction is provided to students at all skill levels. Individual schools will select the lifetime physical activities that meet the needs of their student population. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-951-8",
@@ -87,9 +97,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course introduces students to strength training and conditioning principles. Students will develop physical literacy through a variety of movement skills. Students obtain a working knowledge of anatomy",
       "prerequisites": "Lifetime Fitness",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course introduces students to strength training and conditioning principles. Students will develop physical literacy through a variety of movement skills. Students obtain a working knowledge of anatomy, physical fitness concepts, nutrition, and principles of strength training. Students will develop a personal strength training and conditioning program. This process will include fitness data collection, goal setting, selection of appropriate activities, application of training principles and reflection on program. Students will explore cardiorespiratory exercises, with machines, to determine target heart rates. Emphasis will be placed on students demonstrating proper lifting technique and appropriate use of the fitness room. Students will understand that strength training and conditioning provide opportunities for enjoyment and social interactions for a lifetime. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-951-1",
@@ -97,9 +107,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course introduces students to strength training and conditioning principles. Students will develop physical literacy through a variety of movement skills. Students obtain a working knowledge of anatomy",
       "prerequisites": "Lifetime Fitness",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course introduces students to strength training and conditioning principles. Students will develop physical literacy through a variety of movement skills. Students obtain a working knowledge of anatomy, physical fitness concepts, nutrition, and principles of strength training. Students will develop a personal strength training and conditioning program. This process will include fitness data collection, goal setting, selection of appropriate activities, application of training principles and reflection on program. Students will explore cardiorespiratory exercises, with machines, to determine target heart rates. Emphasis will be placed on students demonstrating proper lifting technique and appropriate use of the fitness room. Students will understand that strength training and conditioning provide opportunities for enjoyment and social interactions for a lifetime. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-961-8",
@@ -107,9 +117,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course reinforces the concepts taught in Strength and Conditioning I to expand upon student's cognitive knowledge of the fitness room. Students will be able to identify all forms of weight training",
       "prerequisites": "Strength and Conditioning I or Aerobic Conditioning and Weight Training I",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course reinforces the concepts taught in Strength and Conditioning I to expand upon student's cognitive knowledge of the fitness room. Students will be able to identify all forms of weight training, muscle groups, and muscle articulation. Students will determine body composition and discuss daily caloric intake while in a strength and conditioning program. Building on their knowledge of nutrition and cardiorespiratory fitness, students will be required to design a nutritional and cardiorespiratory fitness plan. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-961-1",
@@ -117,9 +127,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course reinforces the concepts taught in Strength and Conditioning I to expand upon student's cognitive knowledge of the fitness room. Students will be able to identify all forms of weight training",
       "prerequisites": "Strength and Conditioning I or Aerobic Conditioning and Weight Training I",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course reinforces the concepts taught in Strength and Conditioning I to expand upon student's cognitive knowledge of the fitness room. Students will be able to identify all forms of weight training, muscle groups, and muscle articulation. Students will determine body composition and discuss daily caloric intake while in a strength and conditioning program. Building on their knowledge of nutrition and cardiorespiratory fitness, students will be required to design a nutritional and cardiorespiratory fitness plan. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-971-8",
@@ -127,9 +137,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course reinforces the concepts taught in Strength and Conditioning II to expand upon student's knowledge of exercise physiology and kinesiology. Students in this course will engage in rigorous strength and conditioning activities. Students will develop an in-depth personalized fitness and weight training program. Students may take this course more than once.",
       "prerequisites": "Strength and Conditioning II or Aerobic Conditioning and Weight Training II",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course reinforces the concepts taught in Strength and Conditioning II to expand upon student's knowledge of exercise physiology and kinesiology. Students in this course will engage in rigorous strength and conditioning activities. Students will develop an in-depth personalized fitness and weight training program. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-971-1",
@@ -137,9 +147,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course reinforces the concepts taught in Strength and Conditioning II to expand upon student's knowledge of exercise physiology and kinesiology. Students in this course will engage in rigorous strength and conditioning activities. Students will develop an in-depth personalized fitness and weight training program. Students may take this course more than once.",
       "prerequisites": "Strength and Conditioning II or Aerobic Conditioning and Weight Training II",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course reinforces the concepts taught in Strength and Conditioning II to expand upon student's knowledge of exercise physiology and kinesiology. Students in this course will engage in rigorous strength and conditioning activities. Students will develop an in-depth personalized fitness and weight training program. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-981-8",
@@ -147,9 +157,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course will allow students with and without disabilities to gain knowledge",
       "prerequisites": "Lifetime Fitness",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course will allow students with and without disabilities to gain knowledge, experience, and skills in recreation sports, leisure activities, team/individual sports, fitness, and dance in a collaborative and cooperative environment. All students will explore leadership characteristics, communication and listening skills, group work, and critical thinking skills in order to provide support in an inclusive environment. Students may take this course more than once."
     },
     {
       "courseNumber": "PE-981-1",
@@ -157,9 +167,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course will allow students with and without disabilities to gain knowledge",
       "prerequisites": "Lifetime Fitness",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course will allow students with and without disabilities to gain knowledge, experience, and skills in recreation sports, leisure activities, team/individual sports, fitness, and dance in a collaborative and cooperative environment. All students will explore leadership characteristics, communication and listening skills, group work, and critical thinking skills in order to provide support in an inclusive environment. Students may take this course more than once."
     }
   ]
 }

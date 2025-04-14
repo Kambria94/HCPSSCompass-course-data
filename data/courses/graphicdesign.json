@@ -1,5 +1,5 @@
 {
-  "name": "GraphicDesign",
+  "name": "graphicDesign",
   "courses": [
     {
       "courseNumber": "CT-715-2",
@@ -7,9 +7,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 2,
-      "description": "This course introduces students to advanced digital publishing techniques used by professional graphic designers. Topics include",
       "prerequisites": "Art I",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course introduces students to advanced digital publishing techniques used by professional graphic designers. Topics include: publication design, digital illustration, digital image editing, videography, typography, printing processes, web design, 2D animation, and advertising. Creative design solutions will be explored through individual and team projects. Students will also be able to demonstrate proficiency in the use of various processes, graphic design, and related software. An emphasis is placed on the development of a professional portfolio. Students are enrolled via equitable, randomization processes. A waitlist is generated if seats are filled. When seats become available, students are randomly enrolled from the waitlist for available seats."
     },
     {
       "courseNumber": "CT-725-3",
@@ -17,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 3,
-      "description": "Students learn advanced level graphic skills and techniques based on successfully completed projects in Graphic Design I - G/T. All students are required to choose real-world problems to research and must complete a portfolio of their work. Graphic Design students have the opportunity to acquire Print ED certification",
       "prerequisites": "Graphic Design I - G/T",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Students learn advanced level graphic skills and techniques based on successfully completed projects in Graphic Design I - G/T. All students are required to choose real-world problems to research and must complete a portfolio of their work. Graphic Design students have the opportunity to acquire Print ED certification, which is a national certification recognized by colleges and the industry. Students who meet specific criteria may participate in a worksite internship related to their career interests or will remain on campus to complete the advanced course curriculum. Students who participate in an internship are required to complete at least 6-8 hours per week at their internship site and must provide their own transportation to the internship site."
     }
   ]
 }

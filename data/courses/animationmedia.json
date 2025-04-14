@@ -1,5 +1,5 @@
 {
-  "name": "AnimationMedia",
+  "name": "animationMedia",
   "courses": [
     {
       "courseNumber": "CT-796-2",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 2,
-      "description": "Students work with industry standard software to simulate 3D environments and apply 3D effects to create realistic still images and animations. Each lesson is a building block for future projects of increasing complexity. As students progress through the course",
       "prerequisites": "Art I",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Students work with industry standard software to simulate 3D environments and apply 3D effects to create realistic still images and animations. Each lesson is a building block for future projects of increasing complexity. As students progress through the course, they will create products that can be integrated into other media types using familiar compositing and editing techniques. Projects will culminate in the production of products from the following areas: broadcast, animated films, visual effects, video games graphics, visualizations, web-based media, mechanical modeling, forensic modeling, and architectural studies. Students are enrolled via equitable randomization processes. A waitlist is generated if seats are filled."
     },
     {
       "courseNumber": "CT-798-3",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 3,
-      "description": "Students learn advanced level animation skills and techniques based on successfully completed Animation I projects. Realism and its application to stylized works are stressed. Cloth",
       "prerequisites": "Animation and Interactive Media I",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Students learn advanced level animation skills and techniques based on successfully completed Animation I projects. Realism and its application to stylized works are stressed. Cloth, collisions, and other physics-based scenarios are explored, as well as character and mechanical rigging, camera techniques, lighting systems, and hair. Cinematic topics discussed may include advanced special effects, video compositing, green screen technology, titles, transitions, audio, and sound effects. Students will continue to build their portfolios. Advanced Animation is conducted entirely on-site at the ARL through projects that are a collection of instructor, student, and industry activities and are designed to create real-world experiences. When seats become available, students are randomly enrolled from the waitlist for available seats."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Music",
+  "name": "music",
   "courses": [
     {
       "courseNumber": "MU-400-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students perform a variety of band literature",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform a variety of band literature, with an emphasis placed on building a foundation of individual and ensemble performance skills. The band may participate in concerts and performance assessments. After-school activities and practices are integral to the course, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 25."
     },
     {
       "courseNumber": "MU-500-1",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students perform band literature representing a variety of styles and historical periods in concerts",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform band literature representing a variety of styles and historical periods in concerts, annual local and state performance assessments, some athletic events, and parades. Emphasis is on both individual and ensemble skill development. After-school activities and rehearsals are integral to the course, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-600-1",
@@ -27,7 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students perform band literature from a variety of styles and historical periods in concerts"
+      "prerequisites": "Audition and director approval",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform band literature from a variety of styles and historical periods in concerts, in performance assessments, athletic events, and parades. The band performs more difficult music than Symphonic/Marching Band (if it is offered). After-school activities and rehearsals are integral to the course and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-800-1",
@@ -35,9 +37,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students perform with and meet the curricular requirements of the Symphonic Winds/Marching. In addition",
       "prerequisites": "Application and audition",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform with and meet the curricular requirements of the Symphonic Winds/Marching. In addition, this course provides a performance-based curriculum for advanced level learners, focusing on the development of expressive and artistic musical experiences through student driven work to learn the language of music. Refining performance skills, while increasing the ability to read new music at sight are critical to this course. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-480-1",
@@ -45,9 +47,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students perform various percussion ensemble and/or band music. The ensemble may perform in concerts",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform various percussion ensemble and/or band music. The ensemble may perform in concerts, local and state performance assessments, athletic events, and parades. Both individual and ensemble skill development are emphasized. After-school activities and rehearsals are integral to the course, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 25."
     },
     {
       "courseNumber": "MU-840-1",
@@ -55,9 +57,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students perform with and meet the curricular requirements of the Percussion Ensemble. In addition",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform with and meet the curricular requirements of the Percussion Ensemble. In addition, this course provides a performance-based curriculum for advanced level learners, focusing on the development of expressive and artistic musical experiences through student driven work to learn the language of music. Refining performance skills, while increasing the ability to read new music at sight are critical to this course. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-580-1",
@@ -65,9 +67,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students perform a variety of traditional and popular jazz",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform a variety of traditional and popular jazz, investigating jazz theory, improvisation, performance techniques, styles, and literature, both individually and in the ensemble. Students may perform in concerts and performance assessments. After-school activities and practices are integral to the course, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 25."
     },
     {
       "courseNumber": "MU-880-1",
@@ -75,9 +77,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students perform with and meet the curricular requirements of Jazz Ensemble. In addition",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform with and meet the curricular requirements of Jazz Ensemble. In addition, this course provides a performance-based curriculum for advanced level learners, focusing on the development of expressive and artistic musical experiences through student driven work to learn the language of music. Refining performance skills, while increasing the ability to read new music at sight are critical to this course. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-680-1",
@@ -85,9 +87,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students perform a variety of music representing various styles and genres in small ensemble experiences. Students may perform in concerts and recitals. After-school activities and practices are integral to the course",
       "prerequisites": "Previous instrumental experience and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform a variety of music representing various styles and genres in small ensemble experiences. Students may perform in concerts and recitals. After-school activities and practices are integral to the course, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 15."
     },
     {
       "courseNumber": "MU-410-1",
@@ -95,9 +97,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students perform a variety of choral literature representing various styles and historical periods",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform a variety of choral literature representing various styles and historical periods, for soprano, alto, tenor, and bass voices. The Chorus may perform in concerts and performance assessments. After-school activities and practices are integral to the course, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 25. All students interested in group singing may participate."
     },
     {
       "courseNumber": "MU-510-1",
@@ -105,9 +107,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students perform choral literature representing various styles and historical periods",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform choral literature representing various styles and historical periods, for soprano, alto, tenor, and bass voices. The Concert Choir may perform in concerts, performance assessments, and community programs. After-school activities and practices are integral to the course, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-810-1",
@@ -115,9 +117,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students perform with and meet the curricular requirements of the Concert Choir. In addition",
       "prerequisites": "Application and audition",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform with and meet the curricular requirements of the Concert Choir. In addition, this course provides a performance-based curriculum for advanced level learners, focusing on the development of expressive and artistic musical experiences through student driven work to learn the language of music. Refining performance skills, while increasing the ability to read new music at sight are critical to this course. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-812-1",
@@ -125,9 +127,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students perform with and meet the curricular requirements of the Vocal Ensemble. In addition",
       "prerequisites": "Application and audition",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Students perform with and meet the curricular requirements of the Vocal Ensemble. In addition, this course provides a performance-based curriculum for advanced level learners, focusing on the development of expressive and artistic musical experiences through student driven work to learn the language of music. Refining performance skills, while increasing the ability to read new music at sight are critical to this course. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-780-1",
@@ -135,9 +137,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students perform choral literature representing a variety of styles and genres in small ensemble experiences. Performances may include concerts",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform choral literature representing a variety of styles and genres in small ensemble experiences. Performances may include concerts, performance assessments, and community programs. After-school activities and practices are integral to the course, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 15."
     },
     {
       "courseNumber": "MU-811-1",
@@ -145,9 +147,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students perform with and meet the curricular requirements of the Vocal Ensemble. In addition",
       "prerequisites": "Application and audition",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform with and meet the curricular requirements of the Vocal Ensemble. In addition, this course provides a performance-based curriculum for advanced level learners, focusing on the development of expressive and artistic musical experiences through student driven work to learn the language of music. Refining performance skills, while increasing the ability to read new music at sight are critical to this course. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-450-1",
@@ -155,9 +157,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students learn basic composition and music production techniques",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students learn basic composition and music production techniques, and apply them using notation software and Digital Audio Workstation software. Students utilize, analyze, describe, assess and discuss various composition and music production techniques and create original compositions and productions. Students also develop multimedia presentations to describe and accompany their own original music, and present those compositions and productions in a classroom or concert situation. Students learn about the beginnings of Music Technology history, and about the technological changes that have created new music genres and cultural behaviors. All students interested in Music Technology may participate."
     },
     {
       "courseNumber": "MU-550-1",
@@ -165,19 +167,19 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students learn advanced composition and music production techniques",
       "prerequisites": "Completion of Music Technology I or teacher approval",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Students learn advanced composition and music production techniques, and apply them using professional level notation software and Digital Audio Workstation software. Emphasis is on complex manipulation and mixing of audio and video stimuli, as well as advanced study of musical presentation techniques. Students compile an on-line portfolio to showcase their composition and production learning and achievements. Students learn about the development of electronic music as a unique art form, and discuss its relevance to modern society."
     },
     {
       "courseNumber": "MU-650-1",
-      "name": "Music Technology III/IV G/T",
+      "name": "Music Technology III/IV G/T: DJing and Live Performance",
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students learn to create performances of electronic music using Digital Audio Workstation and DJing software. Students continue to refine their skills of perception and creation through analysis and assessment of both their own productions and the productions of successful modern-day music artists. Students continue to develop their portfolio of compositions and productions",
-      "prerequisites": "Successful Completion of Music Technology II",
-      "gradeLevel": "10"
+      "prerequisites": "Successful Completion of Music Technology II, or teacher approval",
+      "gradeLevel": "10, 11, 12",
+      "description": "Students learn to create performances of electronic music using Digital Audio Workstation and DJing software. Students continue to refine their skills of perception and creation through analysis and assessment of both their own productions and the productions of successful modern-day music artists. Students continue to develop their portfolio of compositions and productions, and present their completed and refined work in a live concert setting. Students learn about the history of urban, electronic, dance, and hip-hop music and discuss the cultural significance of the changes in music performance and presentation in the Twenty-first Century."
     },
     {
       "courseNumber": "MU-420-1",
@@ -185,9 +187,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students will perform a variety of orchestral literature while developing individual and ensemble skills in concerts",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students will perform a variety of orchestral literature while developing individual and ensemble skills in concerts, performance assessments, and community programs. After-school activities and rehearsals are integral to the course, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-520-1",
@@ -195,9 +197,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students perform orchestral literature from a variety of styles and historical periods in concerts",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform orchestral literature from a variety of styles and historical periods in concerts, performance assessments, and community programs. Emphasis is on skill development, both individual and in the ensemble. After-school activities and rehearsals are integral to the course, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-820-1",
@@ -205,9 +207,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students perform with and meet the curricular requirements of the String Orchestra. In addition",
       "prerequisites": "Application and audition are required",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform with and meet the curricular requirements of the String Orchestra. In addition, this course provides a performance-based curriculum for advanced level learners, focusing on the development of expressive and artistic musical experiences through student driven work to learn the language of music. Refining performance skills, while increasing the ability to read new music at sight are critical to this course. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-430-1",
@@ -215,9 +217,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students develop basic guitar techniques through performing solo and ensemble guitar literature from difficulty levels I and II. Skills emphasized include tuning and proper tone production",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students develop basic guitar techniques through performing solo and ensemble guitar literature from difficulty levels I and II. Skills emphasized include tuning and proper tone production, note reading using traditional notation and guitar tablature, and utilizing current technology to assist in developing basic improvisational and compositional techniques. All students interested in learning guitar may participate."
     },
     {
       "courseNumber": "MU-431-8",
@@ -225,9 +227,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "Students develop basic guitar techniques through performing solo and ensemble guitar literature from difficulty levels I and II. Skills emphasized include tuning and proper tone production",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students develop basic guitar techniques through performing solo and ensemble guitar literature from difficulty levels I and II. Skills emphasized include tuning and proper tone production, note reading using traditional notation and guitar tablature, and utilizing current technology to assist in developing basic improvisational and compositional techniques. All students interested in learning guitar may participate. The semester course does not satisfy the fine arts credit for graduation."
     },
     {
       "courseNumber": "MU-530-1",
@@ -235,8 +237,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students develop intermediate guitar techniques through performing solo and ensemble guitar literature from difficulty levels III and IV. Skills emphasized include identifying and analyzing musical elements and structural characteristics of various styles and genres and utilizing current technology to assist in further development of improvisational and compositional techniques. After-school activities",
-      "prerequisites": "Completion of previous level(s"
+      "prerequisites": "Completion of previous level(s) or teacher approval",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students develop intermediate guitar techniques through performing solo and ensemble guitar literature from difficulty levels III and IV. Skills emphasized include identifying and analyzing musical elements and structural characteristics of various styles and genres and utilizing current technology to assist in further development of improvisational and compositional techniques. After-school activities, such as recitals and performances, may be required, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 5."
     },
     {
       "courseNumber": "MU-830-1",
@@ -244,8 +247,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "Students develop advanced guitar techniques through performing solo and ensemble guitar literature from difficulty levels V and VI. Skills emphasized include performing with alternate tunings and more sophisticated chord progressions and developing advanced improvisational and compositional techniques. After-school activities",
-      "prerequisites": "Completion of previous level(s"
+      "prerequisites": "Completion of previous level(s) or teacher approval",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students develop advanced guitar techniques through performing solo and ensemble guitar literature from difficulty levels V and VI. Skills emphasized include performing with alternate tunings and more sophisticated chord progressions and developing advanced improvisational and compositional techniques. After-school activities, such as recitals and performances, may be required, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 10."
     },
     {
       "courseNumber": "MU-831-1",
@@ -253,9 +257,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students perform with and meet the curricular requirements of Guitar III/IV - Honors. In addition",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform with and meet the curricular requirements of Guitar III/IV - Honors. In addition, this course provides a performance-based curriculum for advanced level learners, focusing on the development of expressive and artistic musical experiences through student driven work to learn the language of music. Refining performance skills, while increasing the ability to read new music at sight are critical to this course. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-470-1",
@@ -263,9 +267,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students develop basic piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels I and II. Skills emphasized include performing with independent parts for right and left hands",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students develop basic piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels I and II. Skills emphasized include performing with independent parts for right and left hands, note reading using traditional notation, and utilizing current technology to assist in developing basic improvisational and compositional techniques. All students interested in learning piano may participate."
     },
     {
       "courseNumber": "MU-471-8",
@@ -273,9 +277,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "Students develop basic piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels I and II. Skills emphasized include performing with independent parts for right and left hands",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students develop basic piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels I and II. Skills emphasized include performing with independent parts for right and left hands, note reading using traditional notation, and utilizing current technology to assist in developing basic improvisational and compositional techniques. All students interested in learning piano may participate. The semester course does not satisfy the fine arts credit for graduation."
     },
     {
       "courseNumber": "MU-570-1",
@@ -283,8 +287,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students develop intermediate piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels III and IV. Skills emphasized include identifying and analyzing musical elements and structural characteristics of various styles and genres and utilizing current technology to assist in further development of improvisational and compositional techniques. After-school activities",
-      "prerequisites": "Completion of previous level(s"
+      "prerequisites": "Completion of previous level(s) or teacher approval",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students develop intermediate piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels III and IV. Skills emphasized include identifying and analyzing musical elements and structural characteristics of various styles and genres and utilizing current technology to assist in further development of improvisational and compositional techniques. After-school activities, such as recitals and performances, may be required, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 5."
     },
     {
       "courseNumber": "MU-870-1",
@@ -292,8 +297,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "Students develop advanced piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels V and VI. Skills emphasized include performing scales and arpeggios in all keys and developing advanced improvisational and compositional techniques. After-school activities",
-      "prerequisites": "Completion of previous level(s"
+      "prerequisites": "Completion of previous level(s) or teacher approval",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students develop advanced piano techniques through performing a variety of piano literature representing various styles and genres from difficulty levels V and VI. Skills emphasized include performing scales and arpeggios in all keys and developing advanced improvisational and compositional techniques. After-school activities, such as recitals and performances, may be required, and grades may reflect such participation. The number of required non-school hour performances and practices during a school year may not exceed 10."
     },
     {
       "courseNumber": "MU-871-1",
@@ -301,9 +307,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "Students perform with and meet the curricular requirements of Piano III/IV - Honors. In addition",
       "prerequisites": "Audition and director approval",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students perform with and meet the curricular requirements of Piano III/IV - Honors. In addition, this course provides a performance-based curriculum for advanced level learners, focusing on the development of expressive and artistic musical experiences through student driven work to learn the language of music. Refining performance skills, while increasing the ability to read new music at sight are critical to this course. The number of required non-school hour performances and practices during a school year may not exceed 40."
     },
     {
       "courseNumber": "MU-460-1",
@@ -311,9 +317,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students learn the basic elements of music and their applications in elementary composition. Aural development is stressed throughout the year through rhythmic and melodic dictation and sight-singing. Music technology will be used as a resource to develop aural and compositional skills. A student with limited experiences in music must receive teacher approval.",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students learn the basic elements of music and their applications in elementary composition. Aural development is stressed throughout the year through rhythmic and melodic dictation and sight-singing. Music technology will be used as a resource to develop aural and compositional skills. A student with limited experiences in music must receive teacher approval."
     },
     {
       "courseNumber": "MU-860-1",
@@ -321,9 +327,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "Students learn more advanced concepts in music theory as well as twentieth-century compositional techniques. Aural development will continue through sight-singing and rhythmic and melodic dictation. Music technology will be used as a resource to develop aural and compositional skills. It is recommended that students in this course take the AP Exam when it is offered in May.",
       "prerequisites": "Music Theory I or teacher approval",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Students learn more advanced concepts in music theory as well as twentieth-century compositional techniques. Aural development will continue through sight-singing and rhythmic and melodic dictation. Music technology will be used as a resource to develop aural and compositional skills. It is recommended that students in this course take the AP Exam when it is offered in May."
     }
   ]
 }

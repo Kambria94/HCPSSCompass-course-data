@@ -1,5 +1,5 @@
 {
-  "name": "SocialStudies",
+  "name": "socialStudies",
   "courses": [
     {
       "courseNumber": "SO-401-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course presents a survey of United States history from 1877 to the present. Students will learn major concepts and themes in United States history",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course presents a survey of United States history from 1877 to the present. Students will learn major concepts and themes in United States history, with a strong emphasis on the reading and interpretation of primary and secondary source documents, and on the application of knowledge through argument and explanatory writing using multiple sources. Students will be exposed to many seminal documents in American history, and will be expected to closely read and analyze complex text. Students will learn skills and content that will help prepare them for future course work and assessments in secondary social studies. This course fulfills the United States history graduation requirement."
     },
     {
       "courseNumber": "SO-402-1",
@@ -17,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course presents a survey of United States history from 1877 to the present. Students will learn major concepts and themes in United States history",
       "prerequisites": "Teacher recommendation",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course presents a survey of United States history from 1877 to the present. Students will learn major concepts and themes in United States history, with a strong emphasis on the reading and interpretation of primary and secondary source documents, and on the application of knowledge through argument and explanatory writing using multiple sources. Students will be exposed to many seminal documents in American history, and will be expected to closely read and analyze complex text. Honors is an enriched course with more challenging expectations than United States History. Students will complete at least one extended historical research investigation. This course requires students to have a commitment to academic pursuits, while demonstrating self-motivation and independence. Students will learn skills and content that will help prepare them for future course work and assessments in secondary social studies. The recommendation of a student's current social studies teacher and consistently high achievement in previous social studies course work is desirable. This course fulfills the United States history graduation requirement."
     },
     {
       "courseNumber": "SO-403-1",
@@ -27,9 +27,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This course presents a survey of United States history from 1877 to the present. Students will learn major concepts and themes in United States history",
       "prerequisites": "Teacher recommendation",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "This course presents a survey of United States history from 1877 to the present. Students will learn major concepts and themes in United States history, with a strong emphasis on the reading and interpretation of primary and secondary source documents, and on the application of knowledge through argument and explanatory writing. Students will be exposed to many seminal documents in American history, and will be expected to closely read and analyze complex text. United States History G/T is an enriched course with more challenging expectations than the honors course, including a historical research paper or participation in National History Day®. This course requires students to have a commitment to academic pursuits, while demonstrating self-motivation and independence. Students will learn skills and content that will help prepare them for future course work and assessments in secondary social studies. The recommendation of a student's current social studies teacher and consistently high achievement in previous social studies course work are desirable. This course fulfills the United States history graduation requirement."
     },
     {
       "courseNumber": "SO-615-1",
@@ -37,9 +37,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course examines United States history through a chronological approach that emphasizes the major themes in the nation's past and the skills of historical thinking. Students are expected to complete at least one major written historical investigation and to participate in several seminar meetings. This course may be taken as an elective or as the United States History graduation requirement. Students electing this course may be given optional summer or pre-course readings. It is recommended that students in this course take the AP Exam when it is offered in May.",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course examines United States history through a chronological approach that emphasizes the major themes in the nation's past and the skills of historical thinking. Students are expected to complete at least one major written historical investigation and to participate in several seminar meetings. This course may be taken as an elective or as the United States History graduation requirement. Students electing this course may be given optional summer or pre-course readings. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "SO-501-1",
@@ -47,7 +47,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course presents a comprehensive study of national"
+      "prerequisites": "None",
+      "gradeLevel": "10, 11, 12",
+      "description": "This course presents a comprehensive study of national, state, and local government. Additional topics of study include law, economics, financial literacy, and current issues. Students will learn and apply content and skills through reading complex primary and secondary source text for comprehension and interpretation, written and oral expression, study skills, problem solving, and critical thinking skills. Students will be expected to closely read and analyze many seminal documents in American history, important Supreme Court cases, laws and statutes, graphs and charts, and news articles and political cartoons. Students will learn skills and content that will help prepare them for future course work and assessments in secondary social studies. This course is recommended for students who have demonstrated a need for skill improvement as indicated by previous social studies coursework. Students will take the American Government Maryland Comprehensive Assessment Program (MCAP) exam which will constitute 20% of the student's final grade for this course."
     },
     {
       "courseNumber": "SO-502-1",
@@ -55,7 +57,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course presents a comprehensive study of national"
+      "prerequisites": "Teacher recommendation",
+      "gradeLevel": "10, 11, 12",
+      "description": "This course presents a comprehensive study of national, state, and local government. Additional topics of study include law, economics, financial literacy, and current issues. Students will learn and apply content and skills through reading complex primary and secondary source text for comprehension and interpretation, written and oral expression, study skills, problem solving, and critical thinking skills. Students will be expected to closely read and analyze many seminal documents in American history, important Supreme Court cases, laws and statutes, graphs and, charts, as well as news articles and political cartoons. American Government Honors is an enriched course with more challenging expectations than American Government. Students will complete at least one research investigation about a historical or current topic in government. This course requires students to have a commitment to academic pursuits, while demonstrating self-motivation and independence. Students will learn skills and content that will help prepare them for future course work and assessments in secondary social studies. The recommendation of a student's current social studies teacher and consistently high achievement in previous social studies course work are desirable. Students will take the American Government Maryland Comprehensive Assessment Program (MCAP) exam which will constitute 20% of the student's final grade for this course."
     },
     {
       "courseNumber": "SO-504-1",
@@ -63,7 +67,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course covers politics and government in the United States. It prepares students for both the HSA and the AP exam. This course provides a college-level"
+      "prerequisites": "None",
+      "gradeLevel": "10, 11, 12",
+      "description": "This course covers politics and government in the United States. It prepares students for both the HSA and the AP exam. This course provides a college-level, nonpartisan introduction to key political concepts, ideas, institutions, roles, and behaviors that characterize the constitutional system and political culture of the United States. Students will study U.S. foundational documents, Supreme Court decisions, and other texts and visuals to gain an understanding of the relationships and interactions among political institutions, processes, and behaviors. Students who take this course AND participate in the AP exam will be exempted from the Maryland Comprehensive Assessment Program (MCAP) end-of-course requirement. Students who do not participate in the AP exam will be required to take the MCAP end-of-course exam before meeting graduation requirements."
     },
     {
       "courseNumber": "SO-600-1",
@@ -71,9 +77,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course is designed to survey the history of the human experience from the late Middle Ages to the present. Students will learn major events",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course is designed to survey the history of the human experience from the late Middle Ages to the present. Students will learn major events, concepts, and themes from the western and non-western traditions. Strong emphasis is placed on the reading and interpretation of primary and secondary source documents, maps, and data, and on the application of knowledge through argument and explanatory writing using multiple sources. Students will be exposed to many seminal documents in world history, and will be expected to closely read and analyze complex text. Students will learn skills and content that will help prepare them for future course work in secondary social studies. This course fulfills the World History graduation requirement."
     },
     {
       "courseNumber": "SO-601-1",
@@ -81,19 +87,19 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course is designed to survey the history of the human experience from the late Middle Ages to the present. Students will learn major events",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course is designed to survey the history of the human experience from the late Middle Ages to the present. Students will learn major events, concepts, and themes from the western and non-western traditions. Strong emphasis is placed on the reading and interpretation of primary and secondary source documents, maps, and data, and on the application of knowledge through argument and explanatory writing using multiple sources. Students will be exposed to many seminal documents in world history, and will be expected to closely read and analyze complex text. Modern World History Honors is an enriched course with more challenging expectations than Modern World History. Students will complete at least one extended historical research investigation. This course requires students to have a commitment to academic pursuits, while demonstrating self-motivation and independence. Students will learn skills and content that will help prepare them for future course work in secondary social studies. This course fulfills the World History graduation requirement."
     },
     {
       "courseNumber": "SO-621-1",
-      "name": "World History",
+      "name": "World History: Modern - AP",
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course covers content from 1200 CE to present. It looks at world history chronologically",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course covers content from 1200 CE to present. It looks at world history chronologically, geographically, and thematically. For instance the course begins with a unit entitled The Global Tapestry that focuses on nation building around the world and then moves into a unit that focuses on networks of exchange and trade routes. The course also incorporates the development and assessment of historical thinking skills, research, and analysis. Students will be asked to read and evaluate lengthy and complex texts, visual sources, and to create and write extended historical arguments relying on relevant and reliable evidence. The course may be taken as an elective or to meet the world history graduation requirement. It is recommended that students in this course take the AP Exam in May."
     },
     {
       "courseNumber": "SO-506-8",
@@ -101,9 +107,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is an in-depth study of the history of the African American experience. Topics include the origin of civilizations in Africa",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is an in-depth study of the history of the African American experience. Topics include the origin of civilizations in Africa, the evolution of and resistance to slavery in the United States, the challenges confronted by African Americans after the Civil War, the Civil Rights and Black Power movements, the progress and problems faced by African Americans in the 20th and 21st centuries, and the contributions and achievements of African Americans and African American culture within the United States."
     },
     {
       "courseNumber": "SO-507-8",
@@ -111,9 +117,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course presents a survey of the human experience from 1000 BCE to 1350 CE. The course will focus on the major intellectual",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course presents a survey of the human experience from 1000 BCE to 1350 CE. The course will focus on the major intellectual, social, political, historical, economic, and geographic themes from both the western and non-western traditions. Major units of study include classical civilizations expanding trade and cultures, and the Medieval Era. This course will NOT fulfill the World History graduation requirement."
     },
     {
       "courseNumber": "SO-603-8",
@@ -121,9 +127,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course provides an opportunity for studying human culture. Cultural anthropology examines mankind's interaction with the environment and covers ancient culture",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course provides an opportunity for studying human culture. Cultural anthropology examines mankind's interaction with the environment and covers ancient culture, problems of cultural change, art, mythology, and language. Students also learn about archeology and archeological methods."
     },
     {
       "courseNumber": "SO-617-8",
@@ -131,7 +137,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This interdisciplinary course is divided into three units"
+      "prerequisites": "None",
+      "gradeLevel": "10, 11, 12",
+      "description": "This interdisciplinary course is divided into three units, one that focuses on the history, literature, philosophy, art, and religions of China, Korea, Japan, Southeast Asia, and India. The second unit is focused on the experiences of people AAPI (Asian American Pacific Islander) descent in the United States. Unit 3 incorporates the knowledge from both of the previous units to evaluate events of the late 20th and early 21st century."
     },
     {
       "courseNumber": "SO-604-1",
@@ -139,7 +147,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "The instructional purpose of this course is to help students gain knowledge of the world's diverse political structures and practices"
+      "prerequisites": "None",
+      "gradeLevel": "11, 12",
+      "description": "The instructional purpose of this course is to help students gain knowledge of the world's diverse political structures and practices, including the study of both specific countries (Great Britain, France, Russia, and China) and general concepts key to understanding relationships found in all national politics. Students electing this course may be given summer or pre-course readings. This course will NOT fulfill the American Government graduation requirement. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "SO-620-8",
@@ -147,9 +157,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "Economics is a semester long course introducing basic economic principles and current economic issues with a focus on the American economy. Students will examine components of the American economy such as price",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Economics is a semester long course introducing basic economic principles and current economic issues with a focus on the American economy. Students will examine components of the American economy such as price, competition, business, and banking institutions. Students will also examine issues related to the economy through employment and labor issues, the role of the government in the economy, and selected topics on global economics."
     },
     {
       "courseNumber": "SO-618-8",
@@ -157,9 +167,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course provides an opportunity for students to apply guidelines and principles of ethics",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course provides an opportunity for students to apply guidelines and principles of ethics, cultural proficiency, and civil discourse to contemporary topics. Students will learn to utilize effective communication skills, empathy, and civility to explore a variety of topics in a culturally diverse society."
     },
     {
       "courseNumber": "SO-605-1",
@@ -167,9 +177,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "The instructional purpose of this course is the study of European civilization from the Renaissance period to present day. Students are expected to complete at least one major written historical investigation and to participate in several seminar meetings. Students electing this course may be given summer or pre-course readings. This course will NOT fulfill the World History graduation requirement. It is recommended that students in this course take the AP Exam when it is offered in May.",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "The instructional purpose of this course is the study of European civilization from the Renaissance period to present day. Students are expected to complete at least one major written historical investigation and to participate in several seminar meetings. Students electing this course may be given summer or pre-course readings. This course will NOT fulfill the World History graduation requirement. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "SO-607-1",
@@ -177,25 +187,49 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This course introduces students to the systematic study of the patterns and processes that have shaped human understanding of Earth's surface",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course introduces students to the systematic study of the patterns and processes that have shaped human understanding of Earth's surface, and how it is used and altered. Students employ spatial concepts and landscape analysis to analyze human social organization and its environmental consequences. They also learn about the methods and tools geographers use in their science and practice. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "SO-404-1",
-      "name": "Humanities I - G/T (Social Studies"
+      "name": "Humanities I - G/T (Social Studies)",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "prerequisites": "Teacher recommendation; Corequisite: Concurrent enrollment in Humanities I G/T (English)",
+      "gradeLevel": "9",
+      "description": "Humanities I integrates the study of United States History or Modern World History with literature of the cultures and time periods. The course is structured around the United States History or World History curriculum and literature which illustrates the various time periods. Because students are concurrently enrolled in Humanities I G/T (English), they receive 2 credits, one for English and one for Social Studies (United States History or Modern World History)."
     },
     {
       "courseNumber": "SO-505-1",
-      "name": "Humanities II/Government and Politics - AP (Social Studies"
+      "name": "Humanities II/Government and Politics - AP (Social Studies) [AP Government and Politics]",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "prerequisites": "Recommendation from G/T English and Social Studies; Corequisite: Concurrent enrollment in Humanities II G/T (English)",
+      "gradeLevel": "10",
+      "description": "This course integrates the study of Advanced Placement Government and Politics with literature that complements the study of government. Students receive credit for Advanced Placement Government and Politics and are recommended to take the AP Exam. Connections between the literature read in this course and the major political concepts of the time are discussed. Because students are concurrently enrolled in Humanities II G/T (English), they receive 2 credits, one for English and one for Social Studies, (American Government). At the end of this course, students must take the High School Assessment for English 10."
     },
     {
       "courseNumber": "SO-616-1",
-      "name": "Humanities III/World History - AP or United States History - AP (Social Studies"
+      "name": "Humanities III/World History - AP or United States History - AP (Social Studies) [AP World History or AP United States History]",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "prerequisites": "Recommendation from G/T English and Social Studies; Corequisite: Concurrent enrollment in Humanities III G/T (English)",
+      "gradeLevel": "11",
+      "description": "This course integrates the study of Advanced Placement World History or Advanced Placement U.S. History with American literature. Students receive credit for Advanced Placement World History or Advanced Placement U.S. History and are recommended to take the AP Exam. Students are also prepared for and are expected to complete a historical research paper and a literary research paper. Because students are concurrently enrolled in Humanities III G/T (English), they receive 2 credits, one for English and one for Social Studies (United States History or World History)."
     },
     {
       "courseNumber": "SO-700-1",
-      "name": "Humanities IV - G/T (Social Studies"
+      "name": "Humanities IV - G/T (Social Studies)",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "prerequisites": "Recommendation from G/T English and Social Studies; Corequisite: Concurrent enrollment in Humanities IV G/T (English)",
+      "gradeLevel": "12",
+      "description": "Humanities IV integrates the study of twentieth century history and literature as well as current issues. To enhance the non-western component of the course, students are required to complete a research paper on an aspect of a developing country. Students in this class are recommended to take the Literature and Composition AP Exam. Because students are concurrently enrolled in Humanities IV G/T (English), they receive 2 credits, one for English and one elective credit for Social Studies."
     },
     {
       "courseNumber": "SO-508-8",
@@ -203,9 +237,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This Latin American Studies course focuses on the historic influences that have led to the evolution of modern Latin America as well as the Latin American and Latinx experience in the United States. Unit 1 identifies the geographic regions of Latin America and traces the social",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This Latin American Studies course focuses on the historic influences that have led to the evolution of modern Latin America as well as the Latin American and Latinx experience in the United States. Unit 1 identifies the geographic regions of Latin America and traces the social, political, economic, and international factors that have contributed to the development of this racially, ethnically, politically, and economically diverse part of the Western Hemisphere. Unit 2 focuses on US intervention in Latin America, and as both an intended and unintended consequence, the migration of Latin Americans to the United States and their experiences in the United States. Unit 3 incorporates the knowledge from both of the previous units to evaluate events of the late 20th and early 21st century."
     },
     {
       "courseNumber": "SO-509-8",
@@ -213,9 +247,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is designed to enable students to explore issues related to law",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is designed to enable students to explore issues related to law, justice, and the American legal system. The following topics are included in this course: introduction to the law and the legal system, criminal law, and the juvenile justice system, torts, consumer law, family law, housing law, and individual rights and liberties."
     },
     {
       "courseNumber": "SO-608-1",
@@ -223,9 +257,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "Students receive in-depth instruction in both microeconomics and macroeconomics. Major areas of study include economic concepts",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Students receive in-depth instruction in both microeconomics and macroeconomics. Major areas of study include economic concepts, product and factor markets, the role of government, management of economic performance, national income and price determination, and international economics and growth. Students electing this course may be given optional summer or pre-course readings provided by the instructor. It is recommended that students in this course take the Microeconomics and Macroeconomics AP Exams when it is offered in May."
     },
     {
       "courseNumber": "SO-609-1",
@@ -233,9 +267,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "Students receive instruction in microeconomics in greater depth and complexity than the combined course listed above. Microeconomics is the study of economics as it relates to the behavior of individuals",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Students receive instruction in microeconomics in greater depth and complexity than the combined course listed above. Microeconomics is the study of economics as it relates to the behavior of individuals, families, and businesses. In addition to learning content required for the AP Exam in microeconomics, students may be expected to participate in academic competitions related to economics. Students electing this course may be given optional summer or pre-course readings provided by the instructor. It is recommended that students in this course take the AP Microeconomics Exam when it is offered in May."
     },
     {
       "courseNumber": "SO-610-1",
@@ -243,9 +277,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "Students receive instruction in macroeconomics in greater depth and complexity than the combined course. Macroeconomics is the study of economics as it relates to entire economic systems. In addition to learning content required for the AP Exam in microeconomics",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Students receive instruction in macroeconomics in greater depth and complexity than the combined course. Macroeconomics is the study of economics as it relates to entire economic systems. In addition to learning content required for the AP Exam in microeconomics, students may be expected to participate in academic competitions related to economics. Students electing this course may be given optional summer or pre-course readings provided by the instructor. It is recommended that students in this course take the AP Macroeconomics Exam when it is offered in May."
     },
     {
       "courseNumber": "SO-512-8",
@@ -253,9 +287,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is organized around the four themes of Native American Studies",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is organized around the four themes of Native American Studies: Sovereignty, Survivance, Settler Colonialism, and Federal Policy. In Unit 1, students will participate in research on the themes and a wide variety of Native American Nations and Cultures. Unit 2 covers the history of Native American experiences from the Proclamation of 1763 through the 1970's, and asks students to apply the themes to events and eras. Unit 3 incorporates the knowledge from both of the previous units to evaluate events and movements of the late 20th and early 21st century."
     },
     {
       "courseNumber": "SO-513-8",
@@ -263,9 +297,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course provides for the study of politics and various political systems throughout the world",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course provides for the study of politics and various political systems throughout the world, with special emphasis given to the United States political experience. This course will NOT fulfill the American Government graduation requirement."
     },
     {
       "courseNumber": "SO-611-8",
@@ -273,9 +307,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course involves the systematic study of individual human behavior and experience. The purpose of this course is to introduce the student to the content",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course involves the systematic study of individual human behavior and experience. The purpose of this course is to introduce the student to the content, terminology, methodology, and application of the discipline. This survey course contains an introduction followed by four units based on the physiological, cognitive, behavioral, and affective domains of psychology. Topics include learning, intelligence, patterns of behavior, growth and development, interpersonal relationships, human sexuality, gender, and social issues."
     },
     {
       "courseNumber": "SO-612-1",
@@ -283,9 +317,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "The instructional purpose of this course is to introduce students to the systematic and scientific study of the behavior and mental processes of human beings and other animals. Students explore the psychological facts",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "The instructional purpose of this course is to introduce students to the systematic and scientific study of the behavior and mental processes of human beings and other animals. Students explore the psychological facts, principles, and phenomena associated with each of the major subfields within psychology. Students electing this course may be given optional summer or pre-course readings. It is recommended that students in this course take the AP Exam when it is offered in May."
     },
     {
       "courseNumber": "SO-613-8",
@@ -293,9 +327,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course examines human behavior in society and institutions",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course examines human behavior in society and institutions, as well as the roles and relationships of individuals and groups. Topics of study include culture, societal norms, roles, socialization, social stratifications, group dynamics, and pertinent social problems."
     },
     {
       "courseNumber": "SO-614-8",
@@ -303,9 +337,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course allows students to develop a general knowledge of world religions with more than 3 million followers",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course allows students to develop a general knowledge of world religions with more than 3 million followers, collaboratively investigate the most common world religions in more depth, and create a compelling question about religion that is of interest to them. Students will conduct an investigation that employs multiple disciplinary tools to answer their question and communicate the results."
     },
     {
       "courseNumber": "SO-619-8",
@@ -313,9 +347,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course provides an opportunity for students to explore the women's movements in the United States through an interdisciplinary lens. Students will consider the foundation and history of the women's movement. Specific topics include socialization and gender stereotypes",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course provides an opportunity for students to explore the women's movements in the United States through an interdisciplinary lens. Students will consider the foundation and history of the women's movement. Specific topics include socialization and gender stereotypes, sexuality, beauty ideals and media representation, the impact of political and economic systems, the international women's movement, and intersectionality."
     },
     {
       "courseNumber": "SO-622-8",
@@ -323,9 +357,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course introduces students to the social science discipline of LGBT Studies through three units of study. The first unit focuses on key themes in LGBT Studies including",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course introduces students to the social science discipline of LGBT Studies through three units of study. The first unit focuses on key themes in LGBT Studies including: defining LGBT and Queer Studies, Gender and Sexual Identity, and Community. It also asks students to determine how presentism impacts LGBT Studies from a variety of perspectives. Unit two focuses on the history of LGBT people in the United States from the colonial era to the present. Unit three shifts to a contemporary and global focus asking students to research and analyze issues and questions that continue to shape LGBT Studies today."
     },
     {
       "courseNumber": "SO-999-1",
@@ -333,9 +367,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Working under the direction of the teacher",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Working under the direction of the teacher, student assistants help distribute, collect, and store the materials of instruction; type and duplicate materials designed by the teacher; provide routine assistance to students during the administration of exercises and tests; and provide occasional tutorial assistance to students under the guidance of the teacher. Only one elective credit can be earned as a student assistant. Credit may only be awarded after the 20th required graduation credit has been recorded. Students do not have access to student grades or personal data."
     }
   ]
 }

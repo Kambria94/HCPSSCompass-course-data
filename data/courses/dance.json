@@ -1,5 +1,5 @@
 {
-  "name": "Dance",
+  "name": "dance",
   "courses": [
     {
       "courseNumber": "DT-400-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this Fine Arts course",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this Fine Arts course, students are introduced to a basic working knowledge of performance concepts that they can apply to all dance forms. Experiences are based on fundamentals of ballet, modern, and jazz dance. This course fulfills the graduation requirement for the Fine Arts elective as it provides instruction in aesthetics, dance history, anatomy, choreographic techniques, and performance components. The number of required non-school hour practices, events, and performances during a school year may not exceed 15."
     },
     {
       "courseNumber": "DT-500-1",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this Fine Arts course students are challenged in sessions of dance technique that use a working knowledge of performance concepts that students will apply to all dance forms. Experiences are based on further developing principles and techniques of ballet",
       "prerequisites": "Dance I",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this Fine Arts course students are challenged in sessions of dance technique that use a working knowledge of performance concepts that students will apply to all dance forms. Experiences are based on further developing principles and techniques of ballet, modern, and jazz dance. This course fulfills the graduation requirement for the Fine Arts elective as it provides instruction in aesthetics, dance history, anatomy, and choreographic techniques. Performance components beyond the regular school day are required. The number of required non-school hour practices, events, and performances during a school year may not exceed 15."
     },
     {
       "courseNumber": "DT-600-1",
@@ -27,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this Fine Arts course",
       "prerequisites": "Dance II",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this Fine Arts course, students are challenged in sessions of dance techniques that use their maximum movement range. Various styles of dancing are explored. Individuality of artistic expression is encouraged through improvisation and composition, using specific choreographic forms. This course fulfills the Fine Arts elective requirement as it provides instruction in aesthetics, dance history, anatomy, and choreographic techniques. Performance components beyond the regular school day are required. The number of required non-school hour practices, events, and performances during a school year may not exceed 15."
     },
     {
       "courseNumber": "DT-700-1",
@@ -37,19 +37,19 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "In this Fine Arts course",
       "prerequisites": "Dance III",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this Fine Arts course, students are challenged in sessions of dance techniques that enhance their maximum movement range. Various styles of dancing are explored. Individuality of artistic expression is encouraged through improvisation and composition, using specific choreographic forms. The majority of the class time will be dedicated to providing opportunities to utilize production components and further develop choreographic skills. Performance components beyond the regular school day are required. The number of required non-school hour practices, events, and performances during a school year may not exceed 20."
     },
     {
       "courseNumber": "DT-711-1",
-      "name": "Dance Seminar",
+      "name": "Dance Seminar: Education and Production - G/T",
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this Fine Arts course",
       "prerequisites": "Application and Director Approval",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "In this Fine Arts course, an emphasis is placed on original creation, portfolio development, independent research, task commitment and special topics related to Dance. The majority of the class time will be dedicated to the creation of a Capstone project in preparation for college and career opportunities. Performance components beyond the regular school day are required. The number of required non-school hour practices, events, and performances during a school year may not exceed 20."
     },
     {
       "courseNumber": "DT-720-1",
@@ -57,9 +57,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this Fine Arts course",
       "prerequisites": "Audition Only",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "In this Fine Arts course, students are accelerated in rigorous sessions of dance techniques that use their maximum movement range. Students will have the opportunity to learn and perform a variety of choreography in order to refine technique and artistic expression. Students will also set solo and group choreography with emphasis on originality and collaboration. Production, performance, and composition are the major components of this performance ensemble. Additionally, students will refine a portfolio that demonstrates originality, quality, and breadth of formal, technical and expressive experiences. Performance components beyond the regular school day are required. The number of required non-school hour practices, events, and performances during a school year may not exceed 30."
     },
     {
       "courseNumber": "DT-730-1",
@@ -67,9 +67,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this Fine Arts course",
       "prerequisites": "Audition Only",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "In this Fine Arts course, students are challenged in rigorous sessions of dance techniques that use their maximum movement range. Students will have the opportunity to learn and perform a variety of choreography in order to develop technique and artistic expression. Students will also create group choreography with emphasis on the creative process, collaboration, and the elements of composition. Production, performance, and composition are the major components of this performance ensemble. Additionally, students will create a portfolio that demonstrates originality, quality, and breadth of formal, technical, and expressive experiences. Performance components beyond the regular school day are required. The number of required non-school hour practices, events, and performances during a school year may not exceed 30."
     },
     {
       "courseNumber": "DT-900-8",
@@ -77,9 +77,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "Dance for Athletes is an elective movement-based course intended to merge cross training and dance. In this course",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Dance for Athletes is an elective movement-based course intended to merge cross training and dance. In this course, the curriculum supports athletes with limited dance experience and non-dancers as they practice dance techniques designed to enhance their overall physical fitness and athletic performance. The conditioning exercises included in the course increase flexibility, strength, coordination, balance, and body control."
     }
   ]
 }

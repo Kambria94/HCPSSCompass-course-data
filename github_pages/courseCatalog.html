@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Catalog - HCPSS Compass</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- React and ReactDOM CDN links -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <!-- Babel for JSX -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .catalog-container {
+            padding: 16px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .back-button {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--primary-blue);
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            padding: 8px 0;
+        }
+        
+        .catalog-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 24px;
+            color: var(--dark-blue);
+        }
+        
+        .dark-mode .catalog-title {
+            color: white;
+        }
+        
+        .category-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 16px;
+        }
+        
+        .category-card {
+            background: white;
+            border-radius: 12px;
+            padding: 16px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .category-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+        
+        .dark-mode .category-card {
+            background: #2d3436;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .category-name {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: var(--primary-blue);
+        }
+        
+        .dark-mode .category-name {
+            color: var(--light-blue);
+        }
+        
+        .course-count {
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+        
+        .dark-mode .course-count {
+            color: #bdc3c7;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 18px;
+            color: #7f8c8d;
+        }
+        
+        .dark-mode .loading {
+            color: #bdc3c7;
+        }
+        
+        .error {
+            color: var(--red);
+            text-align: center;
+            padding: 40px;
+        }
+        
+        /* Course Details Modal */
+        .modal-backdrop {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        
+        .modal-content {
+            background: white;
+            border-radius: 12px;
+            width: 90%;
+            max-width: 800px;
+            max-height: 90vh;
+            overflow-y: auto;
+            padding: 24px;
+            position: relative;
+        }
+        
+        .dark-mode .modal-content {
+            background: #2d3436;
+        }
+        
+        .modal-close {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            background: none;
+            border: none;
+            font-size: 20px;
+            cursor: pointer;
+            color: #7f8c8d;
+        }
+        
+        .course-list {
+            margin-top: 16px;
+        }
+        
+        .course-item {
+            border-bottom: 1px solid #ecf0f1;
+            padding: 16px 0;
+        }
+        
+        .dark-mode .course-item {
+            border-bottom: 1px solid #34495e;
+        }
+        
+        .course-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+        }
+        
+        .course-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--dark-blue);
+        }
+        
+        .dark-mode .course-title {
+            color: white;
+        }
+        
+        .course-number {
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+        
+        .dark-mode .course-number {
+            color: #bdc3c7;
+        }
+        
+        .course-description {
+            margin-top: 8px;
+            font-size: 14px;
+            line-height: 1.5;
+            color: #34495e;
+        }
+        
+        .dark-mode .course-description {
+            color: #ecf0f1;
+        }
+        
+        .course-details {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 8px;
+        }
+        
+        .course-detail {
+            font-size: 12px;
+            padding: 4px 8px;
+            border-radius: 4px;
+            background: #ecf0f1;
+            color: #34495e;
+        }
+        
+        .dark-mode .course-detail {
+            background: #34495e;
+            color: #ecf0f1;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    
+    <script type="text/babel">
+        const { useState, useEffect } = React;
+        
+        // Course Catalog Component
+        function CourseCatalog({ darkMode }) {
+            const [categories, setCategories] = useState([]);
+            const [loading, setLoading] = useState(true);
+            const [error, setError] = useState(null);
+            const [selectedCategory, setSelectedCategory] = useState(null);
+            const [categoryDetails, setCategoryDetails] = useState(null);
+            
+            // Load all categories on mount
+            useEffect(() => {
+                async function fetchCategoryList() {
+                    try {
+                        // Simulate fetching categories list
+                        // In a real implementation, we would have an index.json file
+                        const mockCategories = [
+                            { id: 'accountingbusinessmarketing', name: 'Accounting, Business Management, and Marketing' },
+                            { id: 'advancedresearch', name: 'Advanced Research' },
+                            { id: 'aerospace', name: 'Aerospace' },
+                            { id: 'art', name: 'Art' },
+                            { id: 'computerprgramming', name: 'Computer Programming' },
+                            { id: 'english', name: 'English' },
+                            { id: 'mathematics', name: 'Mathematics' },
+                            { id: 'science', name: 'Science' },
+                            { id: 'socialstudies', name: 'Social Studies' },
+                            { id: 'worldlanguage', name: 'World Languages' }
+                        ];
+                        
+                        setCategories(mockCategories);
+                        setLoading(false);
+                    } catch (err) {
+                        setError('Failed to load course categories');
+                        setLoading(false);
+                    }
+                }
+                
+                fetchCategoryList();
+            }, []);
+            
+            // Load category details when a category is selected
+            useEffect(() => {
+                if (!selectedCategory) return;
+                
+                async function fetchCategoryDetails() {
+                    try {
+                        const response = await fetch(`data/courses/${selectedCategory.id}.json`);
+                        if (!response.ok) {
+                            throw new Error('Failed to load course data');
+                        }
+                        const data = await response.json();
+                        setCategoryDetails(data);
+                    } catch (err) {
+                        setError(`Failed to load details for ${selectedCategory.name}`);
+                    }
+                }
+                
+                fetchCategoryDetails();
+            }, [selectedCategory]);
+            
+            // Handle category selection
+            const handleCategoryClick = (category) => {
+                setSelectedCategory(category);
+            };
+            
+            // Close the modal
+            const closeModal = () => {
+                setSelectedCategory(null);
+                setCategoryDetails(null);
+            };
+            
+            // Go back to home
+            const goBack = () => {
+                window.location.href = 'index.html';
+            };
+            
+            return (
+                <div className="app-container">
+                    {/* Background gradient */}
+                    <div className="bg-gradient"></div>
+                    
+                    {/* Header Banner */}
+                    <div className="header-banner">
+                        <div className="header-content">
+                            <div className="app-title">Course Catalog</div>
+                            <div className="app-subtitle">Explore Academic Opportunities</div>
+                        </div>
+                    </div>
+                    
+                    {/* Main Content */}
+                    <div className="catalog-container">
+                        <button className="back-button" onClick={goBack}>
+                            <i className="fas fa-arrow-left"></i>
+                            Back to Home
+                        </button>
+                        
+                        <h1 className="catalog-title">Course Categories</h1>
+                        
+                        {loading ? (
+                            <div className="loading">
+                                <i className="fas fa-spinner fa-spin"></i> Loading course categories...
+                            </div>
+                        ) : error ? (
+                            <div className="error">{error}</div>
+                        ) : (
+                            <div className="category-list">
+                                {categories.map(category => (
+                                    <div 
+                                        key={category.id} 
+                                        className="category-card"
+                                        onClick={() => handleCategoryClick(category)}
+                                    >
+                                        <div className="category-name">{category.name}</div>
+                                        <div className="course-count">
+                                            <i className="fas fa-book"></i> View Courses
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        )}
+                    </div>
+                    
+                    {/* Category Details Modal */}
+                    {selectedCategory && (
+                        <div className="modal-backdrop" onClick={closeModal}>
+                            <div className="modal-content" onClick={e => e.stopPropagation()}>
+                                <button className="modal-close" onClick={closeModal}>
+                                    <i className="fas fa-times"></i>
+                                </button>
+                                
+                                <h2 className="catalog-title">{selectedCategory.name}</h2>
+                                
+                                {!categoryDetails ? (
+                                    <div className="loading">
+                                        <i className="fas fa-spinner fa-spin"></i> Loading courses...
+                                    </div>
+                                ) : (
+                                    <div className="course-list">
+                                        {categoryDetails.courses.map(course => (
+                                            <div key={course.courseNumber} className="course-item">
+                                                <div className="course-header">
+                                                    <div className="course-title">{course.name}</div>
+                                                    <div className="course-number">{course.courseNumber}</div>
+                                                </div>
+                                                
+                                                <div className="course-description">
+                                                    {course.description}
+                                                </div>
+                                                
+                                                <div className="course-details">
+                                                    {course.courseLevel && (
+                                                        <div className="course-detail">
+                                                            Level: {course.courseLevel}
+                                                        </div>
+                                                    )}
+                                                    
+                                                    <div className="course-detail">
+                                                        Credits: {course.credits}
+                                                    </div>
+                                                    
+                                                    {course.isWeighted && (
+                                                        <div className="course-detail">
+                                                            Weighted
+                                                        </div>
+                                                    )}
+                                                    
+                                                    {course.prerequisites && (
+                                                        <div className="course-detail">
+                                                            Prerequisites: {course.prerequisites}
+                                                        </div>
+                                                    )}
+                                                    
+                                                    {course.gradeLevel && (
+                                                        <div className="course-detail">
+                                                            Grade Level: {course.gradeLevel}
+                                                        </div>
+                                                    )}
+                                                </div>
+                                            </div>
+                                        ))}
+                                    </div>
+                                )}
+                            </div>
+                        </div>
+                    )}
+                </div>
+            );
+        }
+        
+        // App Component
+        function App() {
+            const [darkMode, setDarkMode] = useState(false);
+            
+            // Check system preference for dark mode
+            useEffect(() => {
+                const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+                setDarkMode(prefersDark);
+                
+                // Add listener for changes
+                const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+                const handleChange = (e) => {
+                    setDarkMode(e.matches);
+                };
+                
+                mediaQuery.addEventListener('change', handleChange);
+                
+                return () => {
+                    mediaQuery.removeEventListener('change', handleChange);
+                };
+            }, []);
+            
+            // Apply dark mode class to body
+            useEffect(() => {
+                if (darkMode) {
+                    document.body.classList.add('dark-mode');
+                } else {
+                    document.body.classList.remove('dark-mode');
+                }
+            }, [darkMode]);
+            
+            return (
+                <CourseCatalog darkMode={darkMode} />
+            );
+        }
+        
+        // Render the app
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html> 

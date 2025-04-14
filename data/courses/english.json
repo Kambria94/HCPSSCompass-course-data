@@ -1,5 +1,5 @@
 {
-  "name": "English",
+  "name": "english",
   "courses": [
     {
       "courseNumber": "LA-401-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students read",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "Students read, synthesize, analyze, and respond to complex literary and informational texts that are thematically connected, exploring such themes as Coming of Age and Reflections: Past to Present. The course allows students to build on the eighth grade exposure to Shakespearean drama by studying either a Shakespearean, Greek, or modern play. Additional genres studied include the novel and the autobiography, as well as shorter texts representative of diverse media and formats. Students examine rhetorical devices and author's language as it is used to produce effective arguments and analytical papers. The development of effective speaking and listening skills is an integral part of the course as well as continued instruction in the effective and correct use of language."
     },
     {
       "courseNumber": "LA-400-1",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "English 9 Seminar is an elective course for selected students who are reading no more than two years below grade level. This course supports the students' understanding of skills and concepts taught in the English 9 class by providing students with additional instructional time for explicit instruction in strategic reading",
-      "prerequisites": "Teacher recommendation; Corequisite",
-      "gradeLevel": "9"
+      "prerequisites": "Teacher recommendation; Corequisite: Enrollment in English 9",
+      "gradeLevel": "9",
+      "description": "English 9 Seminar is an elective course for selected students who are reading no more than two years below grade level. This course supports the students' understanding of skills and concepts taught in the English 9 class by providing students with additional instructional time for explicit instruction in strategic reading, writing, vocabulary development, and language skills to ensure academic success in English 9. Instruction is provided in small group settings with a high degree of one-on-one interaction with co-teachers."
     },
     {
       "courseNumber": "LA-402-1",
@@ -27,9 +27,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "Students read",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "Students read, synthesize, analyze, and respond to complex literary and informational texts that are thematically connected, exploring such themes as Coming of Age and Reflections: Past to Present. The course allows students to build on the eighth grade exposure to Shakespearean drama by studying either a Shakespearean, Greek, or modern play. Additional genres studied include the novel and the autobiography as well as shorter texts representative of diverse media and formats. Students examine rhetorical devices and author's language as it is used to produce effective arguments and analytical papers. The development of effective speaking and listening skills is an integral part of the course as well as continued instruction in the effective and correct use of language. English 9 Honors requires students to have a commitment to academic pursuit, while demonstrating self-motivation and independence when addressing the demands of this accelerated course."
     },
     {
       "courseNumber": "LA-403-1",
@@ -37,9 +37,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This class offers an enriched",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9",
+      "description": "This class offers an enriched, differentiated, and accelerated version of English 9. Students in English 9 G/T exhibit strong reading, writing, and oral communication skills. In addition to meeting the requirements for English 9, students also receive preparation for the College Board English Language and Composition AP examination. In this course, students read, synthesize, analyze, and respond to thematically connected complex literary and informational texts. The development of effective speaking and listening skills is an integral part of the course."
     },
     {
       "courseNumber": "LA-501-1",
@@ -47,9 +47,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students explore the actions and reactions of individuals to the world in which they live and construct oral and written analytical responses to diverse text formats that are thematically connected",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10",
+      "description": "Students explore the actions and reactions of individuals to the world in which they live and construct oral and written analytical responses to diverse text formats that are thematically connected, exploring such themes as Hopes and Fears and Individual and Society. Students continue their literary study of the novel and the play, and also examine the genres of the memoir and poetry. Informational texts support the unit themes. As critical readers and writers, students construct explanatory and argument responses to a variety of texts. Opportunities are provided for students to polish their spoken communication."
     },
     {
       "courseNumber": "LA-502-1",
@@ -57,9 +57,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "Students read",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10",
+      "description": "Students read, synthesize, analyze, and respond in written and spoken modes to complex literary and informational texts that are thematically connected. Students study novels, essays, plays, poetry, short stories, art, music, and multimedia texts. English 10 Honors requires students to have a commitment to academic pursuit, while demonstrating self-motivation and independence when addressing the demands of this accelerated course."
     },
     {
       "courseNumber": "LA-503-1",
@@ -67,9 +67,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "In this course",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10",
+      "description": "In this course, students read, synthesize, analyze, and respond in written and spoken modes to thematically connected complex literary and informational texts reflective of diverse media and formats such as novels, essays, plays, poetry, short stories, art, music, and multimedia. This class offers an enriched, differentiated, and accelerated version of English 10. Students in English 10 G/T exhibit strong reading, writing, and oral communication skills. In addition to meeting the requirements for English 10, students also receive preparation for the College Board English Language and Composition AP examination."
     },
     {
       "courseNumber": "LA-500-1",
@@ -77,9 +77,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "High School English Seminar is an elective course for selected students concurrently enrolled in English 10 or English 11. The co-taught delivery model provides opportunities for additional explicit instruction and hands-on experiences for developing critical reading",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11",
+      "description": "High School English Seminar is an elective course for selected students concurrently enrolled in English 10 or English 11. The co-taught delivery model provides opportunities for additional explicit instruction and hands-on experiences for developing critical reading, writing, language, speaking, and listening skills while promoting students' independence when addressing unfamiliar and complex text."
     },
     {
       "courseNumber": "LA-600-8",
@@ -87,9 +87,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is an elective course for students who need additional assistance mastering the standards measured on the MCAP. Class instruction focuses on engaging students in whole class",
       "prerequisites": "English 10",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course is an elective course for students who need additional assistance mastering the standards measured on the MCAP. Class instruction focuses on engaging students in whole class, small group, and one-on-one instruction based upon student needs as determined from data. Student progress will be closely monitored and documented."
     },
     {
       "courseNumber": "LA-601-1",
@@ -97,9 +97,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students explore American literature within the context of the American Dream",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11",
+      "description": "Students explore American literature within the context of the American Dream, beginning with society's dream of religious freedom. Students demonstrate knowledge of eighteenth-, nineteenth- and early-twentieth-century foundational works. Additionally, students analyze an individual character's struggle with the American Dream in the context of confronting social constructs and the ultimate attainment of the American ideal. Students build an awareness and understanding of American literature as a response to the social and political climates of the time. Through analytical study, students make connections between and among eras and writers. Students respond in written and spoken modes to diverse media and formats such as novels, essays, plays, poetry, short stories, art, music, and multimedia."
     },
     {
       "courseNumber": "LA-602-1",
@@ -107,9 +107,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "English 11 Honors requires students to have a commitment to academic pursuit",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11",
+      "description": "English 11 Honors requires students to have a commitment to academic pursuit, while demonstrating self-motivation and independence when addressing the demands of this accelerated course. Students explore American literature within the context of the American Dream, beginning with society's dream of religious freedom. Students demonstrate knowledge of eighteenth-, nineteenth- and early-twentieth-century foundational works. Students read, synthesize, analyze, and respond in written and spoken modes to complex literary and informational texts."
     },
     {
       "courseNumber": "LA-603-1",
@@ -117,9 +117,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This College Board-approved course supports the College Board's AP English Language and Composition Course Description. Students construct expository",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11",
+      "description": "This College Board-approved course supports the College Board's AP English Language and Composition Course Description. Students construct expository, analytical, and argumentative writing assignments that are based on readings representing a wide variety of prose styles and genres. Reading both fiction and nonfiction texts and writing in a variety of rhetorical modes and for a variety of purposes, students in English 11 AP facilitate awareness of their own writing styles to develop their own inner voices."
     },
     {
       "courseNumber": "LA-701-1",
@@ -127,9 +127,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students enhance their critical reading",
       "prerequisites": "None",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Students enhance their critical reading, writing, and thinking skills, analyzing complex works of major world authors, their styles, and their contributions to the literary field and to society as a whole. Students compose explanatory and argumentative responses to diverse media and formats reflective of a variety of eras, genres, and purposes."
     },
     {
       "courseNumber": "LA-702-1",
@@ -137,9 +137,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "English 12 Honors requires students to have a commitment to academic pursuit",
       "prerequisites": "None",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "English 12 Honors requires students to have a commitment to academic pursuit, while demonstrating self-motivation and independence when addressing the demands of this accelerated course. Students study the works of major world authors, their styles, and their contributions to the literary field and to society as a whole. Students compose explanatory and argumentative responses to diverse media and formats reflective of a variety of eras, genres, and purposes. Students read, synthesize, analyze, and respond in written and spoken modes to diverse media and formats such as novels, essays, plays, poetry, short stories, art, music, and multimedia."
     },
     {
       "courseNumber": "LA-703-1",
@@ -147,9 +147,9 @@
       "isWeighted": true,
       "courseLevel": "AP",
       "credits": 1,
-      "description": "This College Board-approved course supports the College Board's AP English Literature and Composition Course Description. This intensive course provides students opportunities to examine closely works by major authors from historical",
       "prerequisites": "None",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "This College Board-approved course supports the College Board's AP English Literature and Composition Course Description. This intensive course provides students opportunities to examine closely works by major authors from historical, thematic, and structural perspectives. Critical reading of selected texts allows students to deepen their understanding of rhetoric, style, and purpose. The text choices draw from a myriad of titles and range from Greek literature to Scandinavian, British, French, and American literature. Writing assignments focus on critical thinking and include exposition, analysis, and argumentation."
     },
     {
       "courseNumber": "LA-800-8",
@@ -157,9 +157,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "Throughout this elective course students write papers in each of the four traditional rhetorical modes of description",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Throughout this elective course students write papers in each of the four traditional rhetorical modes of description, narration, persuasion, and exposition. In addition, students may have opportunities to write creative pieces in four genres: poetry, short fiction, one-act plays, and memoir/creative nonfiction. Analysis of literature, vocabulary development, self-assessment, journaling, and revision are emphasized. This course supplements but does not replace English 11 or English 12."
     },
     {
       "courseNumber": "LA-800-1",
@@ -167,9 +167,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Throughout this elective course students write papers in each of the four traditional rhetorical modes of description",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Throughout this elective course students write papers in each of the four traditional rhetorical modes of description, narration, persuasion, and exposition. In addition, students may have opportunities to write creative pieces in four genres: poetry, short fiction, one-act plays, and memoir/creative nonfiction. Analysis of literature, vocabulary development, self-assessment, journaling, and revision are emphasized. This course supplements but does not replace English 11 or English 12."
     },
     {
       "courseNumber": "LA-810-8",
@@ -177,9 +177,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course exposes students to African American writers and their contributions to the development of American literature. The chronological",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course exposes students to African American writers and their contributions to the development of American literature. The chronological, thematic approach helps to foster an appreciation of African-American writers from the Post-Civil War era to the present. Students will be expected to reflect on their readings both creatively and critically."
     },
     {
       "courseNumber": "LA-810-1",
@@ -187,25 +187,49 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course exposes students to African American writers and their contributions to the development of American literature. The chronological",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course exposes students to African American writers and their contributions to the development of American literature. The chronological, thematic approach helps to foster an appreciation of African-American writers from the Post-Civil War era to the present. Students will be expected to reflect on their readings both creatively and critically."
     },
     {
       "courseNumber": "LA-830-1",
-      "name": "Humanities I - G/T (English"
+      "name": "Humanities I - G/T (English)",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "prerequisites": "Teacher recommendation; Corequisite: Concurrent enrollment in Humanities I G/T (Social Studies)",
+      "gradeLevel": "9",
+      "description": "Humanities I integrates the study of United States History or Modern World History and Cultures with literature of the cultures and time periods. The course is structured around the United States History or World History curriculum and literature which illustrates the various time periods. Because students are concurrently enrolled in Humanities I G/T (Social Studies), they receive two credits, one for English and one for Social Studies, (United States History or Modern World History)."
     },
     {
       "courseNumber": "LA-831-1",
-      "name": "Humanities II - G/T (English"
+      "name": "Humanities II - G/T (English)",
+      "isWeighted": true,
+      "courseLevel": "G/T",
+      "credits": 1,
+      "prerequisites": "Recommendation from G/T English and Social Studies; Corequisite: Concurrent enrollment in Humanities II G/T (Social Studies)",
+      "gradeLevel": "10",
+      "description": "This course integrates the study of Advanced Placement Government and Politics with literature that complements the study of government. Connections between the literature read in this course and the major political concepts of the time are discussed. Because students are concurrently enrolled in Humanities II G/T (Social Studies), they receive two credits, one for English and one for Social Studies (American Government)."
     },
     {
       "courseNumber": "LA-832-1",
-      "name": "Humanities III - AP (English"
+      "name": "Humanities III - AP (English) [AP English Language and Composition]",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "prerequisites": "Recommendation from G/T English and Social Studies; Corequisite: Concurrent enrollment in Humanities III G/T (Social Studies)",
+      "gradeLevel": "11",
+      "description": "This course integrates the study of Advanced Placement World History or Advanced Placement U.S. History with American literature. Students receive credit for Advanced Placement World History or Advanced Placement U.S. History and are recommended to take the Advanced Placement Examination. Students are also prepared for and recommended to take the English Language and Composition AP Exam when it is offered in May. This course requires a historical research paper and a literary research paper. Because students are concurrently enrolled in Humanities III G/T (Social Studies), they receive two credits, one for English and one for Social Studies, (United States History or World History)."
     },
     {
       "courseNumber": "LA-833-1",
-      "name": "Humanities IV - AP (English"
+      "name": "Humanities IV - AP (English) [AP English Literature and Composition]",
+      "isWeighted": true,
+      "courseLevel": "AP",
+      "credits": 1,
+      "prerequisites": "Recommendation from G/T English and Social Studies; Corequisite: Concurrent enrollment in Humanities IV G/T (Social Studies)",
+      "gradeLevel": "12",
+      "description": "Humanities IV integrates the study of twentieth century history and literature as well as current issues. To enhance the non-western component of the course, students are required to complete a research paper on an aspect of a developing country. It is recommended that students in this course take the Literature and Composition AP Exam when it is offered in May. Because students are concurrently enrolled in Humanities IV G/T (Social Studies), they receive two credits, one for English and one elective credit for social studies."
     },
     {
       "courseNumber": "LA-840-1",
@@ -213,9 +237,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Journalism I is an introductory course designed to prepare students for roles on the school newspaper staff. The course strives to make connections between high school and professional journalism while also allowing students to explore and understand the impact their opinions and actions have on their high school",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Journalism I is an introductory course designed to prepare students for roles on the school newspaper staff. The course strives to make connections between high school and professional journalism while also allowing students to explore and understand the impact their opinions and actions have on their high school, community, and world. This course provides students the opportunity to learn how to communicate with a broad spectrum of peers and adults. Journalism I covers the foundation skills needed to succeed in Journalism II, III, and IV by addressing ethics, writing, copy editing, designing, and financing. Through this course, students learn the criteria for newsworthy information while also gaining critical reading and cognitive skills that they can apply to situations beyond the classroom. Some assignments may include tasks outside of class. Level I students may expect to invest 1-2 hours of out-of-class time each week."
     },
     {
       "courseNumber": "LA-841-1",
@@ -223,9 +247,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students learn the practical experience of producing the school newspaper. This experience includes forming a staff",
       "prerequisites": "Journalism I",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Students learn the practical experience of producing the school newspaper. This experience includes forming a staff, an editorial board, and a business organization. Students gain experience with all tasks necessary for desktop publishing, including article writing, editing, layout design, the use of graphics, the use of photography, and paste-up techniques. Some assignments may include tasks outside of class. Level II students may expect to invest 2-3 hours of out-of-class time each week."
     },
     {
       "courseNumber": "LA-842-1",
@@ -233,9 +257,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "Students enrolled in this course refine and enhance journalistic skills introduced in Journalism I and II. Students communicate in a variety of forms for a variety of audiences and purposes. Advanced-level students assume leadership roles and contribute to local and national publications. Some assignments may include tasks outside of class. Level III students may expect to invest approximately 4 hours of out-of-class time each week.",
       "prerequisites": "Journalism II",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Students enrolled in this course refine and enhance journalistic skills introduced in Journalism I and II. Students communicate in a variety of forms for a variety of audiences and purposes. Advanced-level students assume leadership roles and contribute to local and national publications. Some assignments may include tasks outside of class. Level III students may expect to invest approximately 4 hours of out-of-class time each week."
     },
     {
       "courseNumber": "LA-843-1",
@@ -243,9 +267,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "Students refine journalistic skills and assume major responsibilities for the production of the school newspaper. In addition",
       "prerequisites": "Journalism III",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Students refine journalistic skills and assume major responsibilities for the production of the school newspaper. In addition, they assist in the orientation and training of less experienced staff. Advanced-level students assume leadership roles and contribute to local and national publications. Some assignments may include tasks outside of class. Level IV students may expect to invest approximately 4 hours of out-of-class time each week."
     },
     {
       "courseNumber": "LA-860-8",
@@ -253,9 +277,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "The student learns to speak effectively in both formal and informal situations",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "The student learns to speak effectively in both formal and informal situations, develops insight into the structure and purpose of the basic speech process, and appreciates the importance that speech plays in daily living. Skills developed include discussion, group dynamics, audience analysis, speech delivery, listening, and oral interpretation. Students may elect to participate in outside oratory events."
     },
     {
       "courseNumber": "LA-860-1",
@@ -263,9 +287,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "The student learns to speak effectively in both formal and informal situations",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "The student learns to speak effectively in both formal and informal situations, develops insight into the structure and purpose of the basic speech process, and appreciates the importance that speech plays in daily living. Skills developed include discussion, group dynamics, audience analysis, speech delivery, listening, and oral interpretation. Students may elect to participate in outside oratory events."
     },
     {
       "courseNumber": "LA-865-8",
@@ -273,9 +297,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course provides students with the opportunity to polish and refine some of the basic speech skills introduced in Speech Communication I. Experiences with formal debate",
       "prerequisites": "Speech Communication I or consent of instructor",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course provides students with the opportunity to polish and refine some of the basic speech skills introduced in Speech Communication I. Experiences with formal debate, oral interpretation, reader's theatre and interpersonal communication provide the content of the program. Students may elect to participate in outside oratory events."
     },
     {
       "courseNumber": "LA-865-1",
@@ -283,9 +307,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course provides students with the opportunity to polish and refine some of the basic speech skills introduced in Speech Communication I. Experiences with formal debate",
       "prerequisites": "Speech Communication I or consent of instructor",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course provides students with the opportunity to polish and refine some of the basic speech skills introduced in Speech Communication I. Experiences with formal debate, oral interpretation, reader's theatre and interpersonal communication provide the content of the program. Students may elect to participate in outside oratory events."
     },
     {
       "courseNumber": "LA-870-1",
@@ -293,9 +317,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students receive a practical",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students receive a practical, hands-on introduction to yearbook production. Students learn the tasks necessary for writing, designing, and evaluating a yearbook. Units are sequenced to parallel the publication deadlines of the school's yearbook. Students learn the techniques of business operation, advertising, promotion, and management. Students may be expected to produce a literary magazine. Some assignments may include tasks outside of class. Level I students may expect to invest 1-2 hours of out-of-class time each week."
     },
     {
       "courseNumber": "LA-871-1",
@@ -303,9 +327,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students continue practical experiences in publications through the production of a yearbook",
       "prerequisites": "Yearbook I",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "Students continue practical experiences in publications through the production of a yearbook, developing their skills in photography, layout, business operation, advertising, promotion, and management. In addition, students assume greater responsibility for various assignments and tasks related to yearbook production. Some assignments may include tasks outside of class. Level II students may expect to invest 2-3 hours of out-of-class time each week."
     },
     {
       "courseNumber": "LA-872-1",
@@ -313,9 +337,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "Students refine publication skills and assume major management responsibilities for the production of the yearbook. In addition",
       "prerequisites": "Yearbook II",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Students refine publication skills and assume major management responsibilities for the production of the yearbook. In addition, they assist in the orientation and training of less experienced staff. Some assignments may include tasks outside of class time. Level III students may expect to invest approximately 4 hours of out-of-class time each week."
     },
     {
       "courseNumber": "LA-873-1",
@@ -323,9 +347,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "Students polish their publication skills and assume leadership responsibilities for the production of the school yearbook. In addition",
       "prerequisites": "Yearbook III",
-      "gradeLevel": "12"
+      "gradeLevel": "12",
+      "description": "Students polish their publication skills and assume leadership responsibilities for the production of the school yearbook. In addition, they continue to assist in the orientation and training of less experienced staff. Some assignments may include tasks outside of class. Level IV students may expect to invest approximately 4 hours of out-of-class time each week."
     },
     {
       "courseNumber": "LA-999-1",
@@ -333,9 +357,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Working under the direction of the teacher",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "Working under the direction of the teacher, student assistants help distribute, collect, and store the materials of instruction; type and duplicate materials designed by the teacher; provide routine assistance to students during the administration of exercises and tests; and provide occasional tutorial assistance to students under the guidance of the teacher. Only one elective credit can be earned as a student assistant; credit may only be awarded after the 20th required graduation credit has been recorded. Students do not have access to student grades or personal data."
     },
     {
       "courseNumber": "LA-905-1",
@@ -343,9 +367,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students who are marked Below Level in reading and who are two or more years below grade level in reading would be eligible for enrollment in this program. The high school reading specialist and special educator or ELD teacher may co-teach the course. Students are provided with explicit reading instructional support in the areas of vocabulary",
       "prerequisites": "Below Level reading performance and two or more years below grade level in reading",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students who are marked Below Level in reading and who are two or more years below grade level in reading would be eligible for enrollment in this program. The high school reading specialist and special educator or ELD teacher may co-teach the course. Students are provided with explicit reading instructional support in the areas of vocabulary, fluency, and comprehension related to all content areas. Students will be provided reading instruction in phonemic awareness and phonics, as needed. Students are taught in a small group setting using research-based instructional strategies. The goal of the program is to help students become functional readers across all content areas and move toward reading proficiency. Students may continue the program for a second year with the recommendation of the reading specialist."
     },
     {
       "courseNumber": "LA-910-1",
@@ -353,9 +377,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "Students who are marked Below Level in reading and who are two or more years below grade level in reading would be eligible for enrollment in this program. The high school reading specialist and special educator or ELD teacher may co-teach the course. Students are provided with explicit reading instructional support in the areas of vocabulary",
       "prerequisites": "Strategic Reading I and reading specialist recommendation",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "Students who are marked Below Level in reading and who are two or more years below grade level in reading would be eligible for enrollment in this program. The high school reading specialist and special educator or ELD teacher may co-teach the course. Students are provided with explicit reading instructional support in the areas of vocabulary, fluency, and comprehension related to all content areas. Students will be provided reading instruction in phonemic awareness and phonics, as needed. Students are taught in a small group setting using research-based instructional strategies. The goal of the program is to help students become functional readers across all content areas and move toward reading proficiency. Students may continue the program for a second year with the recommendation of the reading specialist."
     }
   ]
 }

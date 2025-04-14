@@ -1,5 +1,5 @@
 {
-  "name": "OtherElective",
+  "name": "otherElectives",
   "courses": [
     {
       "courseNumber": "MC-500-8",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course provides strategy-based instruction designed to improve students' test-taking skills and increase their potential for success on both the PSAT and SAT tests. This course focuses on the teaching and application of proven mathematics and verbal strategies as recommended by the College Board. Students are expected to register and take the SAT upon completing the course.",
-      "prerequisites": "Algebra I and Geometry; Corequisite",
-      "gradeLevel": "10"
+      "prerequisites": "Algebra I and Geometry; Corequisite: Algebra II",
+      "gradeLevel": "10, 11, 12",
+      "description": "This course provides strategy-based instruction designed to improve students' test-taking skills and increase their potential for success on both the PSAT and SAT tests. This course focuses on the teaching and application of proven mathematics and verbal strategies as recommended by the College Board. Students are expected to register and take the SAT upon completing the course."
     },
     {
       "courseNumber": "MC-500-1",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 1,
-      "description": "This course provides strategy-based instruction designed to improve students' test-taking skills and increase their potential for success on both the PSAT and SAT tests. This course focuses on the teaching and application of proven mathematics and verbal strategies as recommended by the College Board. Students are expected to register and take the SAT upon completing the course.",
-      "prerequisites": "Algebra I and Geometry; Corequisite",
-      "gradeLevel": "10"
+      "prerequisites": "Algebra I and Geometry; Corequisite: Algebra II",
+      "gradeLevel": "10, 11, 12",
+      "description": "This course provides strategy-based instruction designed to improve students' test-taking skills and increase their potential for success on both the PSAT and SAT tests. This course focuses on the teaching and application of proven mathematics and verbal strategies as recommended by the College Board. Students are expected to register and take the SAT upon completing the course."
     },
     {
       "courseNumber": "MC-505-8",
@@ -27,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This course is intended to provide students with the skills necessary to be financially literate consumers and citizens. The content includes units on earning income",
       "prerequisites": "Algebra I and Geometry",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This course is intended to provide students with the skills necessary to be financially literate consumers and citizens. The content includes units on earning income, banking, credit and loans, housing, transportation, taxes, tools, budgeting, investments, and retirement."
     },
     {
       "courseNumber": "MC-520-8",
@@ -37,9 +37,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0.5,
-      "description": "This semester course emphasizes the acquisition of leadership skills while engaging in a student service learning experience that meets MSDE requirements. Topics include organizational structure and operational techniques",
       "prerequisites": "None",
-      "gradeLevel": "10"
+      "gradeLevel": "10, 11, 12",
+      "description": "This semester course emphasizes the acquisition of leadership skills while engaging in a student service learning experience that meets MSDE requirements. Topics include organizational structure and operational techniques, application of interpersonal skills, collaborative problem solving, and decision-making. Participation in a student service learning project is required of all students. A Service Learning Validation Form needs to be completed and submitted to school counselor after course completion."
     }
   ]
 }

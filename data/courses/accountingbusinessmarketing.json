@@ -1,5 +1,5 @@
 {
-  "name": "AccountingBusinessMarketing",
+  "name": "accountingBusinessMarketing",
   "courses": [
     {
       "courseNumber": "CT-415-CC",
@@ -7,7 +7,9 @@
       "isWeighted": true,
       "courseLevel": "G/T",
       "credits": 1,
-      "description": "This fast-paced"
+      "prerequisites": "None",
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This fast-paced, college level, dual enrollment course introduces students to topics related to current business practices. Students examine business trends including consumer economics, marketing, finance, international business, business law, and entrepreneurship. It is a required course in the three-course sequence for all three academies. All students will be expected to complete the college level coursework regardless of dual enrollment status and to sit for any applicable certification exam(s)."
     },
     {
       "courseNumber": "CT-420-1",
@@ -15,9 +17,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course provides students with skills necessary to manage and maintain a company's financial resources and use those to make daily operating decisions. Learning experiences are designed to enable students to determine the value of assets",
       "prerequisites": "None",
-      "gradeLevel": "9"
+      "gradeLevel": "9, 10, 11, 12",
+      "description": "This course provides students with skills necessary to manage and maintain a company's financial resources and use those to make daily operating decisions. Learning experiences are designed to enable students to determine the value of assets, liabilities, and owner's equity; to prepare, interpret, and analyze financial statements, and to examine the role of ethics and social responsibility in decision-making."
     },
     {
       "courseNumber": "CT-430-1",
@@ -25,9 +27,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course provides students with knowledge and skills needed for college and career readiness. Topics include",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course provides students with knowledge and skills needed for college and career readiness. Topics include: recording short- and longterm assets, investments, and liabilities, managing inventory, establishing corporations, declaring and paying dividends, analyzing and interpreting financial statements, and evaluating ethical and legal issues. Accounting software and Microsoft Excel are integrated throughout the course."
     },
     {
       "courseNumber": "CT-440-1",
@@ -35,7 +37,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course focuses on the role of business in society"
+      "prerequisites": "None",
+      "gradeLevel": "11, 12",
+      "description": "This course focuses on the role of business in society, the changing nature of contemporary business practices, major management concepts, theories, and theorists, the processes of management (functional, operational, human relations), and business communications. Awareness of ethical issues and application of ethical decision-making models will be reinforced. Students will explore career pathways to be more prepared to meet their career goals."
     },
     {
       "courseNumber": "CT-450-1",
@@ -43,9 +47,9 @@
       "isWeighted": true,
       "courseLevel": "Honors",
       "credits": 1,
-      "description": "This course introduces students to marketing principles including market analysis",
       "prerequisites": "None",
-      "gradeLevel": "11"
+      "gradeLevel": "11, 12",
+      "description": "This course introduces students to marketing principles including market analysis, forecasting, segmenting, product strategy, pricing, distribution, promotion strategy, and international marketing. Experiences will include the investigations and analysis of the marketing strategies of various companies and the development of individual marketing plans."
     }
   ]
 }

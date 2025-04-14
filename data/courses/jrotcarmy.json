@@ -1,5 +1,5 @@
 {
-  "name": "JROTCArmy",
+  "name": "jrotcArmy",
   "courses": [
     {
       "courseNumber": "CT-951-1",
@@ -7,9 +7,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0,
-      "description": "Army JROTC's mission is \\To Motivate Young People to Be Better Citizens.\\ It provides means for cadets to develop citizenship",
       "prerequisites": "None",
-      "gradeLevel": "None"
+      "gradeLevel": "None",
+      "description": "Army JROTC's mission is \\\"To Motivate Young People to Be Better Citizens.\\\" It provides means for cadets to develop citizenship, character, and leadership; communicate effectively; serve their school and community; improve physical fitness; live drug-free; strengthen positive self-motivation and esteem; learn the historical perspective of military service; work as team members and learn to treat others with respect; and graduate and pursue meaningful careers. Students learn basic leadership and military skills. Cadets wear Army provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred."
     },
     {
       "courseNumber": "CT-952-1",
@@ -17,9 +17,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0,
-      "description": "As students progress through the Army JROTC program",
       "prerequisites": "JROTC Army I",
-      "gradeLevel": "None"
+      "gradeLevel": "None",
+      "description": "As students progress through the Army JROTC program, they gain more specific knowledge in the area of intermediate leadership development. Students continue to develop citizenship, character, and leadership; improve physical fitness; and learn financial management. Cadets wear Army provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred."
     },
     {
       "courseNumber": "CT-953-1",
@@ -27,9 +27,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0,
-      "description": "Students continue to build on their leadership skills and knowledge from previous JROTC courses. Advanced leadership development and applied leadership opportunities are emphasized. Students will also gain an appreciation for the contributions of the military to the history of our nation. Cadets wear Army provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred.",
       "prerequisites": "JROTC Army II",
-      "gradeLevel": "None"
+      "gradeLevel": "None",
+      "description": "Students continue to build on their leadership skills and knowledge from previous JROTC courses. Advanced leadership development and applied leadership opportunities are emphasized. Students will also gain an appreciation for the contributions of the military to the history of our nation. Cadets wear Army provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred."
     },
     {
       "courseNumber": "CT-954-1",
@@ -37,9 +37,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0,
-      "description": "Students continue to develop their leadership skills through advanced leadership development and applied leadership opportunities. Students will learn extensive first aid",
       "prerequisites": "JROTC Army III",
-      "gradeLevel": "None"
+      "gradeLevel": "None",
+      "description": "Students continue to develop their leadership skills through advanced leadership development and applied leadership opportunities. Students will learn extensive first aid, improve physical fitness levels, understand financial management, and further their appreciation for military history. Cadets wear Army provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred."
     },
     {
       "courseNumber": "CT-956-1",
@@ -47,9 +47,9 @@
       "isWeighted": false,
       "courseLevel": "Regular",
       "credits": 0,
-      "description": "This course provides advanced leadership opportunities and advanced skill development for students who have completed the JROTC program. Students will continue to develop citizenship",
       "prerequisites": "JROTC Army IV",
-      "gradeLevel": "None"
+      "gradeLevel": "None",
+      "description": "This course provides advanced leadership opportunities and advanced skill development for students who have completed the JROTC program. Students will continue to develop citizenship, character, and leadership while serving in advanced leadership roles. Cadets wear Army provided uniforms one day a week and are provided with all learning materials. No military obligation is incurred."
     }
   ]
 }

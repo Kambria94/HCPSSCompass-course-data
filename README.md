@@ -1,24 +1,34 @@
-# HCPSSCompass Course Data - GitHub Pages
+# HCPSSCompass Course Data
 
-This directory contains the files for the GitHub Pages website that provides access to the HCPSSCompass course data.
+Academic Year: 2023-2024
 
-## Files
+This is the official data repository for HCPSS Compass, containing course information for Howard County Public School System.
 
-- `index.html`: The main landing page for the GitHub Pages site
-  - Displays current academic year
-  - Provides access to course data
-  - Shows repository information
+## Web Application
 
-## Accessing the Data
+Our web application provides an interactive interface to explore course offerings:
 
-The course data can be accessed via:
-- Web Interface: `https://[username].github.io/HCPSSCompass-course-data/`
-- JSON Data: `https://[username].github.io/HCPSSCompass-course-data/data/courses.json`
+- **Home Page**: [https://kambria94.github.io/HCPSSCompass-course-data/](https://kambria94.github.io/HCPSSCompass-course-data/)
+- **Course Catalog**: [https://kambria94.github.io/HCPSSCompass-course-data/courseCatalog.html](https://kambria94.github.io/HCPSSCompass-course-data/courseCatalog.html)
 
-## Development
+## Course Data Access
 
-To modify the GitHub Pages site:
-1. Edit the `index.html` file
-2. Test changes locally
-3. Commit and push changes
-4. GitHub Pages will automatically deploy the updates 
+All course data is available in JSON format:
+
+- Individual course categories are available at `/data/courses/{categoryName}.json`
+- For example: [https://kambria94.github.io/HCPSSCompass-course-data/data/courses/mathematics.json](https://kambria94.github.io/HCPSSCompass-course-data/data/courses/mathematics.json)
+
+## Single Source of Truth
+
+This repository serves as the single source of truth for both the iOS app and website, ensuring consistent course information across all platforms.
+
+## Features
+
+- **Responsive Design**: Works on mobile, tablet, and desktop browsers
+- **Dark Mode Support**: Automatically adapts to your system preferences
+- **Full Course Details**: Access comprehensive information about each course
+- **Interactive Interface**: Easy navigation between course categories
+
+## Updates
+
+Course data is updated annually to reflect the current academic year's course offerings. 

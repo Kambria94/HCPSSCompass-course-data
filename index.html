@@ -3,40 +3,279 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HCPSSCompass Course Data</title>
+    <title>HCPSS Compass - Course Data</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+        
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
+            background: linear-gradient(to bottom right, #ecf0f1, #f5f7fa, #ecf0f1);
+            color: #2c3e50;
             line-height: 1.6;
+            min-height: 100vh;
         }
-        h1 {
-            color: #2c3e50;
-        }
+        
         .container {
-            background-color: #f8f9fa;
-            padding: 20px;
-            border-radius: 8px;
-            margin-top: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
         }
-        .academic-year {
-            font-size: 1.2em;
-            font-weight: bold;
-            color: #2c3e50;
-            margin: 10px 0;
+        
+        .header {
+            background: linear-gradient(to bottom right, #2980b9, #2c3e50);
+            color: white;
+            padding: 60px 0 30px;
+            margin-bottom: 40px;
+            border-radius: 0 0 20px 20px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+        
+        .decorative-circle {
+            position: absolute;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.1);
+            z-index: 1;
+        }
+        
+        .circle-1 {
+            width: 150px;
+            height: 150px;
+            right: 10%;
+            top: 30px;
+        }
+        
+        .circle-2 {
+            width: 100px;
+            height: 100px;
+            left: 20%;
+            bottom: -20px;
+        }
+        
+        .app-section {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+        
+        .section-title {
+            font-size: 24px;
+            color: #2980b9;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .section-title i {
+            margin-right: 12px;
+        }
+        
+        .btn-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 25px 0;
+        }
+        
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 16px;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(to bottom right, #2ecc71, #27ae60);
+            color: white;
+        }
+        
+        .btn-secondary {
+            background: linear-gradient(to bottom right, #3498db, #2980b9);
+            color: white;
+        }
+        
+        .btn-tertiary {
+            background: linear-gradient(to bottom right, #9b59b6, #8e44ad);
+            color: white;
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+        }
+        
+        .data-list {
+            margin: 20px 0;
+        }
+        
+        .data-item {
+            padding: 15px;
+            border-radius: 8px;
+            background: #f8f9fa;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .data-item:hover {
+            background: #eef2f7;
+        }
+        
+        .data-name {
+            font-weight: 600;
+        }
+        
+        .data-link {
+            color: #2980b9;
+            font-size: 14px;
+            text-decoration: none;
+        }
+        
+        .data-link:hover {
+            text-decoration: underline;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+        
+        @media (max-width: 768px) {
+            .btn-row {
+                flex-direction: column;
+            }
+            
+            .header h1 {
+                font-size: 28px;
+            }
+            
+            .header p {
+                font-size: 16px;
+            }
         }
     </style>
 </head>
 <body>
-    <h1>HCPSSCompass Course Data</h1>
-    <div class="container">
-        <div class="academic-year">Academic Year: 2025-2026</div>
-        <p>This is the data source for HCPSSCompass course information. The data is available in JSON format at:</p>
-        <code>/data/courses.json</code>
-        <p>This data serves as the single source of truth for both the iOS app and website.</p>
-        <p>Course data is updated annually to reflect the current academic year's course offerings.</p>
+    <div class="header">
+        <div class="decorative-circle circle-1"></div>
+        <div class="decorative-circle circle-2"></div>
+        <div class="header-content">
+            <h1>HCPSS Compass Course Data</h1>
+            <p>Academic Year: 2025-2026</p>
+        </div>
     </div>
+    
+    <div class="container">
+        <div class="app-section">
+            <h2 class="section-title">
+                <i class="fas fa-globe"></i>
+                Web Application
+            </h2>
+            <p>Our web application provides an interactive interface to explore course offerings:</p>
+            
+            <div class="btn-row">
+                <a href="app.html" class="btn btn-primary">
+                    <i class="fas fa-home"></i>
+                    Interactive Home Page
+                </a>
+                <a href="courseCatalog.html" class="btn btn-secondary">
+                    <i class="fas fa-book"></i>
+                    Course Catalog
+                </a>
+            </div>
+        </div>
+        
+        <div class="app-section">
+            <h2 class="section-title">
+                <i class="fas fa-database"></i>
+                Course Data Access
+            </h2>
+            <p>All course data is available in JSON format for direct access:</p>
+            
+            <div class="data-list">
+                <div class="data-item">
+                    <div class="data-name">Course Categories Index</div>
+                    <a href="data/courses.json" class="data-link">data/courses.json</a>
+                </div>
+                
+                <div class="data-item">
+                    <div class="data-name">Mathematics Courses</div>
+                    <a href="data/courses/mathematics.json" class="data-link">data/courses/mathematics.json</a>
+                </div>
+                
+                <div class="data-item">
+                    <div class="data-name">English Courses</div>
+                    <a href="data/courses/english.json" class="data-link">data/courses/english.json</a>
+                </div>
+                
+                <div class="data-item">
+                    <div class="data-name">Science Courses</div>
+                    <a href="data/courses/science.json" class="data-link">data/courses/science.json</a>
+                </div>
+                
+                <div class="data-item">
+                    <div class="data-name">Social Studies Courses</div>
+                    <a href="data/courses/socialstudies.json" class="data-link">data/courses/socialstudies.json</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="app-section">
+            <h2 class="section-title">
+                <i class="fas fa-info-circle"></i>
+                About
+            </h2>
+            <p>This repository serves as the single source of truth for both the iOS app and website, ensuring consistent course information across all platforms.</p>
+            <p style="margin-top: 15px;">Our features include:</p>
+            <ul style="margin-left: 20px; margin-top: 10px;">
+                <li>Responsive design that works on mobile, tablet, and desktop browsers</li>
+                <li>Dark mode support that automatically adapts to your system preferences</li>
+                <li>Full course details with comprehensive information about each course</li>
+                <li>Interactive interface for easy navigation between course categories</li>
+            </ul>
+        </div>
+    </div>
+    
+    <footer>
+        <p>© 2024 HCPSS Compass. Course data is updated annually to reflect the current academic year's course offerings.</p>
+    </footer>
+    
+    <!-- Save the React app for app.html -->
 </body>
 </html> 

@@ -2,21 +2,52 @@
   "version": "1.0.0",
   "lastUpdated": "2024-04-09",
   "academicYear": "2025-2026",
-  "categories": {
-    "Art": {
+  "description": "This index file provides links to all course category JSON files.",
+  "categories": [
+    {
+      "id": "accountingbusinessmarketing",
+      "name": "Accounting, Business Management, and Marketing",
+      "url": "/data/courses/accountingbusinessmarketing.json"
+    },
+    {
+      "id": "advancedresearch",
+      "name": "Advanced Research",
+      "url": "/data/courses/advancedresearch.json"
+    },
+    {
+      "id": "aerospace",
+      "name": "Aerospace",
+      "url": "/data/courses/aerospace.json"
+    },
+    {
+      "id": "art",
       "name": "Art",
-      "courses": [
-        {
-          "courseNumber": "VA-510-1",
-          "name": "Art II: Developing Ideas in Media - G/T",
-          "isWeighted": true,
-          "courseLevel": "G/T",
-          "credits": 1.0,
-          "description": "This course challenges students to refine their skills in visual arts media exploration and creative problem solving. These problems become increasingly complex and require students to draw upon knowledge of both traditional and contemporary art from diverse cultures.",
-          "prerequisites": "Art I or application and portfolio review",
-          "gradeLevel": "9, 10, 11, 12"
-        }
-      ]
+      "url": "/data/courses/art.json"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "url": "/data/courses/mathematics.json"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "url": "/data/courses/english.json"
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "url": "/data/courses/science.json"
+    },
+    {
+      "id": "socialstudies",
+      "name": "Social Studies",
+      "url": "/data/courses/socialstudies.json"
+    },
+    {
+      "id": "worldlanguage",
+      "name": "World Languages",
+      "url": "/data/courses/worldlanguage.json"
     }
-  }
+  ]
 } 

@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HCPSS Compass - Navigate Your Future</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- React and ReactDOM CDN links -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <!-- Babel for JSX -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div id="root"></div>
+    
+    <script type="text/babel">
+        // HomeView component mirroring the iOS app
+        const { useState, useEffect } = React;
+
+        // Button categories - match the iOS app's categories
+        const ButtonCategory = {
+            INFORMATION: 'information',
+            COURSES: 'courses',
+            PLANNING: 'planning',
+            SUPPORT: 'support'
+        };
+
+        // HomeButtonView component - equivalent to the iOS HomeButtonView
+        function HomeButtonView({ title, icon, category, onClick }) {
+            return (
+                <div className={`home-button ${category}`} onClick={onClick}>
+                    {/* Lighting effect */}
+                    <div className="lighting-effect"></div>
+                    
+                    {/* Decorative circle */}
+                    <div className="button-circle"></div>
+                    
+                    {/* Button content */}
+                    <i className={`home-button-icon fas ${icon}`}></i>
+                    <div className="home-button-title">{title}</div>
+                </div>
+            );
+        }
+
+        // Main HomeView component
+        function HomeView({ darkMode }) {
+            // State for auth status (simplified for demo)
+            const [isAuthenticated, setIsAuthenticated] = useState(false);
+            const [userProfile, setUserProfile] = useState(null);
+
+            // Background circles for decoration
+            const decorativeCircles = [
+                { size: '30vw', color: '#3498db', x: '-20vw', y: '-15vh', blur: '30px' },
+                { size: '40vw', color: '#2ecc71', x: '25vw', y: '25vh', blur: '40px' },
+                { size: '50vw', color: '#9b59b6', x: '-5vw', y: '40vh', blur: '50px' },
+                { size: '60vw', color: '#f1c40f', x: '30vw', y: '-10vh', blur: '60px' },
+                { size: '45vw', color: '#e74c3c', x: '-25vw', y: '10vh', blur: '45px' },
+                { size: '55vw', color: '#34495e', x: '20vw', y: '50vh', blur: '55px' },
+            ];
+            
+            // Simulate profile login
+            const handleProfileClick = () => {
+                if (!isAuthenticated) {
+                    setIsAuthenticated(true);
+                    setUserProfile({ name: 'HCPSS Student' });
+                }
+            };
+            
+            // Go back to landing page
+            const goToLanding = () => {
+                window.location.href = 'index.html';
+            };
+            
+            return (
+                <div className="app-container">
+                    {/* Background gradient */}
+                    <div className="bg-gradient"></div>
+                    
+                    {/* Decorative circles */}
+                    {decorativeCircles.map((circle, index) => (
+                        <div
+                            key={index}
+                            className="decorative-circle"
+                            style={{
+                                width: circle.size,
+                                height: circle.size,
+                                background: `${circle.color}${darkMode ? '20' : '30'}`,
+                                left: circle.x,
+                                top: circle.y,
+                                filter: `blur(${circle.blur})`
+                            }}
+                        ></div>
+                    ))}
+                    
+                    {/* Header Banner */}
+                    <div className="header-banner">
+                        {/* Title */}
+                        <div className="header-content">
+                            <div className="app-title">HCPSS Compass</div>
+                            <div className="app-subtitle">Navigate Your Future</div>
+                        </div>
+                        
+                        {/* Profile button */}
+                        <button className="profile-button" onClick={handleProfileClick}>
+                            {isAuthenticated && userProfile ? (
+                                <>
+                                    <i className="fas fa-user-circle"></i>
+                                    <span>{userProfile.name}</span>
+                                </>
+                            ) : (
+                                <>
+                                    <i className="fas fa-user-plus"></i>
+                                    <span>Sign In</span>
+                                </>
+                            )}
+                        </button>
+                    </div>
+                    
+                    {/* Main Content */}
+                    <div className="main-content">
+                        {/* Educational Resources Section */}
+                        <div className="section">
+                            <div className="section-header">
+                                <div className="section-title">Educational Resources</div>
+                                <div className="section-dot"></div>
+                            </div>
+                            
+                            <div className="grid">
+                                <HomeButtonView
+                                    title="Course Catalog"
+                                    icon="fa-book"
+                                    category={ButtonCategory.COURSES}
+                                    onClick={() => window.location.href = 'courseCatalog.html'}
+                                />
+                                
+                                <HomeButtonView
+                                    title="Career Academies"
+                                    icon="fa-briefcase"
+                                    category={ButtonCategory.COURSES}
+                                    onClick={() => window.location.href = '#career-academies'}
+                                />
+                                
+                                <HomeButtonView
+                                    title="4-Year Plan"
+                                    icon="fa-calendar"
+                                    category={ButtonCategory.PLANNING}
+                                    onClick={() => {
+                                        if (!isAuthenticated) {
+                                            handleProfileClick();
+                                        } else {
+                                            window.location.href = '#four-year-plan';
+                                        }
+                                    }}
+                                />
+                                
+                                <HomeButtonView
+                                    title="Graduation Requirements"
+                                    icon="fa-check-circle"
+                                    category={ButtonCategory.PLANNING}
+                                    onClick={() => window.location.href = '#graduation-requirements'}
+                                />
+                            </div>
+                        </div>
+                        
+                        {/* Planning & Support Section */}
+                        <div className="section">
+                            <div className="section-header">
+                                <div className="section-title">Planning & Support</div>
+                                <div className="section-dot"></div>
+                            </div>
+                            
+                            <div className="grid">
+                                <HomeButtonView
+                                    title="Career Readiness"
+                                    icon="fa-briefcase"
+                                    category={ButtonCategory.INFORMATION}
+                                    onClick={() => window.location.href = '#career-readiness'}
+                                />
+                                
+                                <HomeButtonView
+                                    title="Tutors"
+                                    icon="fa-users"
+                                    category={ButtonCategory.SUPPORT}
+                                    onClick={() => window.location.href = '#tutors'}
+                                />
+                                
+                                <HomeButtonView
+                                    title="General Information"
+                                    icon="fa-info-circle"
+                                    category={ButtonCategory.INFORMATION}
+                                    onClick={() => window.location.href = '#general-info'}
+                                />
+                                
+                                <HomeButtonView
+                                    title="Contact Us"
+                                    icon="fa-envelope"
+                                    category={ButtonCategory.SUPPORT}
+                                    onClick={() => window.location.href = '#contact'}
+                                />
+                            </div>
+                        </div>
+                        
+                        {/* Back to landing page */}
+                        <div style={{ textAlign: 'center', margin: '30px 0' }}>
+                            <button 
+                                onClick={goToLanding}
+                                style={{ 
+                                    background: 'none',
+                                    border: 'none',
+                                    color: '#2980b9',
+                                    cursor: 'pointer',
+                                    fontSize: '14px',
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    margin: '0 auto',
+                                    gap: '5px'
+                                }}
+                            >
+                                <i className="fas fa-arrow-left"></i>
+                                Back to Main Page
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            );
+        }
+
+        // App Component
+        function App() {
+            const [darkMode, setDarkMode] = useState(false);
+            
+            // Check system preference for dark mode
+            useEffect(() => {
+                const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+                setDarkMode(prefersDark);
+                
+                // Add listener for changes
+                const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+                const handleChange = (e) => {
+                    setDarkMode(e.matches);
+                };
+                
+                mediaQuery.addEventListener('change', handleChange);
+                
+                return () => {
+                    mediaQuery.removeEventListener('change', handleChange);
+                };
+            }, []);
+            
+            // Apply dark mode class to body
+            useEffect(() => {
+                if (darkMode) {
+                    document.body.classList.add('dark-mode');
+                } else {
+                    document.body.classList.remove('dark-mode');
+                }
+            }, [darkMode]);
+            
+            return (
+                <HomeView darkMode={darkMode} />
+            );
+        }
+        
+        // Render the app
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html> 
